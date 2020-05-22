@@ -195,7 +195,7 @@ h1, h2{
     }
 // }
 
-.layout-project, .layout-default{
+.layout-project, .layout-default, .layout-team{
     .main{
         background-color:black;
         margin:0px;
@@ -249,6 +249,7 @@ h1, h2{
 
 img.full{
     width:100%;
+    height:auto;
 }
 
 .slideshow{
@@ -375,4 +376,8 @@ img.full{
 
 .contact > #footer{
     margin-top:0px;
+}
+
+.layout-team p{
+    margin-bottom:20px;
 }
