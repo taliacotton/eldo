@@ -1,0 +1,40 @@
+---
+layout: default
+permalink: /contact
+---
+
+<a href="#" id="email">
+    <h2>Info@eldo.us</h2>
+    <h4 id="clickToCopy">Click to copy</h4>
+</a>
+<input type="text" value="info@eldo.us" id="myInput">
+<div class="flex">
+    <img src="assets/img/placeholder1.png">
+    <img src="assets/img/placeholder1.png">
+</div>
+
+<script>
+    document.getElementById("email").onclick = function(e){
+        e.preventDefault();
+        var copyText = document.getElementById("myInput");
+
+        /* Select the text field */
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+        /* Copy the text inside the text field */
+        document.execCommand("copy");
+        document.getElementById("clickToCopy").innerHTML = "Copied!"
+    }
+    // function myFunction() {
+    //     /* Get the text field */
+    //     var copyText = document.getElementById("myInput");
+
+    //     /* Select the text field */
+    //     copyText.select();
+    //     copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+    //     /* Copy the text inside the text field */
+    //     document.execCommand("copy");
+    //     }
+</script>
