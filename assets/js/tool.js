@@ -1,6 +1,6 @@
 // document.querySelectorAll(".project-list li");
 
-let customLink = "http://eldo.us/collection";
+let customLink = "https://eldo2.netlify.app/collection";
 let slugs = [];
 let recipient = "";
 const el = document.getElementById("customLink");
@@ -56,14 +56,14 @@ document.getElementById("customLink").onmouseup = function(e){
 function updateLink(){
     document.getElementById("copied").innerHTML=" Click to Copy";
     document.getElementById("linkContainer").classList.remove("copied");
-    customLink = "localhost:4000/collection?";
+    customLink = "https://eldo2.netlify.app/collection?";
     if (recipient.length > 0){
         customLink += "recipient=" + slugify(recipient) + "&"; 
     }
     for (let s of slugs){
         customLink += "id=" + s + "&"; 
     }
-    if (customLink =="localhost:4000/collection?"){
+    if (customLink =="https://eldo2.netlify.app/collection?"){
         customLink = "";
         document.getElementById("linkContainer").classList.add("empty");
     } else {
