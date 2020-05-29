@@ -10,3 +10,7 @@ document.getElementById("toggle-nav").onclick = function(e){
     e.preventDefault();
     document.getElementById("nav").classList.toggle("open")
 }
+document.getElementById("hamburger").onclick = function(e){
+    e.preventDefault();
+    document.getElementById("nav").classList.toggle("open")
+}
