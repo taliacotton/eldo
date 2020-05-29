@@ -2,12 +2,24 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const recipient = urlParams.get('recipient');
 const projects = urlParams.getAll('id');
-console.log(recipient);
-console.log(projects);
+// console.log(recipient);
+// console.log(projects);
 
 
 document.getElementById("recipient").innerHTML = makeTitle(recipient) + ".";
 document.getElementById("recipient").style.color = "#0afc0a";
+
+for (let link of document.querySelectorAll('.thumbnails a')){
+    if(projects.indexOf(link.id) !== -1) {
+        // does not exist
+        
+        // console.log(projects[link.id]);
+    }
+    else {
+        link.style.display = "none";
+        // does exist
+    }
+}
 
 
 function getParameterByName(name, url) {
@@ -30,7 +42,3 @@ function makeTitle(slug) {
 
   return words.join(' ');
 }
-
-console.log(
-  makeTitle("athlete-profile")
-)
