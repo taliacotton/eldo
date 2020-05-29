@@ -9,6 +9,8 @@ const el = document.getElementById("customLink");
 for (let project of document.querySelectorAll(".project-list li")){
     project.onclick = function(){
         let slug = this.dataset.slug;
+        this.classList.toggle("selected");
+        this.classList.add("just-clicked");
         if (!slugs.includes(slug)){
             slugs.push(slug);
         } else {
@@ -23,6 +25,9 @@ for (let project of document.querySelectorAll(".project-list li")){
         el.focus();
         el.setSelectionRange(el.value.length,el.value.length);
     }
+    project.onmouseleave = function() {
+        this.classList.remove("just-clicked");
+    }
 }
 
 document.getElementById("preparedFor").oninput = function(){
@@ -32,6 +37,7 @@ document.getElementById("preparedFor").oninput = function(){
 
 document.getElementById("customLink").onmouseup = function(e){
         e.preventDefault();
+
         var copyText = document.getElementById("customLink");
 
         /* Select the text field */

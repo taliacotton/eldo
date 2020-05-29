@@ -423,6 +423,7 @@ img.full{
     position:sticky;
     top:0px;
     background:black;
+    z-index:3;
     h4{
         margin-bottom:0px;
         span{
@@ -451,6 +452,16 @@ img.full{
         border-bottom: 5px solid var(--brand-color);
         outline:none;
     }
+}
+
+.selector:after {
+    content: '';
+    position: absolute;
+    width: 1000px;
+    background: black;
+    height: 100%;
+    z-index: -1;
+    left: calc(var(--side-margin)* -1);
 }
 
 #customLink{
@@ -490,9 +501,25 @@ img.full{
         //     color:white;
         // }
     }
-    li:hover{
+    li:hover:before, li.selected:before{
+        content:url('../img/icons/check-white.svg');
+        display:block;
+        position:absolute;
+        left:var(--side-margin);
+        transform:translateX(-150%);
+        width: 23px;
+    }
+    li.selected{
+        color:var(--brand-color);
+    }
+    li.selected:before{
+        content:url('../img/icons/check-green.svg');
+    }
+    li.selected:not(.just-clicked):hover:before{
+        content:url('../img/icons/x-white.svg');
+    }
+    li:not(.just-clicked):hover{
         color:white;
-        
     }
 }
 
@@ -500,7 +527,7 @@ img.full{
     display:none;
 }
 
-@media screen and (min-width:1750px){
+@media screen and (min-width:1850px){
     html{
         font-size:30px;
     }
