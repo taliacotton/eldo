@@ -1,7 +1,7 @@
 ---
 layout: home
 slideshow:
-- cox-communications-distribution-center
-- al-masar-master-plan
----
+- _projects/3435-main.md
+- _projects/300-kansas.md
 
+---
