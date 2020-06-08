@@ -1,0 +1,14 @@
+---
+order:
+- template: project
+  layout: ''
+  title: ''
+  position: 
+  hero_image: ''
+  short-description: ''
+  description: ''
+  architecture: false
+  curatorial: false
+  urban-design: false
+  education: false
+  fabrication: false

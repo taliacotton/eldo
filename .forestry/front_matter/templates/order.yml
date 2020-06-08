@@ -1,13 +1,14 @@
 ---
-type: list
-name: posts-order
 label: Order
-description: Provide ingredients for this recipe
-hidden: false
 hide_body: true
-default:
-- 1 cup water
-config:
-    use_select: false
-    min: 1
-    max:
+fields:
+- name: order
+  type: blocks
+  label: Order
+  template_types:
+  - project
+  config:
+    min: 
+    max: 
+pages:
+- _data/project-order.yaml
