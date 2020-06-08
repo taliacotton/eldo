@@ -1,0 +1,19 @@
+---
+---
+
+label: News Item
+hide_body: true
+display_field: name
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+- type: text
+  name: link
+  label: Link
+- type: text
+  name: publication
+  label: Publication
