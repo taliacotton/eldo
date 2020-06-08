@@ -1,0 +1,31 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: short-description
+  label: short-description
+- type: textarea
+  name: description
+  label: description
+- type: boolean
+  name: architecture
+  label: architecture
+- type: boolean
+  name: curatorial
+  label: curatorial
+- type: boolean
+  name: urban-design
+  label: urban-design
+- type: boolean
+  name: education
+  label: education
+- type: boolean
+  name: fabrication
+  label: fabrication
