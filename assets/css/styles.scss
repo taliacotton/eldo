@@ -374,6 +374,13 @@ img.full{
     a{
         text-decoration:none;
     }
+    .image{
+        width: 100%;
+        padding-top: 70%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom:10px;
+    }
     h4, h5{
         color: var(--brand-color);
         font-weight:400;
