@@ -3,7 +3,10 @@ label: Order
 hide_body: true
 fields:
 - name: order
-  type: include
-  config: {}
-  template: order
+  type: blocks
   label: Order
+  template_types:
+  - project
+  config:
+    min: 
+    max: 
