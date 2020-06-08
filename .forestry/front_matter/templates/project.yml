@@ -34,7 +34,8 @@ fields:
 - name: images
   type: blocks
   label: Images
-  template_types: []
+  template_types:
+  - image
   config:
     min: 
     max: 
