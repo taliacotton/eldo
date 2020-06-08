@@ -1,9 +1,20 @@
 ---
-layout: project
 title: Shelton Marshall Residence
-short-description: An inventive use of topography to create privacy, containment and engagement with the surrounding landscape
-description: "The Shelton Marshall Residence
-        is built into a sloping site in Kansas City’s Westside neighborhood. The house’s U-shaped plan encloses terraced gardens and a sunken entry courtyard. The courtyard allows natural light into each wing of the house and provides natural ventilation to every room. On the house’s west facade, a covered porch hovers off of the limestone bluff twenty feet above street level. It overlooks the Westside tree tops and the steep incline of Madison Avenue. \n\nThe main entrance to the house is from the alleyway, which is roughly level with the rooftop. The roof boasts an even better view than the porch. It will be planted and enclosed by a guardrail. The house was designed for maximum energy efficiency with solar screening, a super-insulated building envelope, in-line water heating, reclaimed lumber siding, and radiant floor heating."
+position: 20
+layout: project
+short-description: An inventive use of topography to create privacy, containment and
+  engagement with the surrounding landscape
+description: "The Shelton Marshall Residence is built into a sloping site in Kansas
+  City’s Westside neighborhood. The house’s U-shaped plan encloses terraced gardens
+  and a sunken entry courtyard. The courtyard allows natural light into each wing
+  of the house and provides natural ventilation to every room. On the house’s west
+  facade, a covered porch hovers off of the limestone bluff twenty feet above street
+  level. It overlooks the Westside tree tops and the steep incline of Madison Avenue.
+  \n\nThe main entrance to the house is from the alleyway, which is roughly level
+  with the rooftop. The roof boasts an even better view than the porch. It will be
+  planted and enclosed by a guardrail. The house was designed for maximum energy efficiency
+  with solar screening, a super-insulated building envelope, in-line water heating,
+  reclaimed lumber siding, and radiant floor heating."
 architecture: true
 curatorial: false
 urban-design: false

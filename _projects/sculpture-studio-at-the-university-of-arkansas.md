@@ -1,23 +1,23 @@
 ---
-layout: project
 title: University of Arkansas – Sculpture Facility
+position: 19
+layout: project
 short-description: A reused pre-engineered structure creates a factory for art.
 description: "__A reused pre-engineered structure creates a factory for art__\n\n*Collaboration
-        with Modus Studio* \n\nThe first building in the emerging Art+Design District
-        at the University of Arkansas sets a highly functional tone, supporting the
-        essential needs of art faculty and students. Situated on a 3.8-acre satellite
-        campus, a former light industrial area south of the main campus, the building
-        is durable and flexible, but also moves beyond a strictly industrial vocabulary
-        drawn from its immediate surroundings. Tall, linear light diffusion panels
-        indicate the location of the primary steel building frames, provide ambient
-        exterior lighting at night along an adjacent recreation trail, and are positioned
-        in locations that don’t compromise valuable interior wall space.\n\nHalf the
-        square footage is housed within an existing pre-engineered building frame,
-        made efficient by introducing a second floor within the volume. New bays to
-        the east and west double the building’s original footprint. The program houses
-        sculpture labs, studios, woodshop, steel shop, mold making/wax studio, advanced
-        technologies lab, foundry, indoor/outdoor work areas, storage lockers, critique
-        space, and voluminous gallery.\n\n"
+  with Modus Studio* \n\nThe first building in the emerging Art+Design District at
+  the University of Arkansas sets a highly functional tone, supporting the essential
+  needs of art faculty and students. Situated on a 3.8-acre satellite campus, a former
+  light industrial area south of the main campus, the building is durable and flexible,
+  but also moves beyond a strictly industrial vocabulary drawn from its immediate
+  surroundings. Tall, linear light diffusion panels indicate the location of the primary
+  steel building frames, provide ambient exterior lighting at night along an adjacent
+  recreation trail, and are positioned in locations that don’t compromise valuable
+  interior wall space.\n\nHalf the square footage is housed within an existing pre-engineered
+  building frame, made efficient by introducing a second floor within the volume.
+  New bays to the east and west double the building’s original footprint. The program
+  houses sculpture labs, studios, woodshop, steel shop, mold making/wax studio, advanced
+  technologies lab, foundry, indoor/outdoor work areas, storage lockers, critique
+  space, and voluminous gallery.\n\n"
 architecture: true
 curatorial: false
 urban-design: false

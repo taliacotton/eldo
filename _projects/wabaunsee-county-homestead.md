@@ -1,18 +1,20 @@
 ---
-layout: project
 title: Wabaunsee County Homestead
-short-description: A respectful addition for another century of living in the Flint Hills.
+position: 25
+layout: project
+short-description: A respectful addition for another century of living in the Flint
+  Hills.
 description: |
-        The Wabaunsee County Homestead sensitively modifies the primary
-        structure of an 1893 homestead for contemporary use, adding a new building
-        that both compliments the character of the historic structure and connects
-        a new interior experience with a profound landscape. The project illustrates
-        the power and continued usefulness of historic structures, extending the value
-        of embodied energy already present in material and craftsmanship. New construction
-        is a combination of locally harvested, repurposed and durable / low maintenance
-        materials. The home is sited within the Tallgrass Prairie in eastern Kansas
-        — one of the most threatened ecosystems on the planet with only 4% remaining
-        — and both celebrates and responsibly engages this context.
+  The Wabaunsee County Homestead sensitively modifies the primary
+  structure of an 1893 homestead for contemporary use, adding a new building
+  that both compliments the character of the historic structure and connects
+  a new interior experience with a profound landscape. The project illustrates
+  the power and continued usefulness of historic structures, extending the value
+  of embodied energy already present in material and craftsmanship. New construction
+  is a combination of locally harvested, repurposed and durable / low maintenance
+  materials. The home is sited within the Tallgrass Prairie in eastern Kansas
+  — one of the most threatened ecosystems on the planet with only 4% remaining
+  — and both celebrates and responsibly engages this context.
 architecture: true
 curatorial: false
 urban-design: false

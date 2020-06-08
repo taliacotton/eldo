@@ -1,5 +1,6 @@
 ---
+permalink: "/education"
 layout: projects
 filter: education
-permalink: /education
 ---
+

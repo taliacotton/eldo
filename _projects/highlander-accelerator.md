@@ -1,8 +1,19 @@
 ---
-layout: project
 title: Highlander Accelerator
+position: 9
+layout: project
 short-description: A city within a building becomes a neighborhood catalyst.
-description: "Located in North Omaha, Nebraska, the Highlander Accelerator answers an aspirational challenge to provide a community accustomed to unremarkable architecture with exceptional design. It is a combination of a complex, dynamic program; a topographically complicated site; a set of contextual issues involving social wrongs embedded in the history of urban planning of American cities; a client who is investing a significant amount of his own capital, effort, credibility and pride into the project, and; a wide array of stakeholders. The Highlander Accelerator is a city within a building. It is a home to the community with front doors on all sides, open to all and approachable in every respect. As part of a master planned community, the Accelerator is a neighborhood catalyst that provides a place for public events, entrepreneurship, urban aquaponics, education, community-building, business incubation and soul food."
+description: Located in North Omaha, Nebraska, the Highlander Accelerator answers
+  an aspirational challenge to provide a community accustomed to unremarkable architecture
+  with exceptional design. It is a combination of a complex, dynamic program; a topographically
+  complicated site; a set of contextual issues involving social wrongs embedded in
+  the history of urban planning of American cities; a client who is investing a significant
+  amount of his own capital, effort, credibility and pride into the project, and;
+  a wide array of stakeholders. The Highlander Accelerator is a city within a building.
+  It is a home to the community with front doors on all sides, open to all and approachable
+  in every respect. As part of a master planned community, the Accelerator is a neighborhood
+  catalyst that provides a place for public events, entrepreneurship, urban aquaponics,
+  education, community-building, business incubation and soul food.
 architecture: true
 curatorial: false
 urban-design: false

@@ -1,18 +1,19 @@
 ---
-layout: project
 title: 300 Kansas
-short-description: A 21st century light manufacturing building for the emerging economies of San Francisco.
+position: 1
+layout: project
+short-description: A 21st century light manufacturing building for the emerging economies
+  of San Francisco.
 description: "__A restrained palette broadcasts the optimism of the Girl Scouts__\n\nCamp
-        Prairie Schooner sits high on the bluffs of the Little Blue River, and with
-        176 wooded acres, the camp feels like wilderness in the heart of Kansas City.
-        In addition to numerous constructed activities, creeks, hills, and a nature
-        trail surround the site. The project encompasses a highly cost-effective and
-        year-round trail center and troop house, bunk rooms, flex rooms, full kitchens,
-        modern restrooms and a shower facility. The design solution links two volumes
-        through a shared mechanical room that efficiently serves both volumes. Standard,
-        off-the-rack scissor trusses give the roof iconic form and inexpensive painted
-        corrugated metal provides the skin. Vibrant endwalls provide way-finding for
-        campers and identify individual troops. "
+  Prairie Schooner sits high on the bluffs of the Little Blue River, and with 176
+  wooded acres, the camp feels like wilderness in the heart of Kansas City. In addition
+  to numerous constructed activities, creeks, hills, and a nature trail surround the
+  site. The project encompasses a highly cost-effective and year-round trail center
+  and troop house, bunk rooms, flex rooms, full kitchens, modern restrooms and a shower
+  facility. The design solution links two volumes through a shared mechanical room
+  that efficiently serves both volumes. Standard, off-the-rack scissor trusses give
+  the roof iconic form and inexpensive painted corrugated metal provides the skin.
+  Vibrant endwalls provide way-finding for campers and identify individual troops. "
 architecture: true
 curatorial: false
 urban-design: false

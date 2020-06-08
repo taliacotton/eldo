@@ -1,15 +1,16 @@
 ---
-layout: project
 title: FLEX Storage Systems
+position: 8
+layout: project
 short-description: A self-storage facility that aims to repair blight.
 description: |
-        __A self-storage facility that aims to repair blight__
+  __A self-storage facility that aims to repair blight__
 
-        In an attempt to capitalize on the potential of a severely blighted commercial corridor in Topeka, Kansas, the owner of an inherited post-war strip center hired EL DORADO to redevelop the site into a two phase self storage facility. A flexible building system was developed that has the unique ability to adapt to commercial or retail uses with minimal additional construction, should the economy of the region improve.
+  In an attempt to capitalize on the potential of a severely blighted commercial corridor in Topeka, Kansas, the owner of an inherited post-war strip center hired EL DORADO to redevelop the site into a two phase self storage facility. A flexible building system was developed that has the unique ability to adapt to commercial or retail uses with minimal additional construction, should the economy of the region improve.
 
-        The project is forward thinking in its ability to adapt tried and true industry rules for successful self storage facilities while providing a sensible redevelopment strategy for alternate future functions.
+  The project is forward thinking in its ability to adapt tried and true industry rules for successful self storage facilities while providing a sensible redevelopment strategy for alternate future functions.
 
-        One of the largest accomplishments of this project was the creation of “FLEX” zoning designation that allows the project to seamlessly upgrade over time from storage to commercial to retail uses as the market allows, all without the need to return to the city for rezoning.
+  One of the largest accomplishments of this project was the creation of “FLEX” zoning designation that allows the project to seamlessly upgrade over time from storage to commercial to retail uses as the market allows, all without the need to return to the city for rezoning.
 architecture: true
 curatorial: false
 urban-design: false

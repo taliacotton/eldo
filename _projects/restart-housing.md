@@ -1,31 +1,30 @@
 ---
-layout: project
 title: ReStart Housing
+position: 18
+layout: project
 short-description: reStart housing promotes the holistic development of young adults
-        aging out of foster care, specifically those with mental-health diagnoses,
-        in a dignified and supportive environment.
-description: "Over 800 individuals age out
-        of foster care each year within Jackson County, Missouri. Good quality housing
-        is critical to allow young persons who haven’t had stable homes throughout
-        their formative years to start their adult life on the right foot. The reStart
-        Housing development in the Waldo neighborhood of Kansas City provides permanent
-        housing and support services for these young adults aging out of foster care,
-        specifically those with mental health diagnoses. The project, housing 14 one-bedroom
-        apartments, helps them move toward independence and self-sufficiency, preemptively
-        preventing homelessness before it begins. \n\nThe reStart apartments promote
-        a strong sense of community for their residents. The building’s plan and section
-        unfold as a series of intimate, open-air courtyards filled with sunlight that
-        bring natural light deep into the center of the complex and allow cross-breeze
-        ventilation into each of the dwellings. Each apartment was designed as a series
-        of spaces providing varying levels of privacy or opportunities for social
-        interaction, from bedroom to living room to the front porch area in the open
-        air courtyard. Integration into a vital neighborhood was central to the project.
-        A separate community building is attached to the main residential building
-        by a common roof.\n\nThe reStart Housing development is the result of more
-        than five years of research, design, community engagement and governmental
-        cooperation. The project represents an apartment complex that promotes the
-        holistic development of young adults, creating an avenue for each resident
-        to join our communities with support and dignity."
+  aging out of foster care, specifically those with mental-health diagnoses, in a
+  dignified and supportive environment.
+description: "Over 800 individuals age out of foster care each year within Jackson
+  County, Missouri. Good quality housing is critical to allow young persons who haven’t
+  had stable homes throughout their formative years to start their adult life on the
+  right foot. The reStart Housing development in the Waldo neighborhood of Kansas
+  City provides permanent housing and support services for these young adults aging
+  out of foster care, specifically those with mental health diagnoses. The project,
+  housing 14 one-bedroom apartments, helps them move toward independence and self-sufficiency,
+  preemptively preventing homelessness before it begins. \n\nThe reStart apartments
+  promote a strong sense of community for their residents. The building’s plan and
+  section unfold as a series of intimate, open-air courtyards filled with sunlight
+  that bring natural light deep into the center of the complex and allow cross-breeze
+  ventilation into each of the dwellings. Each apartment was designed as a series
+  of spaces providing varying levels of privacy or opportunities for social interaction,
+  from bedroom to living room to the front porch area in the open air courtyard. Integration
+  into a vital neighborhood was central to the project. A separate community building
+  is attached to the main residential building by a common roof.\n\nThe reStart Housing
+  development is the result of more than five years of research, design, community
+  engagement and governmental cooperation. The project represents an apartment complex
+  that promotes the holistic development of young adults, creating an avenue for each
+  resident to join our communities with support and dignity."
 architecture: true
 curatorial: false
 urban-design: false
