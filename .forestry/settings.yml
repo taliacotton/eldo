@@ -19,7 +19,7 @@ sections:
   templates:
   - team-member
 - type: directory
-  path: _news
+  path: _data/news.yaml
   label: News
   create: documents
   match: "**/*"
