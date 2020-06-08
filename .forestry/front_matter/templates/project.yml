@@ -10,6 +10,16 @@ fields:
 - type: text
   name: title
   label: Title
+- name: position
+  type: number
+  description: ''
+  default: 
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Order
 - type: text
   name: short-description
   label: Short Description
