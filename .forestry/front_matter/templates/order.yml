@@ -1,4 +1,9 @@
 ---
 label: Order
 hide_body: true
-fields: []
+fields:
+- name: order
+  type: include
+  config: {}
+  template: order
+  label: Order
