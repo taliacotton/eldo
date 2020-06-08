@@ -31,6 +31,13 @@ fields:
 - type: textarea
   name: description
   label: Description
+- name: images
+  type: blocks
+  label: Images
+  template_types: []
+  config:
+    min: 
+    max: 
 - type: boolean
   name: architecture
   label: Architecture
