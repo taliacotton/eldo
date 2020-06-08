@@ -7,7 +7,6 @@ sections:
 - type: document
   path: index.md
   label: Homepage Slideshow
-  match: "**/*"
 - type: document
   path: _data/project-order.yaml
   label: Order
