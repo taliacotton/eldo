@@ -6,7 +6,7 @@
         <div>
             <h2>
             {{page.name}}<br>
-            {{page.title}}
+            {{page.role}}
             </h2>
             <p>{{ content }}</p>
         </div>
@@ -15,18 +15,12 @@
 
     <h2>Relevant Projects</h2>
     <div class="thumbnails flex">
-        <a href="/university-of-arkansas" style="background-image:url('http://images.ctfassets.net/7ceafwpo4r5g/11HNTFJrQVqWtxnddsLZDo/4e7be4ff99de4225a70d430c907df089/300Kansas-02.jpg?fm=jpg&fl=progressive&w=2440')">
-            <div><span>Volland General Store</span></div>
-        </a>
-        <a href="/university-of-arkansas" style="background-image:url('http://images.ctfassets.net/7ceafwpo4r5g/35O4iOqcbAjTkZSdrQfztx/8f5b6733016fedbeb30d51a5fb09201f/3435_1.jpg?w=800&fm=jpg&fl=progressive')">
-            <div><span>Shelton Marshall Residence</span></div>
-        </a>
-        <a href="/university-of-arkansas" style="background-image:url('http://images.ctfassets.net/7ceafwpo4r5g/5MMfpZ29cKZrr7JgNyEWoj/98b093d37cfaf5b5f3c486b910954237/diagrams.jpg?w=800&fm=jpg&fl=progressive')">
-            <div><span>Kansas State University Architecture, Planning & Urban Design–Regnier Hall Fab Lab Expansion</span></div>
-        </a>
-        <a href="/university-of-arkansas" style="background-image:url('http://images.ctfassets.net/7ceafwpo4r5g/11HNTFJrQVqWtxnddsLZDo/4e7be4ff99de4225a70d430c907df089/300Kansas-02.jpg?fm=jpg&fl=progressive&w=2440')">
-            <div><span>Volland General Store</span></div>
-        </a>
+        {% for list_item in page.related_projects %}
+        {% assign related_project = site.projects | where: "path", list_item | first %}
+            <a href="{{related_project.url}}" style="background-image:url('{{related_project.hero_image}}')">
+                <div><span>{{related_project.title}}</span></div>
+            </a>
+        {% endfor %}
     </div>
 
 </div>
