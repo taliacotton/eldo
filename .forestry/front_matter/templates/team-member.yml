@@ -21,3 +21,13 @@ fields:
   type: boolean
   label: Featured/Principal
   description: Only two entries can take this value
+- name: related_projects
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 4
+    source:
+      type: pages
+      section: projects
+  label: Related Projects
