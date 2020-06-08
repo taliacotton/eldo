@@ -44,62 +44,12 @@
 <div class="section news">
     <h2>News</h2>
     <ul>
-        <li><a href="#" target="_blank">
-                <p>Waldo site set for redevelopment and new retail, service and office tenants</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
+        {% for news_item in site.data.news %}
+        <li><a href="{{news_item.link}}" target="_blank">
+                <p>{{news_item.title}}</p>
+                <p class="sm">{{news_item.publication}}<br>{{news_item.date}}</p>
         </a></li>
-        <li><a href="#" target="_blank">
-                <p>2018 Capstone Winners</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>Waldo site set for redevelopment and new retail, service and office tenants</p>
-                <p class="sm">Kansas City Biz Journal<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>Three Local Projects Win 2017 Residential Design Awards</p>
-                <p class="sm">Midcoast Design Record<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>Waldo site set for redevelopment and new retail, service and office tenants</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>2018 Capstone Winners</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>Waldo site set for redevelopment and new retail, service and office tenants</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>2018 Capstone Winners</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>Waldo site set for redevelopment and new retail, service and office tenants</p>
-                <p class="sm">Kansas City Biz Journal<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>Three Local Projects Win 2017 Residential Design Awards</p>
-                <p class="sm">Midcoast Design Record<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>Waldo site set for redevelopment and new retail, service and office tenants</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>2018 Capstone Winners</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>Waldo site set for redevelopment and new retail, service and office tenants</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
-        <li><a href="#" target="_blank">
-                <p>2018 Capstone Winners</p>
-                <p class="sm">Kansas City Star<br>January 11, 2018</p>
-        </a></li>
+        {% endfor %}
     </ul>
 </div>
 
