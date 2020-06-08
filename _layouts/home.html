@@ -2,12 +2,15 @@
 {% include nav.html %}
 <div class="main">
     <div class="slideshow">
-        <a href="#">
-            <div class="slideshow-img" style="background-image:url(/assets/img/placeholder1.png)">
-                University of Arkansas — <br>Sculpture Facility
-            </div>
-        </a>
-        <a href="#">
+        {% for slideshow_item in page.slideshow %}
+        {% assign related_project = site.projects | where: "path", slideshow_item | first %}
+            <a href="#">
+                <div class="slideshow-img" style="background-image:url({{related_project.hero_image}})">
+                    {{related_project.title}}
+                </div>
+            </a>
+        {% endfor %}
+        <!-- <a href="#">
             <div class="slideshow-img" style="background-image:url(http://images.ctfassets.net/7ceafwpo4r5g/35O4iOqcbAjTkZSdrQfztx/8f5b6733016fedbeb30d51a5fb09201f/3435_1.jpg?w=800&fm=jpg&fl=progressive)">
                 Shelton Marshall Residence
             </div>
@@ -16,7 +19,7 @@
             <div class="slideshow-img" style="background-image:url(http://images.ctfassets.net/7ceafwpo4r5g/5MMfpZ29cKZrr7JgNyEWoj/98b093d37cfaf5b5f3c486b910954237/diagrams.jpg?w=800&fm=jpg&fl=progressive)">
                 Kansas State University Architecture
             </div>
-        </a>
+        </a> -->
     </div>
 </div>
 <script src="{{site.url}}/assets/js/nav.js" async defer></script>
