@@ -1,6 +1,6 @@
 ---
 label: Project
-hide_body: true
+hide_body: false
 display_field: title
 fields:
 - type: text
@@ -9,25 +9,25 @@ fields:
   hidden: true
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: short-description
-  label: short-description
+  label: Short Description
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: boolean
   name: architecture
-  label: architecture
+  label: Architecture
 - type: boolean
   name: curatorial
-  label: curatorial
+  label: Curatorial
 - type: boolean
   name: urban-design
-  label: urban-design
+  label: Urban Design
 - type: boolean
   name: education
-  label: education
+  label: Education
 - type: boolean
   name: fabrication
-  label: fabrication
+  label: Fabrication
