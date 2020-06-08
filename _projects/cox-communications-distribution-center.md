@@ -1,8 +1,17 @@
 ---
-layout: project
 title: Cox Communications Distribution Center
+position: 6
+layout: project
 short-description: A sustainable warehouse that directly expresses utility.
-description: This warehouse and distribution center requested a striking visual presence along with cost efficiency. The project’s pre-engineered metal building system is specifically calibrated to the site, program, and environmental footprint. A soaring cantilever provides shelter for loading and unloading and protects the building’s metal skin from the southern sun. Low, horizontal vents along the longitudinal north and south facades provide high-pressure intake for a passive convective cooling system. Finally, a clerestory window running the length of the building allows the roof plane to “float” above the wall plane, generating natural interior lighting during the day and indirect exterior lighting at night.
+description: This warehouse and distribution center requested a striking visual presence
+  along with cost efficiency. The project’s pre-engineered metal building system is
+  specifically calibrated to the site, program, and environmental footprint. A soaring
+  cantilever provides shelter for loading and unloading and protects the building’s
+  metal skin from the southern sun. Low, horizontal vents along the longitudinal north
+  and south facades provide high-pressure intake for a passive convective cooling
+  system. Finally, a clerestory window running the length of the building allows the
+  roof plane to “float” above the wall plane, generating natural interior lighting
+  during the day and indirect exterior lighting at night.
 architecture: true
 curatorial: false
 urban-design: false

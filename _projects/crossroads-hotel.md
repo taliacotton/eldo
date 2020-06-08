@@ -1,8 +1,20 @@
 ---
-layout: project
 title: Crossroads Hotel
+position: 7
+layout: project
 short-description: Reuse, Re-Imagine & Refresh!
-description: "The Crossroads Hotel is a historic renovation of a former Pabst brewery warehouse and early 20th century political boss Tom Pendergast’s office into a 131-room boutique hotel. In order to allow a 100’ square storage floor plate to serve a new hospitality function, a new four-story atrium was carved out of the center of the building, revealing layers of additive architectural history while bringing soft northern light deep within the building. In a nod to the maker origins of the Crossroads Arts District, the architect designed and fabricated custom steel doors in each guest room and is also curating an artist engagement platform which includes an artist-in-residency hosted by a 2,000 square foot public gallery and studio space. The program draws from and will give life back to its surrounding arts district through exhibitions, artist commissions, performances, and unexpected artist-driven experiences that will enliven the hotel."
+description: The Crossroads Hotel is a historic renovation of a former Pabst brewery
+  warehouse and early 20th century political boss Tom Pendergast’s office into a 131-room
+  boutique hotel. In order to allow a 100’ square storage floor plate to serve a new
+  hospitality function, a new four-story atrium was carved out of the center of the
+  building, revealing layers of additive architectural history while bringing soft
+  northern light deep within the building. In a nod to the maker origins of the Crossroads
+  Arts District, the architect designed and fabricated custom steel doors in each
+  guest room and is also curating an artist engagement platform which includes an
+  artist-in-residency hosted by a 2,000 square foot public gallery and studio space.
+  The program draws from and will give life back to its surrounding arts district
+  through exhibitions, artist commissions, performances, and unexpected artist-driven
+  experiences that will enliven the hotel.
 architecture: true
 curatorial: false
 urban-design: false

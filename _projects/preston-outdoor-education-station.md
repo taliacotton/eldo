@@ -1,8 +1,19 @@
 ---
-layout: project
 title: Preston Outdoor Education Station
-short-description: Engaging real challenges of architectural education in North America’s most threatened landscape.
-description: "YMCA’s Camp Wood commissioned this educationstation for North America’s most endangered landscape: the native Tallgrass Prairie. Requirements were: 1) it must survive annual prairie burns, and 2) the intervention must recede into the landscape. During the fall, the studio researched the complexities of the site, and in the spring, produced drawings, prototypes, pricing information, and the project itself. What began as a simple shade structure evolved into a flexible platform that connects campers to the expansive landscape. \n\nEach station engages the environment through locally-sourced materials and focuses on essential elements of the prairie — insects, wind, stone, grass, and sky. The stations are connected by a path anchored by a 300 linear foot, dry stacked limestone wall."
+position: 17
+layout: project
+short-description: Engaging real challenges of architectural education in North America’s
+  most threatened landscape.
+description: "YMCA’s Camp Wood commissioned this educationstation for North America’s
+  most endangered landscape: the native Tallgrass Prairie. Requirements were: 1) it
+  must survive annual prairie burns, and 2) the intervention must recede into the
+  landscape. During the fall, the studio researched the complexities of the site,
+  and in the spring, produced drawings, prototypes, pricing information, and the project
+  itself. What began as a simple shade structure evolved into a flexible platform
+  that connects campers to the expansive landscape. \n\nEach station engages the environment
+  through locally-sourced materials and focuses on essential elements of the prairie
+  — insects, wind, stone, grass, and sky. The stations are connected by a path anchored
+  by a 300 linear foot, dry stacked limestone wall."
 architecture: true
 curatorial: false
 urban-design: false

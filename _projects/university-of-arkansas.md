@@ -1,7 +1,9 @@
 ---
-layout: project
 title: University of Arkansas — Sculpture Facility
-short-description: A 21st century light manufacturing building for the emerging economies of San Francisco.
+position: 23
+layout: project
+short-description: A 21st century light manufacturing building for the emerging economies
+  of San Francisco.
 architecture: true
 curatorial: false
 urban-design: false

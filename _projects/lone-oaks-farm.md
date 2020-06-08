@@ -1,20 +1,13 @@
 ---
-layout: project
 title: Lone Oaks Farm Master plan
-short-description: A thoughtful vision that respects the land, restores it to its natural
-        beauty and sets the stage for intense success for another century.
-description: "To
-        fulfill a need for a 4-H camp in Western Tennessee, the University of Tennessee
-        acquired the 1,200-acre Lone Oaks Farm in Middleton, Tennessee. The client
-        commissioned a multi-disciplinary design team to develop a master plan that
-        would incorporate the new camp into the rich tapestry of woodlands, open pasture,
-        lakes, and streams of the farm.\n\nHeeding the principles set forth in the
-        master plan, the same design team is working on the first phases of development
-        (now under construction and in schematic design, respectively) at the farm,
-        taking cues from existing agrarian structures, all while adopting updated
-        performance standards to provide contemporary, durable facilities. Each new
-        structure shares a kit of parts and language of detailing, but is unique in
-        its integration to the local ecology."
+position: 13
+layout: project
+short-description: A thoughtful vision that respects the land, restores it to its
+  natural beauty and sets the stage for intense success for another century.
+description: |-
+  To fulfill a need for a 4-H camp in Western Tennessee, the University of Tennessee acquired the 1,200-acre Lone Oaks Farm in Middleton, Tennessee. The client commissioned a multi-disciplinary design team to develop a master plan that would incorporate the new camp into the rich tapestry of woodlands, open pasture, lakes, and streams of the farm.
+
+  Heeding the principles set forth in the master plan, the same design team is working on the first phases of development (now under construction and in schematic design, respectively) at the farm, taking cues from existing agrarian structures, all while adopting updated performance standards to provide contemporary, durable facilities. Each new structure shares a kit of parts and language of detailing, but is unique in its integration to the local ecology.
 architecture: true
 curatorial: false
 urban-design: false

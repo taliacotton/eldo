@@ -1,5 +1,6 @@
 ---
+permalink: "/architecture"
 layout: projects
 filter: architecture
-permalink: /architecture
 ---
+

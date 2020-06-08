@@ -1,4 +1,5 @@
 ---
+permalink: "/collection"
 layout: collection
-permalink: /collection
 ---
+

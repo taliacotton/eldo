@@ -1,8 +1,17 @@
 ---
-layout: project
 title: North Forest Trail Biological Pavilion
+position: 15
+layout: project
 short-description: Carving light out of darkness.
-description: The North Forest Trail Biological Pavilion is a highly functional addition to a new sculpture and architecture trail at Crystal Bridges Museum of American Art (CBMAA). It adds conditioned restrooms, drinking fountains, seating and maintenance facilities to support seasonal outdoor programming. The project was driven by the belief that the facility should aid the CBMAA’s aspirational mission, which seeks to integrate art, architecture and nature. The building upends conventional approaches to public hygienic facilities by staging dramatic experiences of light and seasonal change — its dark interior selectively allows light in, and the experience is heightened through a focused engagement of color, sheen and reflectivity.
+description: The North Forest Trail Biological Pavilion is a highly functional addition
+  to a new sculpture and architecture trail at Crystal Bridges Museum of American
+  Art (CBMAA). It adds conditioned restrooms, drinking fountains, seating and maintenance
+  facilities to support seasonal outdoor programming. The project was driven by the
+  belief that the facility should aid the CBMAA’s aspirational mission, which seeks
+  to integrate art, architecture and nature. The building upends conventional approaches
+  to public hygienic facilities by staging dramatic experiences of light and seasonal
+  change — its dark interior selectively allows light in, and the experience is heightened
+  through a focused engagement of color, sheen and reflectivity.
 architecture: true
 curatorial: false
 urban-design: false

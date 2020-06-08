@@ -1,18 +1,17 @@
 ---
-layout: project
 title: Novel
+position: 16
+layout: project
 short-description: A space that is as inventive as the food itself.
-description: "After operating
-        in a limited and challenging converted Victorian house for several years,
-        the chefs and owners of Novel wanted to expand and create a space that exemplifies
-        their innovative cuisine. \n\nCollaborating with local artists and artisans,
-        the new space has a tough-to-achieve balance of precision, looseness, and
-        rarely-found acoustical levels — letting old be old and new be new. Architecturally,
-        the space has the character, depth and layers of the previous location with
-        classic material detailing allowing the dining experience to be on par with,
-        but not overwhelming the food at Novel. For guests, this translates into an
-        ephemeral space grounded in place — the heart of downtown Kansas City’s Crossroads
-        Art District."
+description: "After operating in a limited and challenging converted Victorian house
+  for several years, the chefs and owners of Novel wanted to expand and create a space
+  that exemplifies their innovative cuisine. \n\nCollaborating with local artists
+  and artisans, the new space has a tough-to-achieve balance of precision, looseness,
+  and rarely-found acoustical levels — letting old be old and new be new. Architecturally,
+  the space has the character, depth and layers of the previous location with classic
+  material detailing allowing the dining experience to be on par with, but not overwhelming
+  the food at Novel. For guests, this translates into an ephemeral space grounded
+  in place — the heart of downtown Kansas City’s Crossroads Art District."
 architecture: true
 curatorial: false
 urban-design: false

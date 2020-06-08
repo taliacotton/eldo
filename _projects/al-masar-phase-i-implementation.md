@@ -1,7 +1,9 @@
 ---
-layout: project
 title: Al Masar Phase I Implementation
-short-description: An unprecedented linear park that will transform and reconnect the city; an urban public space that is more than just a bike path.
+position: 4
+layout: project
+short-description: An unprecedented linear park that will transform and reconnect
+  the city; an urban public space that is more than just a bike path.
 architecture: true
 curatorial: true
 urban-design: true

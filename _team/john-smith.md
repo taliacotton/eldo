@@ -1,4 +1,5 @@
 ---
+title: John Smith
 layout: team
 name: John Smith
 role: Architect
