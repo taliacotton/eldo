@@ -1,4 +1,7 @@
 ---
+---
+
+---
 label: Project
 hide_body: false
 display_field: title
@@ -7,7 +10,6 @@ fields:
   name: layout
   label: layout
   hidden: true
-  default: project
 - type: text
   name: title
   label: Title
