@@ -39,6 +39,10 @@ fields:
   config:
     min: 
     max: 
+- name: images__easier_
+  type: image_gallery
+  config: {}
+  label: Images (easier)
 - type: boolean
   name: architecture
   label: Architecture
