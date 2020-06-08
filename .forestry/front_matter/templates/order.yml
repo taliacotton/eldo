@@ -17,7 +17,7 @@ fields:
     min: 
     max: 
     source:
-      type: simple
+      type: pages
       section: projects
   label: Sortable List
 pages:
