@@ -1,4 +1,7 @@
 ---
+---
+
+---
 label: News Item
 hide_body: true
 display_field: name
@@ -15,3 +18,5 @@ fields:
 - type: text
   name: publication
   label: Publication
+pages:
+- _news/waldo-site-set-for-redevelopment-and-new-retail-service-and-office-tenants.md
