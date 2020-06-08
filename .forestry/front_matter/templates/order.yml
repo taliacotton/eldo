@@ -20,5 +20,3 @@ fields:
       type: pages
       section: projects
   label: Sortable List
-pages:
-- _data/project-order.yaml

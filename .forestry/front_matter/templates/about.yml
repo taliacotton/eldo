@@ -12,9 +12,14 @@ fields:
   hidden: true
 - type: textarea
   name: short-description
-  label: short-description
+  label: Short Description
 - type: text
   name: description
-  label: description
+  label: Full Description
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero Image
 pages:
 - about.md
