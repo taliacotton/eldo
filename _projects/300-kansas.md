@@ -19,8 +19,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/300kansas-02.jpg"
 
+---
 - 2012
 - Architect
 - Kansas City, MO
