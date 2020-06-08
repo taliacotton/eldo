@@ -1,0 +1,23 @@
+---
+order:
+- template: project
+  layout: ''
+  title: ''
+  position: 
+  hero_image: ''
+  short-description: ''
+  description: ''
+  architecture: false
+  curatorial: false
+  urban-design: false
+  education: false
+  fabrication: false
+sortable_list:
+- _projects/highlander-accelerator.md
+- _projects/shelton-marshall-residence.md
+- _projects/volland-general-store.md
+- _projects/interstate-flats.md
+- _projects/al-masar-master-plan.md
+- _projects/300-kansas.md
+- _projects/al-masar-arts-district.md
+- _projects/3435-main.md
