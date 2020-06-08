@@ -20,6 +20,11 @@ urban-design: false
 education: false
 fabrication: false
 hero_image: "/uploads/300kansas-02.jpg"
+images:
+- template: image
+  image: "/uploads/300kansas-02.jpg"
+- template: image
+  image: "/uploads/300kansas-09.jpg"
 
 ---
 - 2012
