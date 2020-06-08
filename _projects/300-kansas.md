@@ -25,6 +25,9 @@ images:
   image: "/uploads/300kansas-02.jpg"
 - template: image
   image: "/uploads/300kansas-09.jpg"
+images__easier_:
+- "/uploads/300kansas-02.jpg"
+- "/uploads/300kansas-09.jpg"
 
 ---
 - 2012
