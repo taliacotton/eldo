@@ -75,10 +75,10 @@ p.sm, .information li, .information p{
     font-weight:bold;
     text-transform: uppercase;
     padding-top: calc(var(--gutter));
-    a{
-        position:relative;
-        left: -5px;
-    }
+    // a{
+    //     position:relative;
+    //     left: -5px;
+    // }
     span{
         color:white;
     }
