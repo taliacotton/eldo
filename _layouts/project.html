@@ -8,58 +8,14 @@
 <div id="main" class="main">
     <div class="flex" id="description">
         <div>
-            <p>{{page.short-description}}</p>
-            <div class="fullDescription">
-                {{content}}
-            </div>
+            <h1>{{page.short-description}}</h1>
             <a href="#" id="viewBtn">View <span class="more">More</span><span class="less">Less</span></a>
+            <div class="fullDescription">
+                {{page.description}}
+            </div>
         </div>
-        <div class="fullDescription">
-            <h3>2018</h3>
-            <p class="sm">
-            Architect, Curator, Fabricator<br>
-            Kansas City, MO<br>
-            120,000 SF<br>
-            </p>
-            <h3>Client</h3>
-            <p class="sm">
-            Aparium Hotel Group    
-            </p>
-            <h3>Eldo Team</h3>
-            <p class="sm">Principal: David Dowell, AIA<br>
-            Project Manager: Steve Salzer, AIA<br>
-            Project Architect: Mark Horne, AIA; Chris Burk; Jonathan Tramba<br>
-            Designer: John Renner; Ruoxi Yang; Lauren Harness; Alex Priest<br>
-            Curator: Hesse McGraw</p>
-            <h3>Collaborators</h3>
-            <p class="sm">
-            Contractor: JE Dunn Construction<br>
-            Interior Designer: Simeone Deary Design Group<br>
-            Structural Engineer: Bob D Campbell & Associates<br>
-            Civil Engineer: SK Design Group<br>
-            Mechanical and Electrical Engineer: Lankford Fendler + Associates<br>
-            Plumbing Engineer: Antella, Inc<br>
-            Acoustic Consultant: Acoustic Design Kubicki<br>
-            Code Consultant: Jeff Boyle<br>
-            Lighting Design: MRD<br>
-            Food Service Design: Next Step Design<br>
-            Historical Preservation Consultant: Rosin Preservation<br>
-            AV/IT and Security Consultant: Sorbis<br>
-            </p>
-            <h3>Awards</h3>
-            <p class="sm">
-            2019 AIA Kansas City Design Excellence Awards - Honor Award<br>
-            2019 The Chicago Athenaeum - American Architecture Award - Honor Award<br>
-            2019 Missouri Preservation Honor Awards - Preserve Missouri Award<br>
-            2019 Kansas City Business Journal - Capstone Award, Adaptive Reuse<br>
-            2019 Historic Kansas City Preservation Award - Excellence Award for Contemporary Design in a Historic Context<br>
-            <h3>Press</h3>
-            <p class="sm">
-            Kansas City Business Journal, Rob Roberts, "Chicago-based hotel group will transform historic Crossroads buildings", 2015<br>
-            The Kansas City Star, Joyce Smith, "Crossroads boutique hotel is planned for the historic Pabst and Pendergast buildings", 2015<br>
-            Conde Nast Traveler, Erin Florio, "In Kansas City, You'll Soon Be Able to Sleep in a Former Brewery", 2018
-            </p>
-            <p class="sm">Photography by Mike Sinclair</p>
+        <div class="fullDescription information">
+            {{ content }}
         </div>
     </div>
 </div>

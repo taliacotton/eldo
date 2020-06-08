@@ -1,8 +1,6 @@
 ---
 layout: project
 title: Al Masar Arts District
-permalink: /al-masar-arts-district
-slug: al-masar-arts-district
 short-description: An unprecedented linear park that will transform and reconnect the city; an urban public space that is more than just a bike path.
 architecture: true
 curatorial: false

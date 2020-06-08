@@ -1,8 +1,6 @@
 ---
 layout: project
 title: Al Masar Master Plan
-permalink: /al-masar-master-plan
-slug: al-masar-master-plan
 short-description: An unprecedented linear park that will transform and reconnect the city; an urban public space that is more than just a bike path.
 architecture: true
 curatorial: false
