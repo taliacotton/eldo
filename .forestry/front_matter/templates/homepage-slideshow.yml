@@ -1,0 +1,16 @@
+---
+label: Homepage Slideshow
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: list
+  name: slideshow
+  label: slideshow
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: projects
