@@ -1,13 +1,21 @@
 ---
 type: list
-name: posts-order
-label: Order
-description: Provide ingredients for this recipe
-hidden: false
-hide_body: true
-default:
-- 1 cup water
+name: members
+label: Team members
+description: Pick up some members
 config:
-    use_select: false
-    min: 1
-    max:
+  use_select: true
+  min: 1
+  max: 5
+  source:
+    type: simple
+  options:
+  - Dan
+  - DJ
+  - Frank
+  - James
+  - Jeff
+  - Jordan
+  - Mitch
+  - Nolan
+  - Scott
