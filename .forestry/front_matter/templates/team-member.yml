@@ -14,13 +14,16 @@ fields:
 - type: text
   name: role
   label: Role
-- type: file
-  name: image
-  label: Image
 - name: principal
   type: boolean
   label: Featured/Principal
   description: Only two entries can take this value
+- type: file
+  name: image
+  label: Image
+  showOnly:
+    field: principal
+    value: true
 - name: related_projects
   type: list
   config:
