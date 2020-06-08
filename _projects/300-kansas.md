@@ -4,16 +4,12 @@ position: 1
 layout: project
 short-description: A 21st century light manufacturing building for the emerging economies
   of San Francisco.
-description: "__A restrained palette broadcasts the optimism of the Girl Scouts__\n\nCamp
-  Prairie Schooner sits high on the bluffs of the Little Blue River, and with 176
-  wooded acres, the camp feels like wilderness in the heart of Kansas City. In addition
-  to numerous constructed activities, creeks, hills, and a nature trail surround the
-  site. The project encompasses a highly cost-effective and year-round trail center
-  and troop house, bunk rooms, flex rooms, full kitchens, modern restrooms and a shower
-  facility. The design solution links two volumes through a shared mechanical room
-  that efficiently serves both volumes. Standard, off-the-rack scissor trusses give
-  the roof iconic form and inexpensive painted corrugated metal provides the skin.
-  Vibrant endwalls provide way-finding for campers and identify individual troops. "
+description: |-
+  In San Francisco, industrial buildings have uniquely evolved as civic places, sites for innovation, and social condensers. This project embraces its light industrial lineage while celebrating the diverse energies and communities of Potrero Hill.
+
+  EL DORADO worked closely with local developer Group i Partners to massage the massing of the building to adhere to San Francisco’s strenuous zoning ordinances. The design pays careful attention to required setbacks, height limits and FAR restrictions without allowing them to dictate a generic building form. At the same time, the building’s striking back-lit north facade and its inviting, elevated public podium make a uniquely welcoming civic statement to the neighborhood.
+
+  Exterior façade materials such as polycarbonate panels and perforated metal let in generous amounts of natural light while massive square windows frame views of the San Francisco Bay and downtown. Artisans will have access to a rooftop garden as well as a direct connection to the neighborhood streetscape from a raised concrete podium.
 architecture: true
 curatorial: false
 urban-design: false
@@ -26,7 +22,6 @@ images:
 - template: image
   image: "/uploads/300kansas-09.jpg"
 images__easier_:
-- "/uploads/300kansas-02.jpg"
 - "/uploads/300kansas-09.jpg"
 
 ---
