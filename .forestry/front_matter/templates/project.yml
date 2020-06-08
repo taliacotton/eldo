@@ -20,6 +20,11 @@ fields:
     max: 
     step: 
   label: Order
+- name: hero_image
+  type: file
+  config:
+    maxSize: 10
+  label: Hero Image
 - type: text
   name: short-description
   label: Short Description

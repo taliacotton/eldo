@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/project-order.yaml
   label: Order
-  match: "**/*"
 - type: directory
   path: _projects
   label: Projects
