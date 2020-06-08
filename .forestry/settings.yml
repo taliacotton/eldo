@@ -1,6 +1,4 @@
 ---
----
-
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
@@ -9,17 +7,21 @@ sections:
 - type: directory
   path: _projects
   label: Projects
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - project
 - type: directory
   path: _team
   label: Team
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - team-member
 - type: directory
   path: _news
   label: News
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - news-item
