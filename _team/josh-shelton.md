@@ -1,8 +1,7 @@
 ---
 layout: team
-name: Josh Shelton
-title: Principal
-permalink: team/:name
+name: John Smith
+role: Principal
 image: /assets/img/josh2.png
 ---
 
