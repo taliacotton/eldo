@@ -1,5 +1,6 @@
 ---
 label: Order
+hide_body: true
 fields:
 - name: order
   type: blocks
