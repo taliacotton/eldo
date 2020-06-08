@@ -1,0 +1,18 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: textarea
+  name: short-description
+  label: short-description
+- type: text
+  name: description
+  label: description
