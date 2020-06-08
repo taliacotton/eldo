@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
@@ -17,6 +14,13 @@ sections:
   label: Team
   create: all
   match: "**/*"
+- type: directory
+  path: _news
+  label: News
+  create: all
+  match: "**/*"
+  templates:
+  - news-item
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
