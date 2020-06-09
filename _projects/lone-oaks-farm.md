@@ -13,8 +13,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/utlof_1.jpg"
 
+---
 - 2017
 - Planner
 - Hardeman County, TN
