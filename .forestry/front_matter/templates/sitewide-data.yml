@@ -1,4 +1,78 @@
 ---
 label: Sitewide Data
 hide_body: true
-fields: []
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: timezone
+  label: timezone
+- type: field_group
+  name: collections
+  label: collections
+  fields:
+  - type: field_group
+    name: posts
+    label: posts
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: boolean
+      name: output
+      label: output
+  - type: field_group
+    name: projects
+    label: projects
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: boolean
+      name: output
+      label: output
+    - type: text
+      name: permalink
+      label: permalink
+  - type: field_group
+    name: team
+    label: team
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: boolean
+      name: output
+      label: output
+  - type: field_group
+    name: uploads
+    label: uploads
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: boolean
+      name: output
+      label: output
+- type: text
+  name: email
+  label: email
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: baseurl
+  label: baseurl
+- type: text
+  name: url
+  label: url
+- type: text
+  name: og_img
+  label: og_img
+- type: text
+  name: twitter_username
+  label: twitter_username
+- type: text
+  name: github_username
+  label: github_username
