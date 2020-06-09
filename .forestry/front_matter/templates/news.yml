@@ -1,4 +1,41 @@
 ---
 label: News
 hide_body: false
-fields: []
+fields:
+- name: news_item
+  type: include
+  config: {}
+  template: news
+  label: News Item
+- name: news
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  - name: publication
+    type: text
+    config:
+      required: false
+    label: Publication
+  - name: date
+    type: datetime
+    label: Date
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: News
