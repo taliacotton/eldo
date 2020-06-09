@@ -102,7 +102,7 @@ fields:
     required: true
     config:
       min: 
-      max: 10
+      max: 
       step: 
     label: Phone number
     description: Unformatted 10-digit number (no spaces, dashes or periods)
