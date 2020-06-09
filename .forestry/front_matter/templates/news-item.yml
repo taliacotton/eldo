@@ -15,3 +15,5 @@ fields:
 - type: text
   name: publication
   label: Publication
+pages:
+- _data/news.yaml/waldo-site-set-for-redevelopment-and-new-retail-service-and-office-tenants.md
