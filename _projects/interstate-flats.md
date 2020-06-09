@@ -25,8 +25,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/interstate_1.jpg"
 
+---
 - 2016
 - Architect
 - Kansas City, MO
