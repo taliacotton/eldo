@@ -8,6 +8,7 @@ fields:
 - type: text
   name: timezone
   label: timezone
+  hidden: true
 - type: field_group
   name: collections
   label: collections
@@ -55,6 +56,7 @@ fields:
     - type: boolean
       name: output
       label: output
+  hidden: true
 - type: text
   name: email
   label: email
@@ -67,9 +69,11 @@ fields:
 - type: text
   name: url
   label: url
+  hidden: true
 - type: text
   name: og_img
   label: og_img
+  hidden: true
 - type: text
   name: twitter_username
   label: twitter_username

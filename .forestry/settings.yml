@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: _config.yml
-  label: Sitewide Info
 - type: directory
   path: _projects
   label: Projects
@@ -34,6 +31,9 @@ sections:
 - type: document
   path: index.md
   label: Homepage Slideshow
+- type: document
+  path: _config.yml
+  label: Sitewide Info
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
