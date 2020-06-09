@@ -2,11 +2,6 @@
 label: News
 hide_body: false
 fields:
-- name: news_item
-  type: include
-  config: {}
-  template: news
-  label: News Item
 - name: news
   type: field_group_list
   fields:
