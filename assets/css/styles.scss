@@ -104,6 +104,11 @@ p.sm, .information li, .information p{
 #logo:hover{
     color: white;
     span{color:var(--brand-color)}
+    .cls-2{fill:white}
+    .cls-3{fill:var(--brand-color)}
+}
+#toggle-nav:hover{
+    .cls-2{fill:white}
 }
 
 a{ color: var(--brand-color);}
