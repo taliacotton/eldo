@@ -7,6 +7,7 @@ fields:
   name: layout
   label: layout
   hidden: true
+  default: project
 - type: text
   name: title
   label: Title
@@ -58,3 +59,11 @@ fields:
 - type: boolean
   name: fabrication
   label: Fabrication
+pages:
+- _projects/girl-scout-camp-prairie-schooner.md
+- _projects/kansas-city-art-institute-master-plan.md
+- _projects/kansas-state-university-architecture-planning-urban-design-regnier-hall-fab-lab-expansion.md
+- _projects/market-station.md
+- _projects/university-of-tennessee-at-martin-the-garage.md
+- _projects/upper-harbor-terminal.md
+- _projects/waldo-duplex-1.md

@@ -22,8 +22,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/_mg_3131_.jpg"
 
+---
 - 2013
 - Architect, Educator
 - Dover, KS

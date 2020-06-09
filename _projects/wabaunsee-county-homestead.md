@@ -20,8 +20,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/wab_1.jpg"
 
+---
 - 2014
 - Architect
 - Alma, KS

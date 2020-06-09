@@ -17,8 +17,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/novel_1.jpg"
 
+---
 - 2018
 - Architect
 - Kansas City, MO

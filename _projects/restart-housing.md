@@ -30,8 +30,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/restart_1.jpg"
 
+---
 - 2015
 - Architect
 - Kansas City, MO
