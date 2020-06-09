@@ -112,3 +112,5 @@ fields:
       labelField: 
     label: Location
   label: Addresses
+pages:
+- _config.yml

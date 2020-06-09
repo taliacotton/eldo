@@ -1,5 +1,6 @@
 ---
-title: "El Dorado: integrated architecture, urban design, curatorial, education and fabrication practice"
+title: 'El Dorado: integrated architecture, urban design, curatorial, education and
+  fabrication practice'
 timezone: UTC
 collections:
   posts:
@@ -16,9 +17,13 @@ collections:
     title: Uploads
     output: true
 email: info@eldo.us
-description: "Established in 1996, el dorado is an integrated architecture, urban design, curatorial, education and fabrication practice. We chase big ideas in the middle of everywhere."
-baseurl: 
+description: Established in 1996, el dorado is an integrated architecture, urban design,
+  curatorial, education and fabrication practice. We chase big ideas in the middle
+  of everywhere.
+baseurl: ''
 url: eldo.us
-og_img: ""
-twitter_username: 
-github_username: 
+og_img: ''
+twitter_username: ''
+github_username: ''
+addresses:
+  location: []
