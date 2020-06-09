@@ -14,6 +14,7 @@ To Do Immediate
 - project page bottom black
 - tool buggy?
 - Mobile fixes
+- Fix slideshow link
 
 To Do Soon
 - Content
