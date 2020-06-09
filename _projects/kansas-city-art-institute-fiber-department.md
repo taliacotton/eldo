@@ -21,8 +21,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/kcaifiber-01.jpg"
 
+---
 - 2012
 - Architect
 - Kansas City, MO
