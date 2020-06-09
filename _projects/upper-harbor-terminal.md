@@ -2,7 +2,7 @@
 layout: ''
 title: Upper Harbor Terminal
 position: 
-hero_image: ''
+hero_image: "/uploads/upperharborterminal-01.jpg"
 short-description: Transforming 48 acres of abandoned industrial relics into 100 acres
   of revitalized, ecologically sound, mixed-use development.
 description: |-
@@ -23,20 +23,17 @@ fabrication: true
 * Minneapolis, MN
 * 48 acres
 
-###   
-Client 
+### Client
 
 * United Properties
 * Coen + Partners
 
-###   
-Eldo Team 
+### Eldo Team
 
 * Principal: Josh Shelton, AIA
 * Project Manager: Sean Slattery, AIA, LEED AP BD+C
 * Project Architect: Charlie Vega; Derik Eckhardt, AIA; Brian Michener, RA, LEED AP; Kyle Schleicher, RA
 
-###   
-Collaborator 
+### Collaborator
 
 * Landscape Architect: Coen + Partners
