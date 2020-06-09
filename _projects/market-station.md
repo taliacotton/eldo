@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: project
 title: Market Station
 position: 
 hero_image: "/uploads/marketstation-01.jpg"

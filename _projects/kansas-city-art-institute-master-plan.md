@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: project
 title: Kansas City Art Institute – Master Plan
 position: 
 hero_image: "/uploads/kcaimasterplan-01.jpg"

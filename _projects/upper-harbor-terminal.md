@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: project
 title: Upper Harbor Terminal
 position: 
 hero_image: "/uploads/upperharborterminal-01.jpg"
