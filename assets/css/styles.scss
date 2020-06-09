@@ -657,7 +657,11 @@ img.full{
         font-size: 50px;
         letter-spacing: -0.98px;
         line-height: 0.8;
-        width: 74%;
+        width: 50%;
+        svg{
+            height: 35px;
+            // width: 100%;
+        }
     }
     #footer > div{
         margin-bottom:20px;
@@ -686,5 +690,8 @@ img.full{
     }
     .news li {
         margin-bottom: calc(var(--gutter)*2);
+    }
+    .layout-about #description.full .fullDescription{
+        column-count: 1;
     }
 }
