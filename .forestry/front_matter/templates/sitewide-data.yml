@@ -63,16 +63,18 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: og_img
+  type: file
+  config:
+    maxSize: 64
+  label: og Image
 - type: text
   name: baseurl
   label: baseurl
+  hidden: true
 - type: text
   name: url
   label: url
-  hidden: true
-- type: text
-  name: og_img
-  label: og_img
   hidden: true
 - type: text
   name: twitter_username
@@ -80,6 +82,7 @@ fields:
 - type: text
   name: github_username
   label: github_username
+  hidden: true
 - name: addresses
   type: field_group
   config: {}
