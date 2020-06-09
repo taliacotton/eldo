@@ -18,9 +18,13 @@ sections:
   match: "**/*"
   templates:
   - team-member
-- type: document
-  path: _data/news.yaml
+- type: directory
+  path: _news
   label: News
+  create: documents
+  match: "**/*"
+  templates:
+  - news-item
 - type: document
   path: about.md
   label: About
