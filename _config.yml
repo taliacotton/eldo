@@ -26,11 +26,7 @@ og_img: "/uploads/art_designfacility-10.jpg"
 twitter_username: ''
 github_username: ''
 addresses:
-- address: |-
-    1714 NW Overton, 2A
-    Portland, Oregon
-  phone_number: 8164743838
-- address: |-
-    510 Avenida Cesar E. Chavez
-    Kansas City, Missouri
-  phone_number: 8164743838
+  - address: 1714 NW Overton, 2A
+    phone_number: 816.474.3838
+  - address: 510 Avenida Cesar E. Chavez
+    phone_number: 816.474.3838
