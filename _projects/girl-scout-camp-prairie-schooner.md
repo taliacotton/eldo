@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: project
 title: Girl Scout Camp Prairie Schooner
 position: 
 hero_image: "/uploads/campprairie_1.jpg"

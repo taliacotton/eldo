@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: project
 title: Waldo Duplex
 position: 
 hero_image: "/uploads/waldoduplex_1.jpg"

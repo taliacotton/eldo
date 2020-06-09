@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: project
 title: Kansas State University Architecture, Planning & Urban Design–Regnier Hall
   Fab Lab Expansion
 position: 

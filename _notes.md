@@ -9,13 +9,10 @@ Questions
 
 To Do Immediate
 - Click outside of dropdown to close
-- nav hover state
 - Add footer/contact content to CMS
-- Add all meta data to CMS
 - project page bottom black
-- project page anchor above
 - tool buggy?
-- Fix footer clock
+- Mobile fixes
 
 To Do Soon
 - Content

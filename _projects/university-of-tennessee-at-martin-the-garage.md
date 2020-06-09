@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: project
 title: University of Tennessee at Martin – The Garage
 position: 
 hero_image: "/uploads/rendering_01.jpg"
