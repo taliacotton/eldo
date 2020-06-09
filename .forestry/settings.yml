@@ -21,7 +21,6 @@ sections:
 - type: document
   path: _data/news.yaml
   label: News
-  match: "**/*"
 - type: document
   path: about.md
   label: About
