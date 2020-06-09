@@ -253,6 +253,13 @@ h4{
     text-decoration:none;
 }
 
+.layout-about{
+    #description.full .fullDescription{
+        column-count: 2;
+        display:block;
+    }
+}
+
 #description{
     // padding-top:117px;
     padding:calc(var(--gutter)*2) 0px;

@@ -3,13 +3,18 @@
 
 <div class="main">
 
-<div class="flex" id="description">
-    <div>
-        <h2>
-        We chase big ideas<br> in the middle<br> of everywhere.
-        </h2>
-        <p>{{page.short-description}}</span>
-        <a href="#" id="viewBtn">Read <span class="more">More</span><span class="less">Less</span></a></a></p>
+<div id="description">
+    <div class="flex">
+        <div>
+            <h2>
+            We chase big ideas<br> in the middle<br> of everywhere.
+            </h2>
+            <p>{{page.short-description}}</span>
+            <a href="#" id="viewBtn">Read <span class="more">More</span><span class="less">Less</span></a></a></p>
+        </div>
+    </div>
+    <div class="fullDescription">
+        {{ page.description }}
     </div>
 </div>
 <div class="section">
@@ -57,3 +62,4 @@
 
 {% include footer.html %}
 <script src="{{site.url}}/assets/js/nav.js" async defer></script>
+<script src="{{site.url}}/assets/js/dropdown.js" async defer></script>
