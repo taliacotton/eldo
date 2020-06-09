@@ -16,8 +16,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/flex-13.jpg"
 
+---
 - 2003
 - Architect
 - Topeka, KS
