@@ -28,7 +28,6 @@ curatorial: true
 urban-design: true
 education: false
 fabrication: false
-published: false
 
 ---
 - 2020 (anticipated)
