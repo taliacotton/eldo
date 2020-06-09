@@ -2,7 +2,7 @@
 layout: ''
 title: University of Tennessee at Martin – The Garage
 position: 
-hero_image: ''
+hero_image: "/uploads/rendering_01.jpg"
 short-description: A national model for the central role public universities play
   in the revitalization of rural America.
 description: |-
@@ -34,12 +34,11 @@ fabrication: false
 * Martin, TN
 * 54,300 SF
 
-###   
-Client 
+### Client
 
 * University of Tennessee at Martin
 
-### Eldo Team 
+### Eldo Team
 
 * Principal: Josh Shelton, AIA
 * Project Manager: Sean Slattery, AIA, LEED AP BD+C

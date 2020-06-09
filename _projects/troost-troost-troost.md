@@ -18,8 +18,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/troosttroosttroost-01.jpg"
 
+---
 - 2010
 - Educator
 - Kansas City, MO
