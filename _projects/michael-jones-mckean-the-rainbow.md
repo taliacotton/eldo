@@ -14,8 +14,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/therainbow_1.jpg"
 
+---
 - In progress
 - Architect, Curator, Project Manager
 - San Francisco, CA; Omaha, NE
