@@ -102,6 +102,11 @@ fields:
       required: false
     label: Phone number
     default: 000.000.0000
+  - name: location_image
+    type: file
+    config:
+      maxSize: 64
+    label: Location Image
   config:
     min: 
     max: 2
