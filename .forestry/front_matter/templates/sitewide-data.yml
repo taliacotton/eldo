@@ -97,15 +97,11 @@ fields:
         format: markdown
     label: Address
   - name: phone_number
-    type: number
-    default: 0
-    required: true
+    type: text
     config:
-      min: 
-      max: 
-      step: 
+      required: false
     label: Phone number
-    description: Unformatted 10-digit number (no spaces, dashes or periods)
+    default: 000.000.0000
   config:
     min: 
     max: 2
