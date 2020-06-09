@@ -13,6 +13,7 @@ collections:
   team:
     title: Team
     output: true
+    permalink: "/team/:title"
   uploads:
     title: Uploads
     output: true
@@ -30,6 +31,6 @@ twitter_username: ''
 github_username: ''
 addresses:
 - address: 510 Avenida Cesar E. Chavez
-  phone_number: ''
+  phone_number: '816.474.3838'
 - address: 1714 NW Overton, 2A
-  phone_number: ''
+  phone_number: '971.266.8665'

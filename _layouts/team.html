@@ -13,6 +13,7 @@
         <div><img src="{{page.image}}" class="full"></div>
     </div>
 
+    {% if page.related_projects == "" %}
     <h2>Relevant Projects</h2>
     <div class="thumbnails flex">
         {% for list_item in page.related_projects %}
@@ -22,6 +23,7 @@
             </a>
         {% endfor %}
     </div>
+    {% endif %}
 
 </div>
 
