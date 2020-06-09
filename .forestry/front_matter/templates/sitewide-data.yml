@@ -79,41 +79,37 @@ fields:
 - type: text
   name: twitter_username
   label: twitter_username
+  hidden: true
 - type: text
   name: github_username
   label: github_username
   hidden: true
 - name: addresses
-  type: field_group
-  config: {}
+  type: field_group_list
   fields:
-  - name: location
-    type: field_group_list
-    fields:
-    - name: address
-      type: textarea
-      default: ''
-      config:
-        required: false
-        wysiwyg: false
-        schema:
-          format: markdown
-      label: Address
-    - name: phone_number
-      type: number
-      description: Unformatted 10-digit phone number (no spaces, dashes or periods)
-      default: 0
-      required: true
-      config:
-        min: 
-        max: 
-        step: 
-      label: Phone Number
+  - name: address
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Address
+  - name: phone_number
+    type: number
+    default: 0
+    required: true
     config:
       min: 
-      max: 2
-      labelField: 
-    label: Location
+      max: 10
+      step: 
+    label: Phone number
+    description: Unformatted 10-digit number (no spaces, dashes or periods)
+  config:
+    min: 
+    max: 2
+    labelField: 
   label: Addresses
 pages:
 - _config.yml
