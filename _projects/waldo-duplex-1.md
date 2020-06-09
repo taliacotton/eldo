@@ -3,7 +3,7 @@ layout: project
 title: Waldo Duplex
 position: 
 hero_image: "/uploads/waldoduplex_1.jpg"
-short-description: an we build affordably, satisfy a strict economic model, and support
+short-description: Can we build affordably, satisfy a strict economic model, and support
   the dignity of the residents?
 description: |-
   Waldo is a diverse and dynamic neighborhood in southern Kansas City. Once the southern extent of the city’s former streetcar line, Waldo doesn’t play by the rules of conventional urbanism or City Beautiful urban planning but has flourished nonetheless. The major commercial and industrial corridor along Wornall Road, Waldo’s major thoroughfare, is immediately flanked by established neighborhoods of single-family bungalows and shotgun homes. In this “anything goes” neighborhood exist opportunities for typological experimentation and architectural innovation.
