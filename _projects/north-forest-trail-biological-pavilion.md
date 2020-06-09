@@ -17,8 +17,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/bio_1.jpg"
 
+---
 - 2017
 - Architect
 - Bentonville, AR
