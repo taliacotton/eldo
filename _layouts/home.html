@@ -4,7 +4,7 @@
     <div class="slideshow">
         {% for slideshow_item in page.slideshow %}
         {% assign related_project = site.projects | where: "path", slideshow_item | first %}
-            <a href="#">
+            <a href="{{related_project.url}}" style="animation-duration: {{ page.slideshow | size | times: 3 }}s; animation-delay: {{ forloop.index | minus: 1 | times: 3 }}s">
                 <div class="slideshow-img" style="background-image:url({{related_project.hero_image}})">
                     {{related_project.title}}
                 </div>
