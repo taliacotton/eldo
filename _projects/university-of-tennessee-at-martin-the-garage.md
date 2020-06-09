@@ -27,7 +27,6 @@ curatorial: true
 urban-design: true
 education: false
 fabrication: false
-published: false
 
 ---
 * Ongoing

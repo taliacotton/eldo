@@ -16,7 +16,6 @@ curatorial: true
 urban-design: true
 education: true
 fabrication: true
-published: false
 
 ---
 * 2017 (planning); ongoing
