@@ -17,8 +17,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/coxcomm_2.jpg"
 
+---
 - 2007
 - Architect
 - Topeka, KS
