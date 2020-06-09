@@ -58,3 +58,5 @@ fields:
 - type: boolean
   name: fabrication
   label: Fabrication
+pages:
+- _projects/upper-harbor-terminal.md
