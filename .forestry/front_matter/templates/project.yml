@@ -59,4 +59,5 @@ fields:
   name: fabrication
   label: Fabrication
 pages:
+- _projects/university-of-tennessee-at-martin-the-garage.md
 - _projects/upper-harbor-terminal.md
