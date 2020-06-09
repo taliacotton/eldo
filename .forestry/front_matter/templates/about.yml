@@ -13,8 +13,14 @@ fields:
 - type: textarea
   name: short-description
   label: Short Description
-- type: text
-  name: description
+- name: full_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Full Description
 - name: hero_image
   type: file
