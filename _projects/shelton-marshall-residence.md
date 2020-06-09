@@ -20,8 +20,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/sheltonmarshallres_2.jpg"
 
+---
 - 2014
 - Architect
 - Kansas City, MO

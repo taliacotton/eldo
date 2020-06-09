@@ -15,8 +15,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/troostbridge_2.jpg"
 
+---
 - 2012\n- Architect, Fabricator\n- Kansas City, MO\n- 152' x 90' x 9';
 13,651 SF 
 ### Client
