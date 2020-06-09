@@ -16,6 +16,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  news:
+    title: News
+    output: true
 email: info@eldo.us
 description: Established in 1996, el dorado is an integrated architecture, urban design,
   curatorial, education and fabrication practice. We chase big ideas in the middle
