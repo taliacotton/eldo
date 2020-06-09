@@ -47,7 +47,7 @@
         {% for news_item in site.data.news %}
         <li><a href="{{news_item.link}}" target="_blank">
                 <p>{{news_item.title}}</p>
-                <p class="sm">{{news_item.publication}}<br>{{news_item.date}}</p>
+                <p class="sm">{{news_item.publication}}<br>{{ news_item.date | date_to_string: "ordinal", "US" }}</p>
         </a></li>
         {% endfor %}
     </ul>

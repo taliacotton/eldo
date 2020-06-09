@@ -181,9 +181,24 @@ h4{
 }
 
 #footer{
-    padding:40px var(--side-margin);
+    padding:40px var(--side-margin) var(--side-margin);
     background-color:black;
     h2{color:var(--brand-color)}
+}
+
+.colon {
+  animation: blink-animation 1s steps(2, start) infinite;
+  -webkit-animation: blink-animation 1s steps(2, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
 }
 
 // .layout-projects, .layout-project, .layout-home{
@@ -275,7 +290,7 @@ img.full{
     position:relative;
     a{text-decoration:none;color:white;}
     .slideshow-img{
-        height:100%;
+        height:calc(100% - var(--gutter) * 2);
         background-size:cover;
         background-repeat:no-repeat;
         background-position:center;
@@ -297,9 +312,9 @@ img.full{
     right:0; 
 }
 
-.slideshow a:nth-child(1) { animation-delay: 0s; }
-.slideshow a:nth-child(2) { animation-delay: 3s; }
-.slideshow a:nth-child(3) { animation-delay: 6s; }
+// .slideshow a:nth-child(1) { animation-delay: 0s; }
+// .slideshow a:nth-child(2) { animation-delay: 3s; }
+// .slideshow a:nth-child(3) { animation-delay: 6s; }
 
 @keyframes fade {
   0%   { opacity: 0; }
@@ -374,12 +389,22 @@ img.full{
     a{
         text-decoration:none;
     }
+    a:hover{
+        .image{
+            opacity:0.8;
+        }
+        h4{
+            color:white;
+        }
+    }
     .image{
         width: 100%;
         padding-top: 70%;
         background-size: cover;
         background-repeat: no-repeat;
         margin-bottom:10px;
+        opacity:1;
+        transition:opacity 400ms;
     }
     h4, h5{
         color: var(--brand-color);
