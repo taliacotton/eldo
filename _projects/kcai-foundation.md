@@ -15,8 +15,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/kcaifoundation-01.jpg"
 
+---
 - 2018
 - Architect
 - Kansas City, MO

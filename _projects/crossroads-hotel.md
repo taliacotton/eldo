@@ -20,8 +20,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/crossroads_1.jpg"
 
+---
 - 2018
 - Architect, Curator, Fabricator
 - Kansas City, MO

@@ -19,8 +19,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/highlanderaccelerator-01.jpg"
 
+---
 - 2018
 - Architect
 - Omaha, NE

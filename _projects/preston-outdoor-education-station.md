@@ -19,8 +19,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
----
+hero_image: "/uploads/preston-13.gif"
 
+---
 - 2016
 - Architect, Fabricator, Educator
 - Elmdale, KS
