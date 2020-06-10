@@ -59,6 +59,27 @@ fields:
 - type: boolean
   name: fabrication
   label: Fabrication
+- name: images_test
+  type: field_group_list
+  fields:
+  - name: image_upload
+    type: file
+    config:
+      maxSize: 64
+    label: Image Upload
+  - name: alt_text
+    type: text
+    config:
+      required: false
+    label: Alt text
+  - name: white/smaller_image_
+    type: boolean
+    label: White/smaller image?
+  config:
+    min: 
+    max: 
+    labelField: alt_text
+  label: Images test
 pages:
 - _projects/girl-scout-camp-prairie-schooner.md
 - _projects/kansas-city-art-institute-master-plan.md
