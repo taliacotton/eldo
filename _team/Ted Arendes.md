@@ -1,6 +1,6 @@
 ---
 layout: team
-name: Ted Arendes, RA
+name: Ted Arendes, R.A.
 role: Associate
 principal: false
 image: ''
