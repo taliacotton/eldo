@@ -6,11 +6,12 @@ let recipient = "";
 const el = document.getElementById("customLink");
 
 
-for (let project of document.querySelectorAll(".project-list li")){
+for (let project of document.querySelectorAll(".project-list li span")){
     project.onclick = function(){
+        let par = this.parentElement
         let slug = this.dataset.slug;
-        this.classList.toggle("selected");
-        this.classList.add("just-clicked");
+        par.classList.toggle("selected");
+        par.classList.add("just-clicked");
         if (!slugs.includes(slug)){
             slugs.push(slug);
         } else {
@@ -26,7 +27,7 @@ for (let project of document.querySelectorAll(".project-list li")){
         el.setSelectionRange(el.value.length,el.value.length);
     }
     project.onmouseleave = function() {
-        this.classList.remove("just-clicked");
+        this.parentElement.classList.remove("just-clicked");
     }
 }
 

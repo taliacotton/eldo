@@ -149,6 +149,7 @@ h4{
     position: relative;
     top: -250px;
     visibility: hidden;
+    margin-top: calc(100vh - 40px);
 }
 
 .flex{
@@ -259,14 +260,16 @@ h4{
 }
 
 .header{
-    // background-color:red;
-    display:flex;
-    height:calc(100vh - 127px);
+    display: flex;
+    height: 100vh;
+    width: calc(100% - var(--side-margin)*2);
+    top: 0vh;
+    position: absolute;
     justify-content: flex-end;
     flex-direction: column;
-    margin:0px var(--side-margin);
-    color:white;
-    text-decoration:none;
+    margin: 0px var(--side-margin);
+    color: white;
+    text-decoration: none;
 }
 
 .layout-about{
@@ -324,6 +327,7 @@ img.full{
 
 .slideshow a { 
     opacity:0; 
+    display: block;
     animation-name: fade; 
     animation-duration: 9s; 
     animation-iteration-count: infinite; 
@@ -340,14 +344,17 @@ img.full{
 // .slideshow a:nth-child(3) { animation-delay: 6s; }
 
 @keyframes fade {
-  0%   { opacity: 0; }
-  11.11%   { opacity: 1; }
-  33.33%  { opacity: 1; }
-  44.44%  { opacity: 0; }
-  100% { opacity: 0; }
+  0%   { opacity: 0; pointer-events:none; z-index:0;}
+  11.11%   { opacity: 1; pointer-events: inherit; z-index:1;}
+  33.33%  { opacity: 1; pointer-events: inherit; z-index:1;}
+  44.44%  { opacity: 0; pointer-events:none; z-index:0;}
+  100% { opacity: 0; pointer-events:none; z-index:0;}
 }
 
 .layout-project{
+    .phantom-nav{
+        // display:none;
+    }
     #nav{
         padding: 0px var(--side-margin);
         margin:0px;
@@ -608,6 +615,15 @@ img.full{
     h1, h2{
         font-size:1.5rem;
     }
+    .project-list{
+        li:hover span, li.selected span{
+            position:relative;
+            left:30px;
+        }
+        li:hover:before, li.selected:before{
+            left:calc(var(--side-margin)*2);
+        }
+    }
 }
 
 @media screen and (max-width:769px){
@@ -648,9 +664,9 @@ img.full{
     .hamburger{
         width: 38px;
         height: 35px;
+        
     }
-    .scroll .hamburger{
-
+    .scroll .hamburger, .layout-project .hamburger{
         display:inline-block;
     }
     .logo{
@@ -678,10 +694,13 @@ img.full{
     }
     .hero{
         top:68px;
-        height:calc(100vh - 68px);
+        // height:calc(100vh - 68px);
     }
+    // .layout-project .phantom-nav{
+    //     display:block;
+    // }
     .header{
-        height:calc(100vh - 68px);
+        // height:calc(100vh - 68px);
     }
     .layout-project .image, .layout-project .image.white{
         height: auto;

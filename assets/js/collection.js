@@ -6,14 +6,16 @@ const projects = urlParams.getAll('id');
 // console.log(projects);
 
 
-document.getElementById("recipient").innerHTML = makeTitle(recipient) + ".";
-document.getElementById("recipient").style.color = "#0afc0a";
+if (recipient !== null){
+    document.getElementById("recipient").innerHTML = makeTitle(recipient) + ".";
+    document.getElementById("recipient").style.color = "#0afc0a";
+}
 
 for (let link of document.querySelectorAll('.thumbnails a')){
     if(projects.indexOf(link.id) !== -1) {
         // does not exist
         
-        // console.log(projects[link.id]);
+        console.log("A:"+ projects[link.id]);
     }
     else {
         link.style.display = "none";

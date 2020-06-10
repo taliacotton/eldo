@@ -15,89 +15,21 @@ layout: tool
 </div>
 <div class="project-list">
     <ul>
-        <h5>#</h5>
-        <li data-slug="300-kansas">
-            <span>300 Kansas</span>
-            <a href="/300-kansas" target="_blank">Preview</a>
-        </li>
-        <li data-slug="3435-main">
-            <span>3435 Main</span>
-            <a href="/3435-main" target="_blank">Preview</a>
-        </li>
-        <h5>A</h5>
-        <li data-slug="al-masar-arts-district">
-            <span>Al Masar Arts District</span>
-            <a href="/al-masar-arts-district" target="_blank">Preview</a>
-        </li>
-        <li data-slug="al-masar-master-plan">
-            <span>Al Masar Master Plan</span>
-            <a href="/al-masar-master-plan" target="_blank">Preview</a>
-        </li>
-        <li data-slug="al-masar-phase-i-implementation">
-            <span>Al Masar Phase I Implementation</span>
-            <a href="/al-masar-phase-i-implementation" target="_blank">Preview</a>
-        </li>
-
-        <h5>C</h5>
-        <li data-slug="camp-daisy-shower-facility">
-            <span>Camp Daisy Shower Facility</span>
-            <a href="/camp-daisy-shower-facility" target="_blank">Preview</a>
-        </li>
-        <li>COX COMMUNICATIONS DISTRIBUTION CENTER</li>
-        <li>CROSSROADS HOTEL</li>
-
-        <h5>F</h5>
-        <li>FLEX STORAGE SYSTEMS</li>
-
-        <h5>G</h5>
-        <li>GIRL SCOUT CAMP PRAIRIE SCHOONER</li>
-
-        <h5>H</h5>
-        <li>HIGHLANDER ACCELERATOR</li>
-
-        <h5>I</h5>
-        <li>INTERSTATE FLATS</li>
-
-        <h5>K</h5>
-        <li>KANSAS CITY ART INSTITUTE – FIBER DEPARTMENT</li>
-        <li>KANSAS CITY ART INSTITUTE – FOUNDATIONS</li>
-        <li>KANSAS CITY ART INSTITUTE – MASTER PLAN</li>
-        <li>KANSAS STATE UNIVERSITY ARCHITECTURE, PLANNING & URBAN DESIGN–REGNIER HALL FAB LAB EXPANSION</li>
-
-        <h5>L</h5>
-        <li>LONE OAKS FARM MASTER PLAN</li>
-
-        <h5>M</h5>
-        <li>MARKET STATION</li>
-        <li>MICHAEL JONES MCKEAN: THE RAINBOW</li>
-
-        <h5>N</h5>
-        <li>NORTH FOREST TRAIL BIOLOGICAL PAVILION</li>
-        <li>NOVEL</li>
-
-        <h5>P</h5>
-        <li>PRESTON OUTDOOR EDUCATION STATION</li>
-
-        <h5>R</h5>
-        <li>RESTART HOUSING</li>
-
-        <h5>S</h5>
-        <li>SHELTON MARSHALL RESIDENCE</li>
-
-        <h5>T</h5>
-        <li>TROOST BRIDGE</li>
-        <li>TROOST TROOST TROOST</li>
-
-        <h5>U</h5>
-        <li>UNIVERSITY OF ARKANSAS – SCULPTURE FACILITY</li>
-        <li>UNIVERSITY OF TENNESSEE AT MARTIN – THE GARAGE</li>
-        <li>UPPER HARBOR TERMINAL</li>
-
-        <h5>V</h5>
-        <li>VOLLAND GENERAL STORE</li>
-
-        <h5>W</h5>
-        <li>WABAUNSEE COUNTY HOMESTEAD</li>
-        <li>WALDO DUPLEX</li>
+        {% assign topics_by_letter = site.projects | group_by_exp: "topic", "topic.title | slice: 0, 1" %}
+        {% for letter in topics_by_letter %}
+            <div>
+                {% if letter.name == "0" or letter.name == "1" or letter.name == "2" or letter.name == "3" or letter.name == "4" or letter.name == "5" or letter.name == "6" or letter.name == "7" or letter.name == "8" or letter.name == "9" %}
+                <h5>#</h5>
+                {% else %}
+                <h5>{{ letter.name }}</h5>
+                {% endif %}
+                {% for item in letter.items %}
+                    <li>
+                        <span data-slug="{{item.slug}}">{{item.title}}</span>
+                        <a href="{{item.url}}" target="_blank">Preview</a>
+                    </li>
+                {% endfor%}
+            </div>
+        {% endfor %}
     </ul>
 </div>
