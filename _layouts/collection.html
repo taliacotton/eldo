@@ -5,9 +5,9 @@
         <h2>This is a custom collection<br>of our work prepared<br>for <span id="recipient">you.</span></h2>
     </div>
     <div class="thumbnails flex">
-        {% assign selection = site.projects | where: page.filter, "true" %}
+        {% assign selection = site.projects | where: page.filter, "true" | sort:"position" %}
         {% for project in selection %}
-        <a href="{{project.url}}" id="{{project.slug}}" style="background-image:url('http://images.ctfassets.net/7ceafwpo4r5g/11HNTFJrQVqWtxnddsLZDo/4e7be4ff99de4225a70d430c907df089/300Kansas-02.jpg?fm=jpg&fl=progressive&w=2440')">
+        <a href="{{project.url}}" id="{{project.slug}}" style="background-image:url('..{{project.hero_image}}')">
             <div><span>{{project.title}}</span></div>
         </a>
         {% endfor %}
