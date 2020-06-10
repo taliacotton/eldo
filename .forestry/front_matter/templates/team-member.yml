@@ -35,6 +35,7 @@ fields:
       section: projects
   label: Related Projects
 pages:
+- _team/Baillie Wiebers.md
 - _team/Brock Traffas.md
 - _team/Chris Burk.md
 - _team/Derik Eckhardt.md
@@ -42,6 +43,7 @@ pages:
 - _team/John Renner.md
 - _team/Kyle Schleicher.md
 - _team/Monica Allen.md
+- _team/Nancy Woodfill.md
 - _team/Spike Liu.md
 - _team/Steve Salzer.md
 - _team/Ted Arendes.md
