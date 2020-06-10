@@ -15,14 +15,16 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/300kansas-02.jpg"
-images:
-- template: image
-  image: "/uploads/300kansas-02.jpg"
-- template: image
-  image: "/uploads/300kansas-09.jpg"
+hero_image: "/uploads/1919-20-0128-hero.png"
+images: []
 images__easier_:
-- "/uploads/300kansas-09.jpg"
+- "/uploads/1919-20-0128-hero.png"
+- "/uploads/1919-20-0128-kansas-no-signage.png"
+- "/uploads/1919-20-0128-int.png"
+images_test:
+- image_upload: "/uploads/project2.png"
+  white/smaller_image_: true
+  alt_text: Folded steel plate
 
 ---
 - 2012
