@@ -5,9 +5,13 @@ name: David Dowell, AIA
 role: Architect
 principal: true
 related_projects:
-- _projects/camp-daisy-shower-facility.md
-- _projects/flex-storage-systems.md
-- _projects/3435-main.md
+- _projects/lone-oaks-farm.md
+- _projects/volland-general-store.md
+- _projects/troost-bridge.md
+- _projects/university-of-arkansas.md
+image: "/uploads/_mg_0105_-bw_crop.jpg"
 
 ---
-John Smith is an architect at el dorado inc. el dorado’s unusually diverse portfolio contains work in academia, public art, urban design and infrastructure, and master planning. Current proj-ects are underway in the Kansas Flint Hills, Northwest Arkansas, Denver, Wichita, Seattle, Cal-gary, St. Louis, Portland, Omaha, and of course, Kansas City. David is interested in exactly four things: the usefulness of higher education, new ways of problem solving through artist collabora-tions, the regenerative value of adaptive re-use and a revitalized public realm.
+David Dowell is a partner at El Dorado Inc., and has practiced architecture for more than twenty-five years. He is interested in work that engages contemporary issues around culture, education and the public good. Current and recent projects include a new facility for the sculpture department at the University of Arkansas, a 1,200 acre master plan for the University of Tennessee's Lone Oaks Farm, and an adaptive reuse project for an Arts and Humanities  Residency program in Volland, KS.
+
+In 2010 David founded the Design+Make Studio, a graduate architecture program at Kansas State University. The studio is the recipient of two ACSA Design-Build awards for their work at Camp Daisy Hindman in Dover, Kansas, and the Preston Outdoor Education Station in Elmdale, Kansas. This year's project, currently underway is a study into affordable housing. From prefabrication to micro units, to entirely new ways of thinking about co-living, the studio balanced these innovative ideas with the tempering constraints of a viable development pro-forma. 
