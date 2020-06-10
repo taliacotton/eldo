@@ -1,7 +1,7 @@
 ---
 title: Josh Shelton
 layout: team
-name: Josh Shelton
+name: Josh Shelton, AIA
 role: Principal
 image: "/assets/img/josh2.png"
 principal: true
