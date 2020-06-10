@@ -1,6 +1,6 @@
 ---
 layout: team
-name: Kyle Schleicher, RA
+name: Kyle Schleicher, R.A.
 role: Project Architect
 principal: false
 image: ''
