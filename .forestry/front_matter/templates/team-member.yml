@@ -34,3 +34,5 @@ fields:
       type: pages
       section: projects
   label: Related Projects
+pages:
+- _team/Chris Burk.md
