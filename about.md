@@ -2,8 +2,8 @@
 permalink: "/about"
 layout: about
 short-description: Established in 1996, El Dorado is an integrated architecture, urban
-  design, curatorial, education and fabrication practice located approximately in
-  Kansas, Missouri.
+  design, curatorial, education and fabrication practice located in Kansas City, Missouri
+  and Portland, Oregon.
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue
   magna nec nisl lacinia bibendum. Donec volutpat mi vitae dolor hendrerit egestas.
   Nunc volutpat lectus sit amet fringilla pulvinar. Pellentesque nec hendrerit lectus,
@@ -24,9 +24,12 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cong
   posuere felis, in laoreet nibh ultricies in. Sed commodo ante ut libero ullamcorper
   efficitur. Vivamus id imperdiet elit.
 hero_image: assets/img/office.png
-full_description: |-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In imperdiet imperdiet orci ut suscipit. Quisque lacinia malesuada metus, eu pulvinar magna vestibulum id. Ut rutrum diam lorem, quis condimentum erat vestibulum eget. Praesent ut vestibulum sapien. Duis et ligula nulla. Vestibulum dolor orci, dignissim non fringilla nec, pellentesque sed ligula. Nulla viverra nunc blandit, fringilla nunc eget, semper neque. Duis vel tincidunt justo. Fusce ac dui aliquet, bibendum nisl pulvinar, pretium ex. Mauris bibendum imperdiet felis nec cursus. Nam at felis tempor, condimentum urna sit amet, rhoncus ipsum. Mauris fringilla viverra tincidunt. Maecenas blandit rhoncus convallis. Suspendisse volutpat fermentum tellus a varius. Nam vel porttitor ligula. Praesent ullamcorper purus justo, et ornare dui blandit at.
-
-  Maecenas porttitor consequat tortor, vitae blandit orci vulputate quis. Aliquam volutpat placerat eleifend. Proin venenatis sem id volutpat congue. Quisque in congue nunc. Aliquam rhoncus sollicitudin erat vitae aliquet. Phasellus lacus tortor, aliquam non tellus et, luctus pharetra ex. Mauris iaculis diam in quam pulvinar, bibendum mollis enim elementum. Cras nec tortor nunc. Nullam ullamcorper dignissim nisi quis sodales. Morbi commodo justo in varius fermentum. Nam at varius mauris, sit amet porttitor mi.
+full_description: In the beginning, as equal parts art gallery, fabrication shop and
+  design studio, we were known for fingerless gloves and raffish outbursts that helped
+  jumpstart Kansas City’s emergent culture. Today, we work purposefully across scales,
+  locations, and contexts, from city blocks to exhibitions, between critical ideas
+  and our intangible, spiritual attachment to place. El Dorado’s two partners and
+  20 staff — including 11 architects, 2 university professors, industrial designers
+  and certified welders — chase big ideas with a common touch.
 
 ---
