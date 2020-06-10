@@ -21,6 +21,7 @@ fields:
     max: 
     step: 
   label: Order
+  hidden: true
 - name: hero_image
   type: file
   config:
