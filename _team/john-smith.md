@@ -1,9 +1,9 @@
 ---
 title: John Smith
 layout: team
-name: John Smith
+name: David Dowell, AIA
 role: Architect
-principal: false
+principal: true
 related_projects:
 - _projects/camp-daisy-shower-facility.md
 - _projects/flex-storage-systems.md
