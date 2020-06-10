@@ -35,6 +35,7 @@ fields:
       section: projects
   label: Related Projects
 pages:
+- _team/Brock Traffas.md
 - _team/Chris Burk.md
 - _team/Derik Eckhardt.md
 - _team/John Renner.md
