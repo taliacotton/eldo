@@ -82,6 +82,7 @@ fields:
     labelField: alt_text
   label: Images test
 pages:
+- _projects/20th-street-streetscape.md
 - _projects/girl-scout-camp-prairie-schooner.md
 - _projects/kansas-city-art-institute-master-plan.md
 - _projects/kansas-state-university-architecture-planning-urban-design-regnier-hall-fab-lab-expansion.md
