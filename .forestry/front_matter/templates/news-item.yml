@@ -16,6 +16,7 @@ fields:
   name: date
   label: Date
 pages:
+- _news/a-guide-to-kansas-city-missouri-its-history-its-culture-and-why-it-s-worth-a-closer-look.md
 - _news/another-news-item.md
 - _news/highway-connector.md
 - _news/the-middle-of-everywhere.md
