@@ -12,10 +12,6 @@ Questions
 
 To Do Immediate
 - Click outside of dropdown to close
-- project page bottom black
-- tool buggy?
-- Mobile fixes
-- Fix slideshow link
 
 To Do Soon
 - Content
