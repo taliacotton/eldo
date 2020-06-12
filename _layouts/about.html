@@ -32,7 +32,7 @@
         {% for principal in principals %}
         <a href="{{principal.url}}">
             <!-- <img class="full" src="{{principal.image}}"> -->
-            <div class="image" style="background-image:url({{site.url}}{{principal.image}})"></div>
+            <div class="image" style="background-image:url({{principal.image}})"></div>
             <h4>{{principal.title}}</h4>
             <h5>{{principal.role}}</h5>
         </a>
@@ -66,5 +66,5 @@
 </div>
 
 {% include footer.html %}
-<script src="/assets/js/nav.js" async defer></script>
-<script src="/assets/js/dropdown.js" async defer></script>
+<script src="assets/js/nav.js" async defer></script>
+<script src="assets/js/dropdown.js" async defer></script>
