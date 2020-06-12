@@ -22,6 +22,10 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
+related_projects:
+- _projects/restart-housing.md
+- _projects/interstate-flats.md
+images_test: []
 
 ---
 - 2017
