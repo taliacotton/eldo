@@ -36,13 +36,26 @@
 </div>
 <div class="main">
     <h2>Related</h2>
+    {% if page.related_projects %}
     <div class="thumbnails flex">
-        {% if page.architecture %}
-        {% assign selection = site.projects | where: "architecture", "true" | sort:"position" %}
+        {% assign length = page.related_projects | size %}
+        {% if length > 0 %}
+            {% for list_item in page.related_projects %}
+            {% assign related_project = site.projects | where: "path", list_item | first %}
+                <a href="{{related_project.url}}" style="background-image:url('{{related_project.hero_image}}')">
+                    <div><span>{{related_project.title}}</span></div>
+                </a>
+            {% endfor %}
+        {% endif %}
+    </div>
+    {% else %}
+    <div class="thumbnails flex">
+        {% if page.education %}
+        {% assign selection = site.projects | where: "education", "true" | sort:"position" %}
         {% else if page.curatorial %}
         {% assign selection = site.projects | where: "curatorial", "true" | sort:"position" %}
-        {% else if page.education %}
-        {% assign selection = site.projects | where: "education", "true" | sort:"position" %}
+        {% else if page.architecture %}
+        {% assign selection = site.projects | where: "architecture", "true" | sort:"position" %}
         {% endif %}
         {% for project in selection limit:5 %}
             {% if project.title != page.title %}
@@ -52,6 +65,7 @@
             {% endif %}
         {% endfor %}
     </div>
+    {% endif %}
 </div>
 {% include footer.html %}
 <script src="{{site.url}}/assets/js/nav.js" async defer></script>
