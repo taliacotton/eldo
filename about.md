@@ -12,5 +12,6 @@ full_description: In the beginning, as equal parts art gallery, fabrication shop
   and our intangible, spiritual attachment to place. El Dorado’s two partners and
   20 staff — including 11 architects, 2 university professors, industrial designers
   and certified welders — chase big ideas with a common touch.
+vimeo_link: https://player.vimeo.com/video/87110435
 
 ---
