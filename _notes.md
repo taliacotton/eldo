@@ -18,17 +18,21 @@ To Do Soon
 
 -----
 
-How's it going? Ease of process?
+
+
+How's it going? Ease of process? Tags?
 - 
+
+Fixed found bugs/design
+- About page read more
+- Images on people (don't use _!)
+- Small spacing issue on about page
+- Footer problem
+- Relevant projects on team page
 
 New features
 - Vimeo (optional)
 - Project page related 
-
-Fixed found bugs/design
-- Images on people (don't use _!)
-- Small spacing issue on about page
-- Footer problem
 
 New bugs? / To do
 - White image fix?
