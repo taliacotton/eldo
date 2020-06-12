@@ -344,11 +344,11 @@ img.full{
 // .slideshow a:nth-child(3) { animation-delay: 6s; }
 
 @keyframes fade {
-  0%   { opacity: 0; pointer-events:none; z-index:0;}
-  11.11%   { opacity: 1; pointer-events: inherit; z-index:1;}
-  33.33%  { opacity: 1; pointer-events: inherit; z-index:1;}
-  44.44%  { opacity: 0; pointer-events:none; z-index:0;}
-  100% { opacity: 0; pointer-events:none; z-index:0;}
+  0%   { opacity: 0; pointer-events:none; z-index:-1;}
+  11.11%   { opacity: 1; pointer-events: inherit; z-index:0;}
+  33.33%  { opacity: 1; pointer-events: inherit; z-index:0;}
+  44.44%  { opacity: 0; pointer-events:none; z-index:-1;}
+  100% { opacity: 0; pointer-events:none; z-index:-1;}
 }
 
 .layout-project{
