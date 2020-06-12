@@ -33,18 +33,18 @@ fields:
 - type: textarea
   name: description
   label: Description
-- name: images
-  type: blocks
-  label: Images
-  template_types:
-  - image
+- name: related_projects
+  type: list
   config:
+    use_select: true
     min: 
     max: 
-- name: images__easier_
-  type: image_gallery
-  config: {}
-  label: Images (easier)
+    source:
+      type: pages
+      section: projects
+  label: Related Projects
+  description: If left blank, there will be an automatic generated list of projects
+    with the same tag
 - type: boolean
   name: architecture
   label: Architecture
@@ -60,6 +60,18 @@ fields:
 - type: boolean
   name: fabrication
   label: Fabrication
+- name: images
+  type: blocks
+  label: Images
+  template_types:
+  - image
+  config:
+    min: 
+    max: 
+- name: images__easier_
+  type: image_gallery
+  config: {}
+  label: Images (easier)
 - name: images_test
   type: field_group_list
   fields:
