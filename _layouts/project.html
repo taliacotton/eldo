@@ -37,11 +37,19 @@
 <div class="main">
     <h2>Related</h2>
     <div class="thumbnails flex">
-        {% assign selection = site.projects %}
-        {% for project in selection limit:4 %}
-        <a href="{{project.url}}" style="background-image:url('..{{project.hero_image}}')">
-            <div><span>{{project.title}}</span></div>
-        </a>
+        {% if page.architecture %}
+        {% assign selection = site.projects | where: "architecture", "true" | sort:"position" %}
+        {% else if page.curatorial %}
+        {% assign selection = site.projects | where: "curatorial", "true" | sort:"position" %}
+        {% else if page.education %}
+        {% assign selection = site.projects | where: "education", "true" | sort:"position" %}
+        {% endif %}
+        {% for project in selection limit:5 %}
+            {% if project.title != page.title %}
+            <a href="{{project.url}}" style="background-image:url('..{{project.hero_image}}')">
+                <div><span>{{project.title}}</span></div>
+            </a>
+            {% endif %}
         {% endfor %}
     </div>
 </div>
