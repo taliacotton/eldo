@@ -3,7 +3,6 @@ layout: default
 --
 
 Questions
-- How many projects do you have?
 - Project page: Related posts automatic or choose?
 -- automatic -- BOTH! :D
 
