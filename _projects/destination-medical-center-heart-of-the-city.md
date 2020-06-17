@@ -32,3 +32,25 @@ images_test: []
 published: false
 
 ---
+* In progress
+* Architect
+* Rochester, MN
+* 3.6 acres
+
+### Client
+
+* Coen+Partners
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+* Project Manager: John Reeves, AIA
+* Project Designer: Brock Traffas
+* Curator: Hesse McGraw
+
+### Artists
+
+* Eric Anderson
+* Ann Hamilton
+* Rafael Lozano Hemmer
+* Iñigo Manglano-Ovalle
