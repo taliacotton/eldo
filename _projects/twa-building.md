@@ -27,3 +27,44 @@ images_test: []
 published: false
 
 ---
+* 2006
+* Architect
+* Kansas City, MO
+* 135,000 SF
+
+### Client
+
+* TWA Lofts LLC
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+* Project Manager: Steve Salzer, AIA
+* Project Architect: Chris Burk
+
+### Collaborators
+
+* Contractor: Harris Construction
+* Structural / Civil Engineer: Norton & Schmidt
+* MEP: Lankford & Fendler
+* Code Consulting: Jeff Boyle
+
+### Awards
+
+* 2008 Greening Rooftops for Sustainable Communities - Green Roof Excellence Award
+* 2008 National Trust for Historic Preservation - National Preservation Honor Award
+* 2008 AIA Central States Region Design Awards - Honor Award
+* 2008 Missouri Preservation Honor Awards - Preservation Missouri Award
+* 2007 AIA Kansas City Design Excellence Awards - Merit Award
+* 2007 AIA Kansas City Young Architects Forum - Honor Award
+* 2007 Kansas City Economic Development Corp. - Cornerstone Award
+* 2006 AIA Kansas City Design Excellence Awards - Architectural Excellence in Retrospect Award
+
+### Press
+
+* Architect Magazine
+* MetroWire Media, Autumn Morning Sky, ["Waldo Project Offers Solution to Soaring Rents"](http://www.metrowiremedia.com/news/ksu-grads-kc-firms-launch-waldo-project-as-solution-for-soaring-rents "Waldo Project Offers Solution to Soaring Rents"), 2017
+
+### Photography by
+
+* Mike Sinclair
