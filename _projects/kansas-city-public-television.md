@@ -33,3 +33,29 @@ images_test: []
 published: false
 
 ---
+* On the Boards
+* Architect, Fabricator
+* Kansas City, MO
+* 35,000 SF renovated (44,000 SF total)
+
+### Client
+
+* KCPT
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+* Project Manager: Sean Slattery, AIA, LEED AP BD+C
+* Project Architect: Grace Broeder; 
+* Project Designer: Tamra Collins, AIA, LFA, LEED AP BD+C
+
+### Collaborators
+
+* Contractor: AL Huber
+* Structural: Norton & Schmidt
+* MEP: PKMR Engineers
+
+### Artists
+
+* Mike Sinclair
+* James Woodfill
