@@ -29,3 +29,37 @@ images_test: []
 published: false
 
 ---
+* 2013
+* Architect
+* Leawood, KS
+* 18,240 SF
+
+### Client
+
+* The Palo Verde Group / iModules
+
+### Eldo Team
+
+* Principal: Doug Stockman
+* Project Manager: John Reeves, AIA
+* Project Designer: Gavin Snyder
+
+### Collaborators
+
+* Structural/Civil Engineer: Wallace Engineering
+* MEP Engineer: PKMR
+* Landscape Architect: Groundworks
+
+### Awards
+
+* 2015 AIA Central States Region Design Awards - Honor Award
+* 2015 AIA Kansas City Design Excellence Awards - Honor Award
+
+### Press
+
+* ArchDaily, "[Leawood Speculative Office / El Dorado](https://www.archdaily.com/785670/leawood-speculative-office-el-dorado?platform=hootsuite)", 2016
+* Archpaper, Anna Bergren Miller, "[el dorado's Josh Shelton on Merging Facade Design and Fabrication](https://archpaper.com/2016/07/el-dorado-josh-shelton-facade-design-fabrication/)", 2016
+
+### Photography by
+
+* Mike Sinclair
