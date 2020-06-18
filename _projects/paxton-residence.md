@@ -28,3 +28,25 @@ images: []
 published: false
 
 ---
+* 2013
+* Architect
+* Fairway, KS
+* 4,500 SF
+
+### Client
+
+* Heather Paxton
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+* Project Manager: Chris Burk
+* Fabricator: Nick Kratz, ,Brent Higgins
+
+### Collaborators
+
+* Contractor: Hurst Construction
+
+### Photography by
+
+* Mike Sinclair
