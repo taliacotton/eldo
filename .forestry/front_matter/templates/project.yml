@@ -74,6 +74,7 @@ fields:
   config: {}
   label: Images
 pages:
+- _projects/aron-levin-residence.md
 - _projects/botwin-building.md
 - _projects/boulevard-brewery-co.expansion.md
 - _projects/byers-residence.md
