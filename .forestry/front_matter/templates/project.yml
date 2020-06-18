@@ -33,6 +33,10 @@ fields:
 - type: textarea
   name: description
   label: Description
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
 - name: related_projects
   type: list
   config:
@@ -69,16 +73,13 @@ fields:
     min: 
     max: 
   hidden: true
-- name: images
-  type: image_gallery
-  config: {}
-  label: Images
 pages:
 - _projects/aron-levin-residence.md
 - _projects/bhargava-residence.md
 - _projects/botwin-building.md
 - _projects/boulevard-brewery-co.expansion.md
 - _projects/byers-residence.md
+- _projects/camp-daisy-cabin-prototype.md
 - _projects/destination-medical-center-heart-of-the-city.md
 - _projects/girl-scout-camp-prairie-schooner.md
 - _projects/hughes-residence.md

@@ -20,7 +20,7 @@ description: "The Camp Daisy Shower Facility uses low-tech strategies to keep th
 architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 hero_image: "/uploads/_mg_3131_.jpg"
 
