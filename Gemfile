@@ -28,5 +28,12 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem 'jekyll-srcset'
+# gem 'jekyll-srcset'
 
+# gem "jekyll-assets", group: :jekyll_plugins
+
+gem 'jekyll-compress-images'
+
+gem "jekyll-assets", group: :jekyll_plugins
+gem "jekyll-assets", git: "https://github.com/envygeeks/jekyll-assets", group: :jekyll_plugins
+gem "jekyll-assets", "~> x.x.alpha", group: :jekyll_plugins
