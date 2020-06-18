@@ -38,3 +38,4 @@ New bugs? / To do
 - White image fix?
 - Image sizes
 - Project order
+- Can't preview
