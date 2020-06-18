@@ -25,3 +25,37 @@ images_old: []
 published: false
 
 ---
+* 2013 (planning)
+* Architect
+* Lawrence, KS
+* 7 City Blocks
+
+### Client
+
+* City of Lawrence
+
+### Eldo Team
+
+* Principal: Josh Shelton, AIA
+* Project Manager: Chris Burk
+* Designer: Kara Schippers
+
+### Collaborators
+
+* Landscape Architect: Coen + Partners
+
+### Awards
+
+* 2016 AIA Kansas Design Awards - Merit Award
+
+### Press
+
+* KCUR, Laura Spencer, "[Eight Artists Selected For East Ninth Street Project In Lawrence](https://www.kcur.org/post/eight-artists-selected-east-ninth-street-project-lawrence#stream/0 )," 2015
+* Lawrence Journal World, JOANNA HLAVACEK, "[Getting to know you: An introduction to East Ninth Project’s commissioned artists](https://www2.ljworld.com/news/2015/aug/05/getting-know-you-introduction-east-ninth-projects/ )," 2015
+* Lawrence Journal World, Nikki Wentling, "[City Commission provides feedback on East Ninth Project; final design expected in February](http://www2.ljworld.com/news/2015/oct/20/city-commission-provides-feedback-east-ninth-proje/)," 2015
+* KCUR, Laura Spencer, "[Lawrence Residents Weigh In On Plans For East 9th Street](https://www.kcur.org/post/lawrence-residents-weigh-plans-east-9th-street#stream/0)," 2014
+* Lawrence Journal-World, Rochelle Valverde, "[After rejecting $320,000 design for East Ninth Street, city set to spend more money for new plans](https://www2.ljworld.com/weblogs/town_talk/2017/aug/07/after-rejecting-design-east-ninth-street-city-set/ )," 2017
+
+### Photography by
+
+* Mike Sinclair
