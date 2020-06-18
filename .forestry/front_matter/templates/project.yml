@@ -60,39 +60,19 @@ fields:
 - type: boolean
   name: fabrication
   label: Fabrication
-- name: images
+- name: images_old
   type: blocks
-  label: Images
+  label: Images_old
   template_types:
   - image
   config:
     min: 
     max: 
-- name: images__easier_
+  hidden: true
+- name: images
   type: image_gallery
   config: {}
-  label: Images (easier)
-- name: images_test
-  type: field_group_list
-  fields:
-  - name: image_upload
-    type: file
-    config:
-      maxSize: 64
-    label: Image Upload
-  - name: alt_text
-    type: text
-    config:
-      required: false
-    label: Alt text
-  - name: white/smaller_image_
-    type: boolean
-    label: White/smaller image?
-  config:
-    min: 
-    max: 
-    labelField: alt_text
-  label: Images test
+  label: Images
 pages:
 - _projects/botwin-building.md
 - _projects/boulevard-brewery-co.expansion.md
