@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Alma Pavilion
+title: Alma Shade Pavilion
 position: 
 hero_image: ''
 short-description: Architecture mimicking landscape
@@ -21,3 +21,25 @@ images_old: []
 published: false
 
 ---
+* 2015
+* Architect, Fabricator, Educator
+* Alma, KS
+* 1,800 SF
+
+### Client
+
+* City of Alma
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+* Design+Build Team: KSU Design+Make Studio
+
+### Collaborators
+
+* Contractor: Don Hendricks
+* Structural Engineer: Bob D Campbell & Associates
+
+### Photography by
+
+* Mike Sinclair
