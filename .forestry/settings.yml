@@ -34,10 +34,10 @@ sections:
 - type: document
   path: _config.yml
   label: Sitewide Info
-upload_dir: https://res.cloudinary.com/dvw5z1j6l/image/upload
+upload_dir: https://res.cloudinary.com/dvw5z1j6l/eldo
 public_path: https://res.cloudinary.com/dvw5z1j6l/eldo
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
