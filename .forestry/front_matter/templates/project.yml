@@ -74,6 +74,7 @@ fields:
     max: 
   hidden: true
 pages:
+- _projects/20th-street-streetscape.md
 - _projects/alma-pavilion.md
 - _projects/aron-levin-residence.md
 - _projects/bhargava-residence.md
