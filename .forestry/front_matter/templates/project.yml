@@ -33,6 +33,10 @@ fields:
 - type: textarea
   name: description
   label: Description
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
 - name: related_projects
   type: list
   config:
@@ -69,17 +73,16 @@ fields:
     min: 
     max: 
   hidden: true
-- name: images
-  type: image_gallery
-  config: {}
-  label: Images
 pages:
 - _projects/aron-levin-residence.md
+- _projects/bhargava-residence.md
 - _projects/botwin-building.md
 - _projects/boulevard-brewery-co.expansion.md
 - _projects/byers-residence.md
+- _projects/camp-daisy-cabin-prototype.md
 - _projects/destination-medical-center-heart-of-the-city.md
 - _projects/girl-scout-camp-prairie-schooner.md
+- _projects/hughes-residence.md
 - _projects/illinois-creek-ranch.md
 - _projects/kansas-city-art-institute-master-plan.md
 - _projects/kansas-city-public-television.md
@@ -87,6 +90,7 @@ pages:
 - _projects/lawrence-residence.md
 - _projects/leawood-speculative-office.md
 - _projects/limelight.md
+- _projects/lone-oaks-farm-phase-i-implementation.md
 - _projects/market-station.md
 - _projects/motley-master-plan.md
 - _projects/national-center-for-drug-free-sport.md
@@ -98,3 +102,4 @@ pages:
 - _projects/university-of-tennessee-at-martin-the-garage.md
 - _projects/upper-harbor-terminal.md
 - _projects/westside-residence.md
+- _projects/willoughby-design-barn.md
