@@ -1,6 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-<<<<<<< HEAD
 uploads/** filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> bf69cb53c4afb7000884416041b22b6abb061a05
+

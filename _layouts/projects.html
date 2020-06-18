@@ -4,11 +4,7 @@
     <div class="thumbnails flex">
         {% assign selection = site.projects | where: page.filter, "true" | sort:"position" %}
         {% for project in selection %}
-<<<<<<< HEAD
         <a href="{{project.url}}" style="background-image:url('..{{project.hero_image}}?nf_resize=smartcrop&w=750')">
-=======
-        <a href="{{project.url}}" style="background-image:url('..{{project.hero_image}}')">
->>>>>>> bf69cb53c4afb7000884416041b22b6abb061a05
             <div><span>{{project.title}}</span></div>
         </a>
         {% endfor %}
