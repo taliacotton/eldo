@@ -28,3 +28,16 @@ images: []
 published: false
 
 ---
+* On-going
+* Architect
+* Leawood, KS
+* 700 SF
+
+### Client
+
+* Victor & Julie Tyler
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+* Project Architect: Ted Arendes, RA
