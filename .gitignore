@@ -1,6 +1,9 @@
 _site
 .sass-cache
 .jekyll-metadata
+<<<<<<< HEAD
 
 # Local Netlify folder
 .netlify
+=======
+>>>>>>> bf69cb53c4afb7000884416041b22b6abb061a05
