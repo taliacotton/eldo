@@ -1,9 +1,1 @@
-
-<svg viewBox="0 0 28 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs></defs>
-    <g id="050820" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Tool4" transform="translate(-177.000000, -655.000000)" fill-rule="nonzero" stroke="#0AFC0A" stroke-width="5">
-            <polyline id="Path-2-Copy" points="179 667.045455 185.967742 674 203 657"></polyline>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 28 23"><g id="50820" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Tool4" fill-rule="nonzero" stroke="#0AFC0A" stroke-width="5" transform="translate(-177.000000, -655.000000)"><polyline id="Path-2-Copy" points="179 667.045 185.968 674 203 657"/></g></g></svg>
