@@ -74,6 +74,7 @@ fields:
     max: 
   hidden: true
 pages:
+- _projects/alma-pavilion.md
 - _projects/aron-levin-residence.md
 - _projects/bhargava-residence.md
 - _projects/botwin-building.md
