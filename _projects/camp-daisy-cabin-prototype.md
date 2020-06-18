@@ -18,3 +18,40 @@ images: []
 published: false
 
 ---
+* 2013
+* Architect, Educator
+* Dover, KS
+* 160 SF
+
+### Client
+
+* Girl Scouts of NE Kansas and NW Missouri
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+
+### Collaborators
+
+* Contractor: KSU Design+Make Studio; Kelley Construction
+* Structural Engineer: Genesis Structures
+* MEP Engineer: PKMR
+* Civil Engineer: Wallace Engineering
+
+### Awards
+
+* 2016 Association of Collegiate Schools of Architecture (ACSA) - Design-Build Award
+* 2014 KC Magazine Design Excellence Awards - Silver
+* 2013 AIA Central States Region Design Awards - Merit Award
+* 2013 AIA Kansas Design Awards - Honor Award, Student Work
+* 2013 Kansas State University - Kremer Prize for Outstanding Collaborative Design Achievement
+
+### Press
+
+* The Topeka Capital-Journal, Corey Jones, ["Camp Daisy getting a fresh look"](https://www.cjonline.com/article/20120612/NEWS/306129775 "Camp Daisy getting a fresh look"), 2012
+* Kansas City Magazine, [PDF](https://app.forestry.io/sites/wn-opkownaxgfq/body-media///assets.ctfassets.net/7ceafwpo4r5g/7vz4sOGFRRXFMsMcQ1zCHU/f7beb80fd5ffd0ebd7b2e5a8de27ff63/2014-KC_Mag_Design_Excellence_Awards.pdf "Download PDF: Design Excellence Awards"), 2014
+* Residential Architect, [PDF](https://app.forestry.io/sites/wn-opkownaxgfq/body-media///assets.ctfassets.net/7ceafwpo4r5g/6kp8xnSP0ovG31QhoREPtH/835311df9266eff1d74856ccfd5e4786/2014-Residential_Architect_Awards_Camp_Daisy_Shower_Facility.pdf "Download PDF: Camp Daisy Hindman Shower Facility"), 2014
+
+### Photography by
+
+* Mike Sinclair
