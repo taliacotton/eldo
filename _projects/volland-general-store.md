@@ -21,6 +21,18 @@ urban-design: false
 education: false
 fabrication: false
 hero_image: "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
+images:
+- "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
+- "/v1592605604/eldo/VollandStore_5_b5sne2.jpg"
+- "/v1592605607/eldo/VollandStore_3_q3vnjz.jpg"
+- "/v1592605610/eldo/VollandStore_2_t7kw8n.jpg"
+- "/v1592605613/eldo/VollandStore_7_iykqyu.jpg"
+- "/v1592605615/eldo/VollandStore_6_xgg0yu.jpg"
+- "/v1592605615/eldo/VollandStore_8_w9m8do.jpg"
+- "/v1592605617/eldo/VollandStore_4_vfbvfs.jpg"
+- "/v1592605617/eldo/VollandStore_9_ici6fm.jpg"
+- "/v1592605621/eldo/VollandStore_10_js4bml.jpg"
+- "/v1592605621/eldo/VollandStore_11_g20zwx.jpg"
 
 ---
 * 2015
