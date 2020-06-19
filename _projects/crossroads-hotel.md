@@ -20,7 +20,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/crossroads_1.jpg"
+hero_image: "/v1592593726/eldo/crossroads_1_l0nsve.jpg"
 
 ---
 - 2018
