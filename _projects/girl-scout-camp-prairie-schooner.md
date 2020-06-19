@@ -2,7 +2,7 @@
 layout: project
 title: Girl Scout Camp Prairie Schooner
 position: 
-hero_image: "/uploads/campprairie_1.jpg"
+hero_image: "/v1592607149/eldo/CampPrairie_1_lomyap.jpg"
 short-description: A restrained palette broadcasts the optimism of the Girl Scouts.
 description: Camp Prairie Schooner sits high on the bluffs of the Little Blue River,
   and with 176 wooded acres, the camp feels like wilderness in the heart of Kansas
@@ -13,13 +13,25 @@ description: Camp Prairie Schooner sits high on the bluffs of the Little Blue Ri
   room that efficiently serves both volumes. Standard, off-the-rack scissor trusses
   give the roof iconic form and inexpensive painted corrugated metal provides the
   skin. Vibrant endwalls provide way-finding for campers and identify individual troops.
-images: []
+images:
+- "/v1592607189/eldo/CampPrairie_3b_b0do4k.jpg"
+- "/v1592607163/eldo/campprairie_3_ho4jkc.jpg"
+- "/v1592607179/eldo/CampPrairie_5_lyxy5t.jpg"
+- "/v1592607198/eldo/CampPrairie_11_ygpmx2.jpg"
+- "/v1592607195/eldo/CampPrairie_7_znjtdq.jpg"
+- "/v1592607173/eldo/CampPrairie_12_dmb70i.jpg"
+- "/v1592607195/eldo/CampPrairie_2_qcwwke.jpg"
+- "/v1592607193/eldo/CampPrairie_8_xtehng.jpg"
+- "/v1592607198/eldo/CampPrairie_6_zuhev9.jpg"
+- "/v1592607182/eldo/CampPrairie_4_bmff3x.jpg"
 images__easier_: []
 architecture: false
 curatorial: false
 urban-design: false
 education: false
 fabrication: false
+related_projects: []
+images_old: []
 
 ---
 - 2012
