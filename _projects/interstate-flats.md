@@ -25,7 +25,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/interstate_1.jpg"
+hero_image: "/v1592593911/eldo/interstate_1_e7sdkv.jpg"
 
 ---
 - 2016
