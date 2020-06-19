@@ -2,7 +2,7 @@
 layout: project
 title: Market Station
 position: 
-hero_image: "/uploads/marketstation-01.jpg"
+hero_image: "/v1592593181/eldo/hero_images/marketstation-01_pyc7zq.jpg"
 short-description: Urban design that is crafted.
 description: |-
   In the summer of 2015, Continuum
@@ -28,6 +28,8 @@ curatorial: true
 urban-design: true
 education: false
 fabrication: false
+related_projects: []
+images_old: []
 
 ---
 - 2020 (anticipated)
