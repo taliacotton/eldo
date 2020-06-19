@@ -30,7 +30,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/restart_1.jpg"
+hero_image: "/v1592593131/eldo/hero_images/restart_1_fdfjem.jpg"
 
 ---
 - 2015
