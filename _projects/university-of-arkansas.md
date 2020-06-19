@@ -23,6 +23,24 @@ description: "*Collaboration with Modus Studio* \n\nThe first building in the em
   shop, mold making/wax studio, advanced technologies lab, foundry, indoor/outdoor
   work areas, storage lockers, critique space, and voluminous gallery."
 hero_image: "/v1592593147/eldo/hero_images/art_designfacility-10_lusmtm.jpg"
+images:
+- "/v1592605541/eldo/Art_DesignFacility-08_y9i5ym.jpg"
+- "/v1592605544/eldo/Art_DesignFacility-03_hlyh25.jpg"
+- "/v1592605546/eldo/Art_DesignFacility-07_hohajh.jpg"
+- "/v1592605547/eldo/Art_DesignFacility-04_klvtup.jpg"
+- "/v1592605548/eldo/Art_DesignFacility-02_wiziml.jpg"
+- "/v1592605551/eldo/Art_DesignFacility-12_jbeeov.jpg"
+- "/v1592605552/eldo/Art_DesignFacility-09_ud4w3p.jpg"
+- "/v1592605552/eldo/Art_DesignFacility-06_lskwyr.jpg"
+- "/v1592605559/eldo/Art_DesignFacility-11_mdfytj.jpg"
+- "/v1592605559/eldo/Art_DesignFacility-16_weuaaw.jpg"
+- "/v1592605563/eldo/Art_DesignFacility-18_uwumbx.jpg"
+- "/v1592605568/eldo/Art_DesignFacility-17_ma7jhc.jpg"
+- "/v1592605568/eldo/Art_DesignFacility-13_z5qmjz.jpg"
+- "/v1592605568/eldo/Art_DesignFacility-15_m60zzg.jpg"
+- "/v1592605571/eldo/Art_DesignFacility-20_uz3pfl.jpg"
+- "/v1592605571/eldo/Art_DesignFacility-19_utfnd4.jpg"
+- "/v1592605574/eldo/Art_DesignFacility-21_vmtaf3.jpg"
 
 ---
 * 2016
