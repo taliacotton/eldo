@@ -3,19 +3,26 @@ layout: project
 title: Kansas State University Architecture, Planning & Urban Design–Regnier Hall
   Fab Lab Expansion
 position: 
-hero_image: "/uploads/regnier-01.jpg"
+hero_image: "/v1592607354/eldo/regnier-01_t8spho.jpg"
 short-description: A nexus for interdisciplinary engagement, outreach and research.
 description: |-
   In collaboration with Ennead and BNIM architects, EL DORADO provided design leadership and planning services in the creation of a fabrication-based research laboratory that supports the pedagogy of the curriculum and provides students with a state of the art learning environment encouraging cross-disciplinary interaction and innovation.
 
   The design of the labs complement the studios above, by breaking down the barriers between the disciplines and vertically integrating the community of designers. At 70% of the new construction within the expansion, each of the 16 labs act as a hybrid between workshop and classroom, transforming the lab experience into a nurturing environment for learning and exploring. The new Center for Design Excellence within the fab lab offers a flexible space to allow for full-scale mock-ups and a range of uses that permit the students to showcase their work throughout the year.
-images: []
+images:
+- "/v1592605239/eldo/regnier-06_nymcmw.jpg"
+- "/v1592605248/eldo/regnier-04_b2tfpx.jpg"
+- "/v1592605248/eldo/regnier-03_h1ynxu.jpg"
+- "/v1592605249/eldo/regnier-05_zaloiz.jpg"
+- "/v1592605250/eldo/regnier-02_yqxuer.jpg"
 images__easier_: []
 architecture: false
 curatorial: false
 urban-design: false
 education: false
 fabrication: false
+related_projects: []
+images_old: []
 
 ---
 - 2017
