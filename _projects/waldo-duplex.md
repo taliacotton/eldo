@@ -2,7 +2,7 @@
 layout: project
 title: Waldo Duplex
 position: 
-hero_image: "/uploads/waldoduplex_1.jpg"
+hero_image: "/v1592606011/eldo/WaldoDuplex_1_jk3pyx.jpg"
 short-description: Can we build affordably, satisfy a strict economic model, and support
   the dignity of the residents?
 description: |-
