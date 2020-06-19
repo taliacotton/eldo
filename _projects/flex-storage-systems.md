@@ -17,6 +17,21 @@ urban-design: false
 education: false
 fabrication: false
 hero_image: "/v1592593158/eldo/hero_images/flex-13_m0v7jb.jpg"
+images:
+- "/v1592604633/eldo/FLEX-02_m0nupx.jpg"
+- "/v1592604633/eldo/FLEX-03_v1bvxx.jpg"
+- "/v1592604639/eldo/FLEX-15_oiqdrn.jpg"
+- "/v1592604640/eldo/FLEX-08_umk2tb.jpg"
+- "/v1592604642/eldo/FLEX-06_fcf8oi.jpg"
+- "/v1592604642/eldo/FLEX-04_eqltvn.jpg"
+- "/v1592604642/eldo/FLEX-05_wclhuv.jpg"
+- "/v1592604643/eldo/FLEX-01_gkpqfz.jpg"
+- "/v1592604646/eldo/FLEX-07_tgzgwb.jpg"
+- "/v1592604651/eldo/FLEX-14_kpusoe.jpg"
+- "/v1592604652/eldo/FLEX-09_czgcfb.jpg"
+- "/v1592604653/eldo/FLEX-11_swjbzr.jpg"
+- "/v1592604653/eldo/FLEX-10_odom6j.jpg"
+- "/v1592604654/eldo/FLEX-12_vkx1cc.jpg"
 
 ---
 - 2003
