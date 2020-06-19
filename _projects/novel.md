@@ -17,7 +17,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/novel_1.jpg"
+hero_image: "/v1592603869/eldo/novel_1_fz2mqx.jpg"
 
 ---
 - 2018
