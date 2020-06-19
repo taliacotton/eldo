@@ -17,7 +17,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/coxcomm_2.jpg"
+hero_image: "/v1592593182/eldo/hero_images/coxcomm_2_ugkmml.jpg"
 
 ---
 - 2007
