@@ -34,8 +34,8 @@ sections:
 - type: document
   path: _config.yml
   label: Sitewide Info
-upload_dir: assets/img
-public_path: https://eldo2.netlify.app/assets/img
+upload_dir: uploads
+public_path: https://eldo2.netlify.app/uploads
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
