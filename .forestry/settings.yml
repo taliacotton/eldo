@@ -34,7 +34,7 @@ sections:
 - type: document
   path: _config.yml
   label: Sitewide Info
-upload_dir: https://res.cloudinary.com/dvw5z1j6l/eldo
+upload_dir: eldo
 public_path: https://res.cloudinary.com/dvw5z1j6l/eldo
 front_matter_path: ''
 use_front_matter_path: true
