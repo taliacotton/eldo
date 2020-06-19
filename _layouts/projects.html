@@ -4,7 +4,7 @@
     <div class="thumbnails flex">
         {% assign selection = site.projects | where: page.filter, "true" | sort:"position" %}
         {% for project in selection %}
-        <a href="{{project.url}}" style="background-image:url('..{{project.hero_image}}?nf_resize=smartcrop&w=700&h=500')">
+        <a href="{{project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ project.hero_image }}')">
             <div><span>{{project.title}}</span></div>
         </a>
         {% endfor %}
