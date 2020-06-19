@@ -1,7 +1,16 @@
 {% include header.html %}
 {% include nav.html %}
 
-<div class="hero" style="background-image: url('{{page.hero_image}}?nf_resize=smartcrop&w=1600&h=800')"></div>
+<!-- <div class="hero" style="background-image: url('{{ site.cloudinary_url }}c_scale,w_1700{{page.hero_image}}')"></div> -->
+<img class="hero" 
+    src="{{ site.cloudinary_url }}c_scale,w_1700{{page.hero_image}}"
+    srcset="
+        {{ site.cloudinary_url }}/w_500{{page.hero_image}} 500w,
+        {{ site.cloudinary_url }}/w_710{{page.hero_image}} 710w,
+        {{ site.cloudinary_url }}/w_1000{{page.hero_image}} 1000w,
+        {{ site.cloudinary_url }}/w_1420{{page.hero_image}} 1420w,
+        {{ site.cloudinary_url }}/w_1650{{page.hero_image}} 1650w,
+        {{ site.cloudinary_url }}/w_2000{{page.hero_image}} 2000w">
 <a href="#view" class="header">
     <h1>{{page.title}}</h1>
 </a>
@@ -22,17 +31,19 @@
     </div>
 </div>
 <div class="images">
-    <div data-aos="fade-up" class="image full"><img src="assets/img/project1.png"></div>
-    <div data-aos="fade-up" class="image white"><img src="assets/img/project2.png"></div>
-    <div data-aos="fade-up" class="image full"><img src="assets/img/project3.png"></div>
-    <div data-aos="fade-up" class="image full"><img src="assets/img/project4.png"></div>
-    <div data-aos="fade-up" class="image full"><img src="assets/img/project5.png"></div>
-    <div data-aos="fade-up" class="image full"><img src="assets/img/project6.png"></div>
-    <div data-aos="fade-up" class="image full"><img src="assets/img/project7.png"></div>
-    <div data-aos="fade-up" class="image full"><img src="assets/img/project8.png"></div>
-    <div data-aos="fade-up" class="image white"><img src="assets/img/project9.png"></div>
-    <div data-aos="fade-up" class="image white"><img src="assets/img/project10.png"></div>
-    <div data-aos="fade-up" class="image full"><img src="assets/img/project11.png"></div>
+    {% for image in page.images %}
+    <div data-aos="fade-up" class="image full">
+        <img 
+            src="{{ site.cloudinary_url }}c_scale,w_1700{{image}}"
+            srcset="
+                {{ site.cloudinary_url }}/w_500{{image}} 500w,
+                {{ site.cloudinary_url }}/w_610{{image}} 710w,
+                {{ site.cloudinary_url }}/w_900{{image}} 1000w,
+                {{ site.cloudinary_url }}/w_1320{{image}} 1420w,
+                {{ site.cloudinary_url }}/w_1550{{image}} 1650w,
+                {{ site.cloudinary_url }}/w_1900{{image}} 2000w">
+    </div>
+    {% endfor %}
 </div>
 <div class="main">
     <h2>Related</h2>

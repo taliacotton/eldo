@@ -255,8 +255,9 @@ h4{
     position:fixed;
     z-index:-1;
     top:0px;
-    background-repeat:no-repeat;
-    background-size: cover;
+    object-fit: cover;
+    // background-repeat:no-repeat;
+    // background-size: cover;
 }
 
 .header{
