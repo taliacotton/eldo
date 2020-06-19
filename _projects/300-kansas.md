@@ -15,7 +15,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/1919-20-0128-hero.png"
+hero_image: "/v1592591324/eldo/1919-20-0128-hero_pxv4y5.jpg"
 images: []
 images__easier_:
 - "/uploads/1919-20-0128-hero.png"
