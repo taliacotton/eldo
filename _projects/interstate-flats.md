@@ -26,6 +26,19 @@ urban-design: false
 education: false
 fabrication: false
 hero_image: "/v1592593911/eldo/interstate_1_e7sdkv.jpg"
+images:
+- "/v1592593911/eldo/interstate_1_e7sdkv.jpg"
+- "/v1592604725/eldo/InterstateFlats_9_wrctwa.jpg"
+- "/v1592604730/eldo/InterstateFlats_4_ggo1wr.jpg"
+- "/v1592604730/eldo/InterstateFlats_8_eweebl.jpg"
+- "/v1592604731/eldo/InterstateFlats_3_dg3khd.jpg"
+- "/v1592604732/eldo/InterstateFlats_10_onypuo.jpg"
+- "/v1592604734/eldo/InterstateFlats_12_yhdgul.jpg"
+- "/v1592604734/eldo/InterstateFlats_6_r95akx.jpg"
+- "/v1592604735/eldo/InterstateFlats_11_kjwgw9.jpg"
+- "/v1592604736/eldo/InterstateFlats_2_doviny.jpg"
+- "/v1592604736/eldo/InterstateFlats_13_bhcktl.jpg"
+- "/v1592604738/eldo/InterstateFlats_14_kfvb4l.jpg"
 
 ---
 - 2016
