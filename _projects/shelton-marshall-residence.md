@@ -20,7 +20,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/sheltonmarshallres_2.jpg"
+hero_image: "/v1592593099/eldo/hero_images/sheltonmarshallres_2_d2apgj.jpg"
 
 ---
 - 2014

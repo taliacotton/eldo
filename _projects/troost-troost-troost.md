@@ -18,7 +18,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/troosttroosttroost-01.jpg"
+hero_image: "/v1592593107/eldo/hero_images/troosttroosttroost-01_aqbh3s.jpg"
 
 ---
 - 2010

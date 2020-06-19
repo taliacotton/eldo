@@ -15,7 +15,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/troostbridge_2.jpg"
+hero_image: "/v1592593112/eldo/hero_images/troostbridge_2_bmal69.jpg"
 
 ---
 - 2012
