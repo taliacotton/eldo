@@ -31,6 +31,20 @@ urban-design: false
 education: false
 fabrication: false
 hero_image: "/v1592593131/eldo/hero_images/restart_1_fdfjem.jpg"
+images:
+- "/v1592605254/eldo/ReStartHousing-02_c4hvnj.jpg"
+- "/v1592605257/eldo/ReStartHousing-03_clvdxt.jpg"
+- "/v1592605259/eldo/ReStartHousing-07_uaz1ml.jpg"
+- "/v1592605260/eldo/ReStartHousing-04_whxze2.jpg"
+- "/v1592605261/eldo/ReStartHousing-06_y4ctwe.jpg"
+- "/v1592605264/eldo/ReStartHousing-08_ry4mbk.jpg"
+- "/v1592605265/eldo/ReStartHousing-05_yzwie1.jpg"
+- "/v1592605269/eldo/ReStartHousing-13_yhxpn3.jpg"
+- "/v1592605269/eldo/ReStartHousing-11_qd8qgt.jpg"
+- "/v1592605272/eldo/ReStartHousing-14_wkltik.jpg"
+- "/v1592605272/eldo/ReStartHousing-17_b87i1k.jpg"
+- "/v1592605272/eldo/ReStartHousing-09_wrxazu.jpg"
+- "/v1592605274/eldo/ReStartHousing-16_jslqsp.jpg"
 
 ---
 - 2015
