@@ -2,7 +2,7 @@
 layout: project
 title: Upper Harbor Terminal
 position: 
-hero_image: "/uploads/upperharborterminal-01.jpg"
+hero_image: "/v1592593109/eldo/hero_images/upperharborterminal-01_yadkyl.jpg"
 short-description: Transforming 48 acres of abandoned industrial relics into 100 acres
   of revitalized, ecologically sound, mixed-use development.
 description: |-
@@ -16,6 +16,8 @@ curatorial: true
 urban-design: true
 education: true
 fabrication: true
+related_projects: []
+images_old: []
 
 ---
 * 2017 (planning); ongoing

@@ -2,7 +2,7 @@
 layout: project
 title: University of Tennessee at Martin – The Garage
 position: 
-hero_image: "/uploads/rendering_01.jpg"
+hero_image: "/v1592593098/eldo/hero_images/rendering_01_pwppft.jpg"
 short-description: A national model for the central role public universities play
   in the revitalization of rural America.
 description: |-
@@ -27,6 +27,8 @@ curatorial: true
 urban-design: true
 education: false
 fabrication: false
+related_projects: []
+images_old: []
 
 ---
 * Ongoing
