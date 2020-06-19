@@ -21,7 +21,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/kcaifiber-01.jpg"
+hero_image: "/v1592591441/eldo/kcaifiber-01_xdhjls.jpg"
 
 ---
 - 2012
