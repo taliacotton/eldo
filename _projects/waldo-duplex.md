@@ -16,7 +16,6 @@ description: |-
 
   The accommodation of diverse incomes by the Waldo Duplex continues the dichotomy that defines this neighborhood today. Projects like this will ensure that Waldo maintains its unique character long into the future.
 images:
-- "/v1592590251/eldo/WaldoDuplex_9_gpadsc.jpg"
 - "/v1592590342/eldo/WaldoDuplex_7_qyovl3.jpg"
 - "/v1592590250/eldo/WaldoDuplex_6_wvjxwd.jpg"
 - "/v1592590333/eldo/WaldoDuplex_5_u3xola.jpg"
@@ -25,6 +24,7 @@ images:
 - "/v1592590268/eldo/WaldoDuplex_3_h43act.jpg"
 - "/v1592590332/eldo/WaldoDuplex_24_wawhuc.jpg"
 - "/v1592590303/eldo/WaldoDuplex_23_jdoimg.jpg"
+- "/v1592590251/eldo/WaldoDuplex_9_gpadsc.jpg"
 - "/v1592590277/eldo/WaldoDuplex_22_tjc1bi.jpg"
 - "/v1592590306/eldo/WaldoDuplex_21_kxj7ms.jpg"
 - "/v1592590309/eldo/WaldoDuplex_20_p5jqlp.jpg"
