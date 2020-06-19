@@ -19,7 +19,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/highlanderaccelerator-01.jpg"
+hero_image: "/v1592603688/eldo/highlanderaccelerator-01_rqqmpv.jpg"
 
 ---
 - 2018
