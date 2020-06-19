@@ -15,7 +15,30 @@ description: |-
   The building challenges both the historic and the modern typology of the duplex. This building type was conceived to meet housing needs in lower-income municipalities and neighborhoods. While developers today use the duplex model in a way that creates suburban neighborhoods with no identity whatsoever, the Waldo Duplex looks to the inherent benefits of duplex construction but works to redefine the building typology. Traditional duplexes isolate their tenants on either side of a partition wall. The Waldo Duplex unites them through the tradition of the front porch. In a larger sense, this project seeks to understand why affordable housing solutions often fall short. Typical affordable housing design only advances perceptions of inequality rather than fights them. This project suggests that affordability and thoughtful architecture are not mutually exclusive. It is the beginning of an important conversation. Can we build affordably, satisfy a strict economic model, and support the dignity of the residents?
 
   The accommodation of diverse incomes by the Waldo Duplex continues the dichotomy that defines this neighborhood today. Projects like this will ensure that Waldo maintains its unique character long into the future.
-images: []
+images:
+- "/v1592590251/eldo/WaldoDuplex_9_gpadsc.jpg"
+- "/v1592590342/eldo/WaldoDuplex_7_qyovl3.jpg"
+- "/v1592590250/eldo/WaldoDuplex_6_wvjxwd.jpg"
+- "/v1592590333/eldo/WaldoDuplex_5_u3xola.jpg"
+- "/v1592590261/eldo/WaldoDuplex_4_y0tjvh.jpg"
+- "/v1592590339/eldo/WaldoDuplex_8_vgsmgr.jpg"
+- "/v1592590268/eldo/WaldoDuplex_3_h43act.jpg"
+- "/v1592590332/eldo/WaldoDuplex_24_wawhuc.jpg"
+- "/v1592590303/eldo/WaldoDuplex_23_jdoimg.jpg"
+- "/v1592590277/eldo/WaldoDuplex_22_tjc1bi.jpg"
+- "/v1592590306/eldo/WaldoDuplex_21_kxj7ms.jpg"
+- "/v1592590309/eldo/WaldoDuplex_20_p5jqlp.jpg"
+- "/v1592590322/eldo/WaldoDuplex_2_zqy45m.jpg"
+- "/v1592590248/eldo/WaldoDuplex_19_g2xadr.jpg"
+- "/v1592590248/eldo/WaldoDuplex_18_a92ceg.jpg"
+- "/v1592590309/eldo/WaldoDuplex_17_ccmal8.jpg"
+- "/v1592590299/eldo/WaldoDuplex_16_uu4wfh.jpg"
+- "/v1592590318/eldo/WaldoDuplex_15_zqjf47.jpg"
+- "/v1592590307/eldo/WaldoDuplex_14_jxp55c.jpg"
+- "/v1592590256/eldo/WaldoDuplex_13_k2xh1j.jpg"
+- "/v1592590250/eldo/WaldoDuplex_12_mhgibj.jpg"
+- "/v1592590318/eldo/WaldoDuplex_11_n69dbz.jpg"
+- "/v1592590329/eldo/WaldoDuplex_10_f09ims.jpg"
 images__easier_: []
 architecture: false
 curatorial: false
