@@ -16,6 +16,17 @@ urban-design: false
 education: false
 fabrication: false
 hero_image: "/v1592593112/eldo/hero_images/troostbridge_2_bmal69.jpg"
+images:
+- "/v1592605414/eldo/TroostBridge_3_wvz4hi.jpg"
+- "/v1592605420/eldo/TroostBridge_8_crk9y3.jpg"
+- "/v1592605422/eldo/TroostBridge_7_zrhygj.jpg"
+- "/v1592605425/eldo/troostbridge_2_vc7rkn.jpg"
+- "/v1592605425/eldo/TroostBridge_5_mrf1ow.jpg"
+- "/v1592605426/eldo/TroostBridge_6_bepqr1.jpg"
+- "/v1592605427/eldo/TroostBridge_9_zxfyxf.jpg"
+- "/v1592605428/eldo/TroostBridge_11_wwogll.jpg"
+- "/v1592605431/eldo/TroostBridge_4_uvc5wc.jpg"
+- "/v1592605431/eldo/TroostBridge_10_x7ronv.jpg"
 
 ---
 - 2012
