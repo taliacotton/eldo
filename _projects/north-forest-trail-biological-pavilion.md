@@ -17,7 +17,15 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/bio_1.jpg"
+hero_image: "/v1592603780/eldo/Bio_1_izmzm9.jpg"
+images:
+- "/v1592605119/eldo/Bio_2_i8ioqy.jpg"
+- "/v1592605131/eldo/Bio_9_mhgl0f.jpg"
+- "/v1592605131/eldo/Bio_11_ygmtpr.jpg"
+- "/v1592605132/eldo/Bio_8_ows7sn.jpg"
+- "/v1592605133/eldo/Bio_12_a7dkyg.jpg"
+- "/v1592605133/eldo/Bio_4_vcidp8.jpg"
+- "/v1592605138/eldo/Bio_6_epi65j.jpg"
 
 ---
 - 2017

@@ -18,6 +18,23 @@ urban-design: false
 education: false
 fabrication: false
 hero_image: "/v1592603869/eldo/novel_1_fz2mqx.jpg"
+images:
+- "/v1592605141/eldo/Novel_2_kzzqmg.jpg"
+- "/v1592605147/eldo/Novel_10_kbdqne.jpg"
+- "/v1592605148/eldo/Novel_5_aa2psr.jpg"
+- "/v1592605149/eldo/Novel_7_h4gukx.jpg"
+- "/v1592605155/eldo/Novel_9_txvn8x.jpg"
+- "/v1592605156/eldo/Novel_8_uykqef.jpg"
+- "/v1592605158/eldo/Novel_11_c3jagu.jpg"
+- "/v1592605159/eldo/Novel_13_y0kit2.jpg"
+- "/v1592605160/eldo/Novel_12_srnrxu.jpg"
+- "/v1592605162/eldo/Novel_15_bugs6q.jpg"
+- "/v1592605168/eldo/Novel_19_fwz9tj.jpg"
+- "/v1592605169/eldo/Novel_14_r6k03f.jpg"
+- "/v1592605170/eldo/Novel_4_bsd7p3.jpg"
+- "/v1592605171/eldo/Novel_16_zoxtck.jpg"
+- "/v1592605171/eldo/Novel_18_huuipb.jpg"
+- "/v1592605177/eldo/Novel_17_uec8xt.jpg"
 
 ---
 - 2018
