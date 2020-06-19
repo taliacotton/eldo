@@ -20,7 +20,12 @@ description: |-
           Sciences (CENS) and the College of Agriculture and Applied Sciences (CAAS);
           support for adult certificate/diploma programs offered by the Tennessee Colleges
           of Applied Technology (TCAT).
-images: []
+images:
+- "/v1592607650/eldo/utm_01_c7yayd.jpg"
+- "/v1592607649/eldo/utm_02_o6w9yx.jpg"
+- "/v1592607649/eldo/utm_04_t7xyjb.jpg"
+- "/v1592607649/eldo/utm_03_hnnq0u.jpg"
+- "/v1592607650/eldo/utm_05_hdgiyr.jpg"
 images__easier_: []
 architecture: true
 curatorial: true
