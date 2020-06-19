@@ -22,7 +22,7 @@ curatorial: false
 urban-design: false
 education: true
 fabrication: false
-hero_image: "/uploads/_mg_3131_.jpg"
+hero_image: "/v1592603567/eldo/CampDaisy-01_io9wqc.jpg"
 
 ---
 - 2013
