@@ -20,7 +20,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/wab_1.jpg"
+hero_image: "/v1592593131/eldo/hero_images/wab_1_t4z9z5.jpg"
 
 ---
 - 2014

@@ -22,7 +22,7 @@ description: "*Collaboration with Modus Studio* \n\nThe first building in the em
   original footprint. The program houses sculpture labs, studios, woodshop, steel
   shop, mold making/wax studio, advanced technologies lab, foundry, indoor/outdoor
   work areas, storage lockers, critique space, and voluminous gallery."
-hero_image: "/uploads/art_designfacility-10.jpg"
+hero_image: "/v1592593147/eldo/hero_images/art_designfacility-10_lusmtm.jpg"
 
 ---
 * 2016
