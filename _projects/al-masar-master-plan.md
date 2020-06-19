@@ -9,7 +9,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/diagrams45.jpg"
+hero_image: "/v1592593153/eldo/hero_images/diagrams45_oyjiyt.jpg"
 
 ---
 Al Masar is a comprehensive master plan that integrates a diverse set of approaches to create a vibrant society and a thriving economy.
