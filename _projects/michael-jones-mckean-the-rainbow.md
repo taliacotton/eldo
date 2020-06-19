@@ -14,7 +14,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/therainbow_1.jpg"
+hero_image: "/v1592593100/eldo/hero_images/therainbow_1_tu2sbp.jpg"
 
 ---
 - In progress

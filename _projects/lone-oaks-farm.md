@@ -13,7 +13,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/utlof_1.jpg"
+hero_image: "/v1592593105/eldo/hero_images/utlof_1_wl1r22.jpg"
 
 ---
 - 2017

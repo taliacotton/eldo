@@ -35,7 +35,7 @@ sections:
   path: _config.yml
   label: Sitewide Info
 upload_dir: eldo
-public_path: https://res.cloudinary.com/dvw5z1j6l/eldo
+public_path: https://res.cloudinary.com/dvw5z1j6l/image/upload
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
