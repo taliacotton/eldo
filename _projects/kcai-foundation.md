@@ -15,7 +15,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/kcaifoundation-01.jpg"
+hero_image: "/v1592593164/eldo/hero_images/kcaifoundation-01_vp0pd5.jpg"
 
 ---
 - 2018
