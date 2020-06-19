@@ -23,6 +23,23 @@ urban-design: false
 education: true
 fabrication: false
 hero_image: "/v1592603567/eldo/CampDaisy-01_io9wqc.jpg"
+images:
+- "/v1592604608/eldo/CampDaisy-18_cxre1b.jpg"
+- "/v1592604910/eldo/CampDaisy-17_vs4nnk.jpg"
+- "/v1592604901/eldo/CampDaisy-16_advspo.jpg"
+- "/v1592604564/eldo/CampDaisy-15_bbnrj9.jpg"
+- "/v1592604565/eldo/CampDaisy-14_ggsnsz.jpg"
+- "/v1592604489/eldo/CampDaisy-13_jfz0bw.jpg"
+- "/v1592604556/eldo/CampDaisy-12_k2gp3l.jpg"
+- "/v1592604912/eldo/CampDaisy-11_er0atg.jpg"
+- "/v1592604532/eldo/CampDaisy-10_mvjoi9.jpg"
+- "/v1592604898/eldo/CampDaisy-09_mfdsoq.jpg"
+- "/v1592604628/eldo/CampDaisy-07_tftxs8.jpg"
+- "/v1592604500/eldo/CampDaisy-06_toycbh.jpg"
+- "/v1592604492/eldo/CampDaisy-05_cjlwkj.jpg"
+- "/v1592604479/eldo/CampDaisy-04_gra6gz.jpg"
+- "/v1592604605/eldo/CampDaisy-03_cisbqw.jpg"
+- "/v1592604615/eldo/CampDaisy-02_eijxpy.jpg"
 
 ---
 - 2013
