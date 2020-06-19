@@ -16,7 +16,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/flex-13.jpg"
+hero_image: "/v1592593158/eldo/hero_images/flex-13_m0v7jb.jpg"
 
 ---
 - 2003
