@@ -53,7 +53,7 @@
         {% if length > 0 %}
             {% for list_item in page.related_projects %}
             {% assign related_project = site.projects | where: "path", list_item | first %}
-                <a href="{{related_project.url}}" style="background-image:url('{{related_project.hero_image}}')">
+                <a href="{{related_project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ related_project.hero_image }}')">
                     <div><span>{{related_project.title}}</span></div>
                 </a>
             {% endfor %}
@@ -70,7 +70,7 @@
         {% endif %}
         {% for project in selection limit:5 %}
             {% if project.title != page.title %}
-            <a href="{{project.url}}" style="background-image:url('..{{project.hero_image}}')">
+            <a href="{{project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ related_project.hero_image }}')">
                 <div><span>{{project.title}}</span></div>
             </a>
             {% endif %}
