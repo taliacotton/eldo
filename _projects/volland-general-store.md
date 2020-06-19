@@ -20,7 +20,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/vollandstore_3.jpg"
+hero_image: "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
 
 ---
 * 2015

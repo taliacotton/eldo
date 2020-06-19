@@ -19,7 +19,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/uploads/preston-13.gif"
+hero_image: "/v1592603902/eldo/PrestonOutdoorEducation-01_dvaax8.jpg"
 
 ---
 - 2016
