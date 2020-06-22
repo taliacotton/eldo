@@ -37,6 +37,11 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+- name: vimeo_link
+  type: text
+  config:
+    required: false
+  label: Vimeo link
 - name: related_projects
   type: list
   config:
@@ -64,15 +69,6 @@ fields:
 - type: boolean
   name: fabrication
   label: Fabrication
-- name: images_old
-  type: blocks
-  label: Images_old
-  template_types:
-  - image
-  config:
-    min: 
-    max: 
-  hidden: true
 pages:
 - _projects/20th-street-streetscape.md
 - _projects/alma-pavilion.md
