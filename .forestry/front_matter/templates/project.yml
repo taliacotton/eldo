@@ -59,7 +59,7 @@ fields:
   label: Architecture
 - type: boolean
   name: curatorial
-  label: Curatorial
+  label: Artist Collaboration
 - type: boolean
   name: urban-design
   label: Urban Design
