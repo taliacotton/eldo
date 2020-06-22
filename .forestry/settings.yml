@@ -27,7 +27,7 @@ sections:
   - news-item
 - type: document
   path: about.md
-  label: About & Contact
+  label: About
 - type: document
   path: index.md
   label: Homepage Slideshow
