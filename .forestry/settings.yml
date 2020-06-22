@@ -27,16 +27,16 @@ sections:
   - news-item
 - type: document
   path: about.md
-  label: About
+  label: About & Contact
 - type: document
   path: index.md
   label: Homepage Slideshow
 - type: document
-  path: _config.yml
-  label: Sitewide Info
-- type: document
   path: _data/project-order.yaml
   label: First-listed Project Order
+- type: document
+  path: _config.yml
+  label: Sitewide Info
 upload_dir: eldo
 public_path: https://res.cloudinary.com/dvw5z1j6l/image/upload
 front_matter_path: ''
