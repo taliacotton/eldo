@@ -3,7 +3,7 @@ const urlParams = new URLSearchParams(queryString);
 const recipient = urlParams.get('recipient');
 const projects = urlParams.getAll('id');
 // console.log(recipient);
-// console.log(projects);
+console.log(projects);
 
 
 if (recipient !== null){
@@ -15,7 +15,8 @@ for (let link of document.querySelectorAll('.thumbnails a')){
     if(projects.indexOf(link.id) !== -1) {
         // does not exist
         
-        console.log("A:"+ projects[link.id]);
+        // console.log("A:"+ projects[link.id]);
+        
     }
     else {
         link.style.display = "none";

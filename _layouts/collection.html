@@ -6,7 +6,7 @@
     </div>
     <div class="thumbnails flex">
         {% for project in site.projects %}
-        <a href="{{project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ project.hero_image }}')">
+        <a href="{{project.url}}" id="{{project.slug}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ project.hero_image }}')">
             <div><span>{{project.title}}</span></div>
         </a>
         {% endfor %}
