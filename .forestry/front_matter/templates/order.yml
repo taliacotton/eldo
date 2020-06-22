@@ -11,6 +11,8 @@ fields:
     source:
       type: pages
       section: projects
-  label: Sortable List
+  label: Project Order
+  description: The projects you choose here will show up first in the assigned order.
+    Everything else will show up after this list in alphabetical order.
 pages:
 - _data/project-order.yaml
