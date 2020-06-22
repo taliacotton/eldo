@@ -4,7 +4,7 @@ layout: about
 short-description: Established in 1996, El Dorado is an integrated architecture, urban
   design, curatorial, education and fabrication practice located in Kansas City, Missouri
   and Portland, Oregon.
-hero_image: assets/img/office.png
+hero_image: "/v1592603618/eldo/3435Main_14_o7zhih.jpg"
 full_description: In the beginning, as equal parts art gallery, fabrication shop and
   design studio, we were known for fingerless gloves and raffish outbursts that helped
   jumpstart Kansas City’s emergent culture. Today, we work purposefully across scales,
