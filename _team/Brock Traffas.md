@@ -7,7 +7,7 @@ image: ''
 related_projects:
 - _projects/preston-outdoor-education-station.md
 - _projects/michael-jones-mckean-the-rainbow.md
-- _projects/waldo-duplex-1.md
+- _projects/waldo-duplex.md
 - _projects/lone-oaks-farm.md
 
 ---

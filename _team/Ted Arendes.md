@@ -7,7 +7,7 @@ image: ''
 related_projects:
 - _projects/interstate-flats.md
 - _projects/novel.md
-- _projects/waldo-duplex-1.md
+- _projects/waldo-duplex.md
 - _projects/volland-general-store.md
 
 ---
