@@ -26,12 +26,14 @@ description: Established in 1996, el dorado is an integrated architecture, urban
   of everywhere.
 baseurl: ''
 url: eldo2.netlify.app
-og_img: "/uploads/art_designfacility-10.jpg"
+og_img: "/v1592605550/eldo/art_designfacility-10_kjpnei.jpg"
 twitter_username: ''
 github_username: ''
 addresses:
 - address: 510 Avenida Cesar E. Chavez
-  phone_number: '816.474.3838'
+  phone_number: 816.474.3838
+  location_image: ''
 - address: 1714 NW Overton, 2A
-  phone_number: '971.266.8665'
+  phone_number: 971.266.8665
+  location_image: ''
 cloudinary_url: https://res.cloudinary.com/dvw5z1j6l/image/upload/
