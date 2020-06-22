@@ -12,7 +12,8 @@ fields:
       type: pages
       section: projects
   label: Project Order
-  description: The projects you choose here will show up first in the assigned order.
-    Everything else will show up after this list in alphabetical order.
+  description: The projects you choose here will show up first on each page in the
+    order you assign below. Everything else will show up after this list in alphabetical
+    order. If there are duplicates, the second one will be ignored.
 pages:
 - _data/project-order.yaml
