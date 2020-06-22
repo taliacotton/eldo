@@ -50,30 +50,32 @@
 </div>
 <div class="main">
     <h2>Related</h2>
-    {% if page.related_projects %}
+    {% assign length = page.related_projects | size %}
+    {% if length > 0 %}
     <div class="thumbnails flex">
-        {% assign length = page.related_projects | size %}
-        {% if length > 0 %}
             {% for list_item in page.related_projects %}
             {% assign related_project = site.projects | where: "path", list_item | first %}
                 <a href="{{related_project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ related_project.hero_image }}')">
                     <div><span>{{related_project.title}}</span></div>
                 </a>
             {% endfor %}
-        {% endif %}
     </div>
     {% else %}
     <div class="thumbnails flex">
         {% if page.education %}
-        {% assign selection = site.projects | where: "education", "true" | sort:"position" %}
+        {% assign selection = site.projects | where: "education", "true" %}
         {% else if page.curatorial %}
-        {% assign selection = site.projects | where: "curatorial", "true" | sort:"position" %}
+        {% assign selection = site.projects | where: "curatorial", "true" %}
+        {% else if page.fabrication %}
+        {% assign selection = site.projects | where: "fabrication", "true" %}
+        {% else if page.urban-design %}
+        {% assign selection = site.projects | where: "urban-design", "true" %}
         {% else if page.architecture %}
-        {% assign selection = site.projects | where: "architecture", "true" | sort:"position" %}
+        {% assign selection = site.projects | where: "architecture", "true" %}
         {% endif %}
         {% for project in selection limit:5 %}
             {% if project.title != page.title %}
-            <a href="{{project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ related_project.hero_image }}')">
+            <a href="{{project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ project.hero_image }}')">
                 <div><span>{{project.title}}</span></div>
             </a>
             {% endif %}
