@@ -332,6 +332,7 @@ img.full{
     animation-name: fade; 
     animation-duration: 9s; 
     animation-iteration-count: infinite; 
+    animation-fill-mode: both;
     position:absolute; 
     // width:calc(100% - var(--gutter));
     width:100%;
