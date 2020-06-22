@@ -34,6 +34,10 @@ sections:
 - type: document
   path: _config.yml
   label: Sitewide Info
+- type: document
+  path: _data/project-order.yaml
+  label: Project Order
+  match: "**/*"
 upload_dir: eldo
 public_path: https://res.cloudinary.com/dvw5z1j6l/image/upload
 front_matter_path: ''
