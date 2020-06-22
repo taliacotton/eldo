@@ -2,11 +2,23 @@
 {% include nav.html %}
 <div class="main">
     <div class="thumbnails flex">
-        {% assign selection = site.projects | where: page.filter, "true" | sort:"position" %}
-        {% for project in selection %}
-        <a href="{{project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ project.hero_image }}')">
-            <div><span>{{project.title}}</span></div>
-        </a>
+        {% assign projects = site.projects | where: page.filter, "true" %}
+        {% assign featured = site.data.project-order.sortable_list | uniq %}
+        {% for list_item in featured %}
+            {% assign project = projects | where: "path", list_item | first %}
+            {% if project %}
+            <a href="{{project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ project.hero_image }}')">
+                <div><span>{{project.title}}</span></div>
+            </a>
+            {% endif %}
+        {% endfor %}
+
+        {% for project in projects %}
+            {% unless featured contains project.path %}
+                <a href="{{project.url}}" style="background-image:url('{{ site.cloudinary_url }}c_scale,w_700{{ project.hero_image }}')">
+                    <div><span>{{project.title}}</span></div>
+                </a>
+            {% endunless %}
         {% endfor %}
     </div>
 </div>

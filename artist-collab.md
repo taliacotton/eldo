@@ -1,7 +1,6 @@
 ---
-permalink: "/curatorial"
+permalink: "/artist-collab"
 layout: projects
 filter: curatorial
 ---
 
-This is a test
