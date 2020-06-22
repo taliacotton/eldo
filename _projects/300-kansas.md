@@ -27,14 +27,7 @@ images:
 - "/v1592603744/eldo/300Kansas-03_j4pazw.jpg"
 - "/v1592603750/eldo/300kansas-02_fxyv0h.jpg"
 - "/v1592603745/eldo/300Kansas-01_a2bhan.jpg"
-images__easier_:
-- "/uploads/1919-20-0128-hero.png"
-- "/uploads/1919-20-0128-kansas-no-signage.png"
-- "/uploads/1919-20-0128-int.png"
-images_test:
-- image_upload: "/uploads/project2.png"
-  white/smaller_image_: true
-  alt_text: Folded steel plate
+vimeo_link: ''
 
 ---
 * (anticipated) 2021
