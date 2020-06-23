@@ -16,10 +16,10 @@ description: The Crossroads Hotel is a historic renovation of a former Pabst bre
   through exhibitions, artist commissions, performances, and unexpected artist-driven
   experiences that will enliven the hotel.
 architecture: true
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 hero_image: "/v1592593726/eldo/crossroads_1_l0nsve.jpg"
 images:
 - "/v1592604532/eldo/CrossroadsHotel-41_mgprg5.jpg"

@@ -25,13 +25,14 @@ images:
 - "/v1592607198/eldo/CampPrairie_6_zuhev9.jpg"
 - "/v1592607182/eldo/CampPrairie_4_bmff3x.jpg"
 images__easier_: []
-architecture: false
+architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 related_projects: []
 images_old: []
+vimeo_link: ''
 
 ---
 - 2012

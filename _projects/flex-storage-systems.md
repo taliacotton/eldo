@@ -12,7 +12,7 @@ description: |
 
   One of the largest accomplishments of this project was the creation of “FLEX” zoning designation that allows the project to seamlessly upgrade over time from storage to commercial to retail uses as the market allows, all without the need to return to the city for rezoning.
 architecture: true
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
 fabrication: false

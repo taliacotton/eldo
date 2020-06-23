@@ -24,7 +24,7 @@ architecture: true
 curatorial: false
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 hero_image: "/v1592593911/eldo/interstate_1_e7sdkv.jpg"
 images:
 - "/v1592593911/eldo/interstate_1_e7sdkv.jpg"

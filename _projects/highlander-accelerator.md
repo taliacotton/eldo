@@ -16,7 +16,7 @@ description: Located in North Omaha, Nebraska, the Highlander Accelerator answer
   education, community-building, business incubation and soul food.
 architecture: true
 curatorial: false
-urban-design: false
+urban-design: true
 education: false
 fabrication: false
 hero_image: "/v1592603688/eldo/highlanderaccelerator-01_rqqmpv.jpg"
