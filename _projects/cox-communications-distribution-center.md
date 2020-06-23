@@ -17,20 +17,14 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1592593182/eldo/hero_images/coxcomm_2_ugkmml.jpg"
+hero_image: "/v1592879187/eldo/Cox_1_mslziy.jpg"
 images:
-- "/v1592604501/eldo/CoxComm_13_o4gznm.jpg"
-- "/v1592604555/eldo/CoxComm_12_tboh0f.jpg"
-- "/v1592604559/eldo/CoxComm_11_sxs8l4.jpg"
-- "/v1592604857/eldo/CoxComm_10_hvupbq.jpg"
-- "/v1592604916/eldo/CoxComm_9_cwua0c.jpg"
-- "/v1592604859/eldo/CoxComm_8_vgd4on.jpg"
-- "/v1592604929/eldo/CoxComm_7_hwdqep.jpg"
-- "/v1592604826/eldo/CoxComm_6_hngm7i.jpg"
-- "/v1592604930/eldo/CoxComm_5_hzk91r.jpg"
-- "/v1592604544/eldo/CoxComm_4_qe6n8x.jpg"
-- "/v1592604842/eldo/CoxComm_3_kqza1l.jpg"
-- "/v1592604594/eldo/coxcomm_2_u1a1qj.jpg"
+- "/v1592879187/eldo/Cox_2_jz8r7i.jpg"
+- "/v1592879188/eldo/Cox_3_qbj7aj.jpg"
+- "/v1592879189/eldo/Cox_4_qzibck.jpg"
+- "/v1592879191/eldo/Cox_5_ynanvb.jpg"
+- "/v1592879188/eldo/Cox_7_ztcidd.jpg"
+- "/v1592946794/eldo/Cox_6_tthbue.jpg"
 
 ---
 - 2007
