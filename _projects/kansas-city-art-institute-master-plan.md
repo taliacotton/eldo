@@ -67,13 +67,14 @@ images:
 - "/v1592604888/eldo/KCAIMasterplan-36_rctped.jpg"
 - "/v1592604888/eldo/KCAIMasterplan-38_b6zane.jpg"
 images__easier_: []
-architecture: false
+architecture: true
 curatorial: false
-urban-design: false
+urban-design: true
 education: false
 fabrication: false
 related_projects: []
 images_old: []
+vimeo_link: ''
 
 ---
 - 2017

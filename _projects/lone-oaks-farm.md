@@ -10,7 +10,7 @@ description: |-
   Heeding the principles set forth in the master plan, the same design team is working on the first phases of development (now under construction and in schematic design, respectively) at the farm, taking cues from existing agrarian structures, all while adopting updated performance standards to provide contemporary, durable facilities. Each new structure shares a kit of parts and language of detailing, but is unique in its integration to the local ecology.
 architecture: true
 curatorial: false
-urban-design: false
+urban-design: true
 education: false
 fabrication: false
 hero_image: "/v1592593105/eldo/hero_images/utlof_1_wl1r22.jpg"

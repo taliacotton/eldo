@@ -16,13 +16,14 @@ images:
 - "/v1592605249/eldo/regnier-05_zaloiz.jpg"
 - "/v1592605250/eldo/regnier-02_yqxuer.jpg"
 images__easier_: []
-architecture: false
+architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 related_projects: []
 images_old: []
+vimeo_link: ''
 
 ---
 - 2017
