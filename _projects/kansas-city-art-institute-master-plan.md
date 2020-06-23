@@ -36,7 +36,6 @@ images:
 - "/v1592604882/eldo/KCAIMasterplan-19_kezi6j.jpg"
 - "/v1592604881/eldo/KCAIMasterplan-14_mfqvyp.jpg"
 - "/v1592604882/eldo/KCAIMasterplan-17_xug68v.jpg"
-- "/v1592604875/eldo/KCAIMasterplan-21_bdxo4n.jpg"
 images__easier_: []
 architecture: true
 curatorial: false
