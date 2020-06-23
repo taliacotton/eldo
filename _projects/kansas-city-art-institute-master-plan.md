@@ -31,13 +31,12 @@ images:
 - "/v1592604887/eldo/KCAIMasterplan-39_nif3fy.jpg"
 - "/v1592604859/eldo/KCAIMasterplan-15_w9t6ny.jpg"
 - "/v1592604862/eldo/KCAIMasterplan-16_s78nud.jpg"
+- "/v1592604882/eldo/KCAIMasterplan-17_xug68v.jpg"
 - "/v1592604881/eldo/KCAIMasterplan-27_hfpabv.jpg"
-- "/v1592604886/eldo/KCAIMasterplan-40_pfwzca.jpg"
 - "/v1592604882/eldo/KCAIMasterplan-19_kezi6j.jpg"
 - "/v1592604881/eldo/KCAIMasterplan-14_mfqvyp.jpg"
-- "/v1592604882/eldo/KCAIMasterplan-17_xug68v.jpg"
 images__easier_: []
-architecture: true
+architecture: false
 curatorial: false
 urban-design: true
 education: false
