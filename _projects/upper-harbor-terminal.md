@@ -17,12 +17,13 @@ images:
 - "/v1592605597/eldo/UpperHarborTerminal-05_igwkyb.jpg"
 images__easier_: []
 architecture: true
-curatorial: true
+curatorial: false
 urban-design: true
-education: true
-fabrication: true
+education: false
+fabrication: false
 related_projects: []
 images_old: []
+vimeo_link: ''
 
 ---
 * 2017 (planning); ongoing
