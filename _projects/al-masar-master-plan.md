@@ -5,8 +5,8 @@ layout: project
 short-description: An unprecedented linear park that will transform and reconnect
   the city; an urban public space that is more than just a bike path.
 architecture: true
-curatorial: false
-urban-design: false
+curatorial: true
+urban-design: true
 education: false
 fabrication: false
 hero_image: "/v1592593153/eldo/hero_images/diagrams45_oyjiyt.jpg"
