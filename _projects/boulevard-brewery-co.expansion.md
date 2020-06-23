@@ -2,7 +2,7 @@
 layout: project
 title: Boulevard Brewery Co. Expansion
 position: 
-hero_image: ''
+hero_image: "/v1592947626/eldo/Boulevard_1_f5wetp.jpg"
 short-description: Elegant detailing and a reverence for natural light create a cathedral
   to brewing
 description: Boulevard Brewing tapped El Dorado and our design-build team to expand
@@ -23,9 +23,23 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-images: []
+images:
+- "/v1592947621/eldo/Boulevard_2_zuox9e.jpg"
+- "/v1592947620/eldo/Boulevard_3_cto5wj.jpg"
+- "/v1592947621/eldo/Boulevard_4_kv1lph.jpg"
+- "/v1592878939/eldo/Boulevard_5_entmf1.jpg"
+- "/v1592947622/eldo/Boulevard_6_j67i1i.jpg"
+- "/v1592947620/eldo/Boulevard_7_ziqupd.jpg"
+- "/v1592947622/eldo/Boulevard_8_nsrqkk.jpg"
+- "/v1592947622/eldo/Boulevard_9_db3fen.jpg"
+- "/v1592947623/eldo/Boulevard_10_qpkoit.jpg"
+- "/v1592947625/eldo/Boulevard_11_yl8chp.jpg"
+- "/v1592947624/eldo/Boulevard_12_wwsnra.jpg"
+- "/v1592947623/eldo/Boulevard_13_r6qgsn.jpg"
+- "/v1592947623/eldo/Boulevard_14_vgmpq2.jpg"
 images__easier_: []
 images_test: []
+vimeo_link: ''
 published: false
 
 ---
