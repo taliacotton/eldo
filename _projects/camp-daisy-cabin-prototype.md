@@ -2,7 +2,7 @@
 layout: project
 title: Camp Daisy Cabin Prototype
 position: 
-hero_image: ''
+hero_image: "/v1592879148/eldo/DaisyCabin_1_kcnn6m.jpg"
 short-description: Camping in comfort
 description: |-
   The cabin prototype was the result of a design competition within a graduate architecture studio at Kansas State University. The winning proposal was built entirely by all of the students who participated in the competition. The students learned to weld, to form and pour concrete, to frame a floor, walls and a ceiling, to install electrical components and to sew. They learned to work as a team, in true Girl Scout’s form. Three of the students were Girl Scouts. One spent many summers at Camp Daisy. Her unique insights were a major factor in her team’s winning proposal.
@@ -11,11 +11,16 @@ related_projects: []
 architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 images_old: []
-images: []
-published: false
+images:
+- "/v1592879139/eldo/DaisyCabin_2_xvsued.jpg"
+- "/v1592879139/eldo/DaisyCabin_3_lrprz4.jpg"
+- "/v1592879139/eldo/DaisyCabin_4_jromtr.jpg"
+- "/v1592879138/eldo/DaisyCabin_5_mseplb.jpg"
+- "/v1592879166/eldo/DaisyCabin_6_f0qetv.jpg"
+vimeo_link: ''
 
 ---
 * 2013
