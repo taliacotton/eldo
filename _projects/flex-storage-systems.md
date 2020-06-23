@@ -4,8 +4,6 @@ position: 8
 layout: project
 short-description: A self-storage facility that aims to repair blight.
 description: |
-  __A self-storage facility that aims to repair blight__
-
   In an attempt to capitalize on the potential of a severely blighted commercial corridor in Topeka, Kansas, the owner of an inherited post-war strip center hired EL DORADO to redevelop the site into a two phase self storage facility. A flexible building system was developed that has the unique ability to adapt to commercial or retail uses with minimal additional construction, should the economy of the region improve.
 
   The project is forward thinking in its ability to adapt tried and true industry rules for successful self storage facilities while providing a sensible redevelopment strategy for alternate future functions.
@@ -32,6 +30,7 @@ images:
 - "/v1592604653/eldo/FLEX-11_swjbzr.jpg"
 - "/v1592604653/eldo/FLEX-10_odom6j.jpg"
 - "/v1592604654/eldo/FLEX-12_vkx1cc.jpg"
+published: false
 
 ---
 - 2003
