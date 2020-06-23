@@ -40,7 +40,6 @@ images:
 images__easier_: []
 images_test: []
 vimeo_link: ''
-published: false
 
 ---
 * 2012
