@@ -18,7 +18,7 @@ images:
 images__easier_: []
 architecture: true
 curatorial: false
-urban-design: false
+urban-design: true
 education: true
 fabrication: false
 related_projects: []
