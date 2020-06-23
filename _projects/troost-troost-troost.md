@@ -15,7 +15,7 @@ description: Leading up to the Troost Bridge project, EL DORADO led a University
   exhibition.
 architecture: true
 curatorial: false
-urban-design: false
+urban-design: true
 education: false
 fabrication: false
 hero_image: "/v1592593107/eldo/hero_images/troosttroosttroost-01_aqbh3s.jpg"

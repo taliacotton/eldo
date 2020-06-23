@@ -29,11 +29,12 @@ images:
 images__easier_: []
 architecture: true
 curatorial: true
-urban-design: true
+urban-design: false
 education: false
 fabrication: false
 related_projects: []
 images_old: []
+vimeo_link: ''
 
 ---
 * Ongoing
