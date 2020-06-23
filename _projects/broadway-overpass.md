@@ -56,6 +56,10 @@ vimeo_link: ''
 * Lighting Designer: Derek Porter Studio
 * Super-Structure Engineer of Record: GBA
 
+### Artists
+
+* Derek Porter
+
 ### Press
 
 * 2011 AIA Kansas City Allied Arts and Craftsmanship Awards - Merit Award
