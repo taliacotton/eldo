@@ -28,15 +28,15 @@ description: |-
           —  determine optimum parking demand and of the most unique and beautiful campuses in the country.
 images:
 - "/v1592593176/eldo/hero_images/kcaimasterplan-01_ld9fud.jpg"
-- "/v1592604881/eldo/KCAIMasterplan-27_hfpabv.jpg"
+- "/v1592604887/eldo/KCAIMasterplan-39_nif3fy.jpg"
 - "/v1592604859/eldo/KCAIMasterplan-15_w9t6ny.jpg"
 - "/v1592604862/eldo/KCAIMasterplan-16_s78nud.jpg"
-- "/v1592604875/eldo/KCAIMasterplan-21_bdxo4n.jpg"
-- "/v1592604881/eldo/KCAIMasterplan-14_mfqvyp.jpg"
-- "/v1592604882/eldo/KCAIMasterplan-19_kezi6j.jpg"
-- "/v1592604882/eldo/KCAIMasterplan-17_xug68v.jpg"
+- "/v1592604881/eldo/KCAIMasterplan-27_hfpabv.jpg"
 - "/v1592604886/eldo/KCAIMasterplan-40_pfwzca.jpg"
-- "/v1592604887/eldo/KCAIMasterplan-39_nif3fy.jpg"
+- "/v1592604882/eldo/KCAIMasterplan-19_kezi6j.jpg"
+- "/v1592604881/eldo/KCAIMasterplan-14_mfqvyp.jpg"
+- "/v1592604882/eldo/KCAIMasterplan-17_xug68v.jpg"
+- "/v1592604875/eldo/KCAIMasterplan-21_bdxo4n.jpg"
 images__easier_: []
 architecture: true
 curatorial: false
