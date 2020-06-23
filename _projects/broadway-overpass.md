@@ -4,7 +4,15 @@ title: Broadway Overpass
 position: 
 hero_image: "/v1592946566/eldo/Broadway_1_ycz6fx.jpg"
 short-description: ''
-description: ''
+description: As part of the third installation of Unlooping the Loop, lighting artist
+  Derek Porter proposed weaving light, color, and varying sizes of stainless steel
+  mesh to create a pedestrian guardrail that, at dusk, comes to life as a lively moiré!
+  This low tech graphic animation strategy creates an endless loop of patterns and
+  movement, all dependent on the vantage point of the viewer. The graphic display
+  unfolds slowly as a series of stills while walking, but transforms to an active
+  set of shifting hatches at driving speed. From the interstate below, the moiré patterns
+  take shape as an illusion at urban scale, creating a dynamic gateway to the city
+  from Interstate 670.
 images:
 - "/v1592946566/eldo/Broadway_2_dciidz.jpg"
 - "/v1592946566/eldo/Broadway_3_qnhcyq.jpg"
@@ -16,11 +24,11 @@ images:
 - "/v1592946566/eldo/Broadway_9_q3jj9e.jpg"
 - "/v1592946566/eldo/Broadway_10_zlcqdf.jpg"
 related_projects: []
-architecture: false
-curatorial: false
-urban-design: false
+architecture: true
+curatorial: true
+urban-design: true
 education: false
-fabrication: false
+fabrication: true
 images_old: []
 vimeo_link: ''
 
