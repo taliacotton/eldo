@@ -15,7 +15,7 @@ description: In February of 2007, the historic Waldo Theater, a once thriving cu
   will drastically improve visibility into retail spaces from sidewalks and roadways.
 related_projects: []
 architecture: true
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
 fabrication: false
