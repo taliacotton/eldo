@@ -15,18 +15,10 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1592591324/eldo/1919-20-0128-hero_pxv4y5.jpg"
+hero_image: "/v1592946526/eldo/300Kansas_1_qzkelz.jpg"
 images:
-- "/v1592603750/eldo/300Kansas-10_w54poj.jpg"
-- "/v1592603750/eldo/300kansas-09_h1w3ej.jpg"
-- "/v1592603745/eldo/300Kansas-08_uazw62.jpg"
-- "/v1592603733/eldo/300Kansas-07_lhzxic.jpg"
-- "/v1592603749/eldo/300Kansas-06_zwsbwk.jpg"
-- "/v1592603742/eldo/300Kansas-05_jwh4vc.jpg"
-- "/v1592603739/eldo/300Kansas-04_qiuilh.jpg"
-- "/v1592603744/eldo/300Kansas-03_j4pazw.jpg"
-- "/v1592603750/eldo/300kansas-02_fxyv0h.jpg"
-- "/v1592603745/eldo/300Kansas-01_a2bhan.jpg"
+- "/v1592946525/eldo/300Kansas_3_raeynx.jpg"
+- "/v1592946525/eldo/300Kansas_2_xgtmxd.jpg"
 vimeo_link: ''
 
 ---
