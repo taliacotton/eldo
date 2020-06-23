@@ -2,7 +2,7 @@
 layout: project
 title: National Center for Drug Free Sport
 position: 
-hero_image: ''
+hero_image: "/v1592947136/eldo/DrugFree_1_mdagsf.jpg"
 short-description: Environments that come alive
 description: Architectural designs originate from numerous sources.  For the Drug
   Free Sport renovation project, the careful design of the mechanical system assisted
@@ -19,13 +19,21 @@ description: Architectural designs originate from numerous sources.  For the Dru
   May Tveit (interior) and James Woodfill (exterior).
 related_projects: []
 architecture: true
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
 fabrication: false
-images: []
+images:
+- "/v1592947136/eldo/DrugFree_2_dtuvz2.jpg"
+- "/v1592947136/eldo/DrugFree_3_ablsny.jpg"
+- "/v1592947140/eldo/DrugFree_4_fkytme.jpg"
+- "/v1592947136/eldo/DrugFree_5_tqxqlq.jpg"
+- "/v1592947139/eldo/DrugFree_6_pw4gan.jpg"
+- "/v1592947138/eldo/DrugFree_7_v3i5yl.jpg"
+- "/v1592947138/eldo/DrugFree_8_j9fdsk.jpg"
 images__easier_: []
 images_test: []
+vimeo_link: ''
 published: false
 
 ---
