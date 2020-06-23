@@ -2,10 +2,19 @@
 layout: project
 title: Broadway Overpass
 position: 
-hero_image: ''
+hero_image: "/v1592946566/eldo/Broadway_1_ycz6fx.jpg"
 short-description: ''
 description: ''
-images: []
+images:
+- "/v1592946566/eldo/Broadway_2_dciidz.jpg"
+- "/v1592946566/eldo/Broadway_3_qnhcyq.jpg"
+- "/v1592946566/eldo/Broadway_4_fehrlk.jpg"
+- "/v1592946566/eldo/Broadway_5_vxwn7k.jpg"
+- "/v1592946566/eldo/Broadway_6_w3eayx.jpg"
+- "/v1592946566/eldo/Broadway_7_cagw0y.jpg"
+- "/v1592946566/eldo/Broadway_8_xj8b15.jpg"
+- "/v1592946566/eldo/Broadway_9_q3jj9e.jpg"
+- "/v1592946566/eldo/Broadway_10_zlcqdf.jpg"
 related_projects: []
 architecture: false
 curatorial: false
@@ -13,7 +22,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2011
