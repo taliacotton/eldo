@@ -17,16 +17,11 @@ education: false
 fabrication: false
 hero_image: "/v1592593164/eldo/hero_images/kcaifoundation-01_vp0pd5.jpg"
 images:
-- "/v1592593164/eldo/hero_images/kcaifoundation-01_vp0pd5.jpg"
 - "/v1592604828/eldo/KCAIFoundation-04_jstezl.jpg"
 - "/v1592604829/eldo/KCAIFoundation-06_u1u00j.jpg"
 - "/v1592604830/eldo/KCAIFoundation-03_jrikol.jpg"
 - "/v1592604830/eldo/KCAIFoundation-07_uabuwc.jpg"
 - "/v1592604831/eldo/KCAIFoundation-05_gojfg6.jpg"
-- "/v1592604832/eldo/KCAIFoundation-02_a0wvi9.jpg"
-- "/v1592604834/eldo/KCAIFoundation-10_hx3s1y.jpg"
-- "/v1592604834/eldo/KCAIFoundation-09_mdtpgy.jpg"
-- "/v1592604835/eldo/KCAIFoundation-11_qwfblq.jpg"
 - "/v1592604835/eldo/KCAIFoundation-08_l4mgxb.jpg"
 
 ---

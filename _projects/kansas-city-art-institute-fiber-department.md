@@ -51,6 +51,7 @@ images:
 - "/v1592604826/eldo/KCAIFiber-26_aqipi8.jpg"
 - "/v1592604827/eldo/KCAIFiber-28_szehu0.jpg"
 - "/v1592604827/eldo/KCAIFiber-27_ctnjnn.jpg"
+published: false
 
 ---
 - 2012
