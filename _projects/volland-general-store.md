@@ -20,11 +20,11 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
+hero_image: "/v1592605621/eldo/VollandStore_11_g20zwx.jpg"
 images:
+- "/v1592605607/eldo/VollandStore_3_q3vnjz.jpg"
 - "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
 - "/v1592605604/eldo/VollandStore_5_b5sne2.jpg"
-- "/v1592605607/eldo/VollandStore_3_q3vnjz.jpg"
 - "/v1592605610/eldo/VollandStore_2_t7kw8n.jpg"
 - "/v1592605613/eldo/VollandStore_7_iykqyu.jpg"
 - "/v1592605615/eldo/VollandStore_6_xgg0yu.jpg"
