@@ -17,15 +17,18 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1592603780/eldo/Bio_1_izmzm9.jpg"
+hero_image: "/v1592605133/eldo/Bio_4_vcidp8.jpg"
 images:
-- "/v1592605119/eldo/Bio_2_i8ioqy.jpg"
-- "/v1592605131/eldo/Bio_9_mhgl0f.jpg"
-- "/v1592605131/eldo/Bio_11_ygmtpr.jpg"
-- "/v1592605132/eldo/Bio_8_ows7sn.jpg"
-- "/v1592605133/eldo/Bio_12_a7dkyg.jpg"
-- "/v1592605133/eldo/Bio_4_vcidp8.jpg"
-- "/v1592605138/eldo/Bio_6_epi65j.jpg"
+- "/v1593026114/eldo/Biopav_2_vrhpte.jpg"
+- "/v1593026113/eldo/Biopav_3_u1drtl.jpg"
+- "/v1593026114/eldo/Biopav_4_eizfe3.jpg"
+- "/v1593026114/eldo/Biopav_5_x6lfny.jpg"
+- "/v1593026114/eldo/Biopav_6_emeqkr.jpg"
+- "/v1593026114/eldo/Biopav_7_pq6nta.jpg"
+- "/v1593026114/eldo/Biopav_8_bnyhii.jpg"
+- "/v1593026114/eldo/Biopav_9_ydz6fv.jpg"
+- "/v1593026115/eldo/Biopav_10_emv9ps.jpg"
+- "/v1593026115/eldo/Biopav_11_v6l4mi.jpg"
 
 ---
 - 2017
