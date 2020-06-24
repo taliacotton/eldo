@@ -2,7 +2,7 @@
 layout: project
 title: TWA Building
 position: 
-hero_image: ''
+hero_image: "/v1593035541/eldo/TWA_1_v5fmhd.jpg"
 short-description: Launching midwestern intersteller aspiration through building renovation
 description: "The project was an exercise in balancing accepted historical preservation
   practices while seeking to engage contemporary environmental design issues. Designed
@@ -21,9 +21,17 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-images: []
+images:
+- "/v1592853445/eldo/TWA-01_kwmtj0.jpg"
+- "/v1593035540/eldo/TWA_12_wjehfh.jpg"
+- "/v1593035540/eldo/TWA_13_aonwes.jpg"
+- "/v1593035541/eldo/TWA_14_paage9.jpg"
+- "/v1593035542/eldo/TWA-07_cjerzg.jpg"
+- "/v1593035542/eldo/TWA-06_dco7g4.jpg"
+- "/v1593035542/eldo/TWA-09_youyow.jpg"
 images__easier_: []
 images_test: []
+vimeo_link: ''
 
 ---
 * 2006
