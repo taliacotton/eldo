@@ -2,7 +2,7 @@
 layout: project
 title: 20th Street Streetscape
 position: 
-hero_image: ''
+hero_image: "/v1593094592/eldo/IMG_0049__pn4dnz.jpg"
 short-description: An exemplar of innovative storm water management, urban design,
   and years of work with a diverse set of stakeholders
 description: "El Dorado was selected by the City of Kansas City, Missouri to lead
@@ -17,10 +17,16 @@ description: "El Dorado was selected by the City of Kansas City, Missouri to lea
   Area Plan: create a walkable downtown; double the population downtown; increase
   employment downtown; retain and promote safe, authentic neighborhoods; and promote
   sustainability."
-images: []
+images:
+- "/v1592593162/eldo/hero_images/img_1553_nuvujn.jpg"
+- "/v1593094592/eldo/_DSC0093__cdztg2.jpg"
+- "/v1593094592/eldo/_DSC0017__qvdmz1.jpg"
+- "/v1593094592/eldo/_DSC0330__iony1o.jpg"
+- "/v1593094592/eldo/_DSC9945__osb1un.jpg"
+- "/v1593094592/eldo/_DSC0031__xgkujp.jpg"
 related_projects: []
-architecture: true
-curatorial: false
+architecture: false
+curatorial: true
 urban-design: true
 education: false
 fabrication: false
