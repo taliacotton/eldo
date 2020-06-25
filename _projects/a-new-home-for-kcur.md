@@ -27,7 +27,6 @@ curatorial: false
 urban-design: true
 education: true
 fabrication: false
-published: false
 
 ---
 * 2017
@@ -41,15 +40,12 @@ published: false
 
 ### Eldo Team
 
-* Principal: Doug Stockman
-* Project Manager: Sean Slattery, AIA, LEED AP BD+C
-* Project Architect: Jonathan Tramba, Kyle Leiker
-* Designer: Matt Barnett, Kara Schippers
-* Fabricator: Nick Kratz
+* Principal: David Dowell, AIA
+* Project Architect: Brian Michener, AIA, LEED AP
+* Designer: Lauren Harness
 
 ### Collaborators
 
-* Landscape Architect: Vela Works LLC
 * Accoustical Consultant: ADK
 * Cost Estimator: McCown Gordon
 * MEP Engineer: meGroup
