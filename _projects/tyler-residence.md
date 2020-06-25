@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Tyler Residence
+title: Tyler Residence Renovation
 position: 
 hero_image: ''
 short-description: ''
@@ -19,6 +19,7 @@ education: false
 fabrication: false
 images_old: []
 images: []
+vimeo_link: ''
 published: false
 
 ---
