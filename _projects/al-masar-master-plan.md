@@ -11,9 +11,10 @@ education: false
 fabrication: false
 hero_image: "/v1593096703/eldo/IMG_2554_SMALL_k5gmaw.jpg"
 images:
-- "/v1592604275/eldo/diagrams_tc8kti.jpg"
-- "/v1592604273/eldo/diagrams51_kgugbc.jpg"
+- "/v1593096933/eldo/1820_Vision_mwnyeu.png"
 - "/v1592604274/eldo/diagrams48_xrls0t.jpg"
+- "/v1592604273/eldo/diagrams51_kgugbc.jpg"
+- "/v1592604275/eldo/diagrams_tc8kti.jpg"
 - "/v1592604274/eldo/diagrams45_e7em7s.jpg"
 - "/v1592604275/eldo/diagrams52_nlyleg.jpg"
 - "/v1592604278/eldo/diagrams2_ydq4yi.jpg"
