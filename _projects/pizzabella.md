@@ -2,7 +2,7 @@
 layout: project
 title: 'Pizzabella '
 position: 
-hero_image: ''
+hero_image: "/v1593050394/eldo/pizzabella-01_ppsqnm.jpg"
 short-description: Warm materials seamlessly connect indoor and outdoor dining experiences
 description: Pizzabella is the third Kansas City restaurant established by Rob and
   Margarita Dalzell. The principal idea behind the design of Pizzabella was to create
@@ -12,7 +12,14 @@ description: Pizzabella is the third Kansas City restaurant established by Rob a
   both at the bar and pizza ovens. Fabric-lined walls provide ambient lighting and
   adjustable spot lights over the tables that help present richly visual food at an
   accurately rendered color temperature.
-images: []
+images:
+- "/v1593050394/eldo/pizzabella-02_u21ulj.jpg"
+- "/v1593050394/eldo/pizzabella-03_cprtcx.jpg"
+- "/v1593050394/eldo/pizzabella-04_crldmy.jpg"
+- "/v1593050394/eldo/pizzabella-05_huwdvc.jpg"
+- "/v1593050394/eldo/pizzabella-06_rf8cwe.jpg"
+- "/v1593050394/eldo/pizzabella-07_dclztn.jpg"
+- "/v1593050395/eldo/pizzabella-08_julelc.jpg"
 related_projects: []
 architecture: true
 curatorial: false
@@ -20,7 +27,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2007
