@@ -24,7 +24,7 @@ images:
 - "/v1592946566/eldo/Broadway_9_q3jj9e.jpg"
 - "/v1592946566/eldo/Broadway_10_zlcqdf.jpg"
 related_projects: []
-architecture: true
+architecture: false
 curatorial: true
 urban-design: true
 education: false
