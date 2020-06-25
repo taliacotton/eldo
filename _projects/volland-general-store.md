@@ -16,10 +16,10 @@ description: "Volland, Kansas was founded in the late 1800s when Rock Island Rai
   the general store was, and a second-story living space at the back, above a catering
   kitchen and restrooms."
 architecture: true
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 hero_image: "/v1592605621/eldo/VollandStore_11_g20zwx.jpg"
 images:
 - "/v1593043810/eldo/Volland_2_jead1z.jpg"

@@ -28,7 +28,7 @@ images:
 - "/v1592607650/eldo/utm_05_hdgiyr.jpg"
 images__easier_: []
 architecture: true
-curatorial: true
+curatorial: false
 urban-design: false
 education: false
 fabrication: false

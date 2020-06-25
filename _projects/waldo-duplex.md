@@ -39,10 +39,10 @@ images:
 - "/v1592590303/eldo/WaldoDuplex_23_jdoimg.jpg"
 - "/v1592606011/eldo/WaldoDuplex_1_jk3pyx.jpg"
 images__easier_: []
-architecture: false
+architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 related_projects:
 - _projects/restart-housing.md
