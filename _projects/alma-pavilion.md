@@ -2,7 +2,7 @@
 layout: project
 title: Alma Shade Pavilion
 position: 
-hero_image: ''
+hero_image: "/v1593053961/eldo/AlmaPav_1_b1qlau.jpg"
 short-description: Architecture mimicking landscape
 description: "Beginning as an envisioning exercise, for the redevelopment of the city’s
   major public space, Design+Make developed a series of master plans for the future
@@ -10,7 +10,8 @@ description: "Beginning as an envisioning exercise, for the redevelopment of the
   responding to the scenic landscape of the surrounding prairie and context of Alma,
   Kansas as a whole. Phase 1 of this selected proposal focuses on creating a shade
   structure and improved entries to Alma City Pool, located within \nthe park."
-images: []
+images:
+- "/v1593053961/eldo/AlmaPav_2_llrokp.jpg"
 related_projects: []
 architecture: true
 curatorial: false
@@ -18,7 +19,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2015
