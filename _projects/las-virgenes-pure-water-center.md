@@ -11,6 +11,7 @@ description: |-
 
   This project is the creation of a pure water demonstration facility at the Las Virgnes Municipal Water Department. Minimally constructed within an existing building, the facility is designed to showcase the technology, invert public perceptions about recycled water, and celebrate the potential for independence from an antiquated potable water delivery system.
 images:
+- "/v1593119226/eldo/1807_-_Las_Virgenes_Page_01_sfdcth.jpg"
 - "/v1593118657/eldo/1807_-_Las_Virgenes_Page_03_rjepvm.jpg"
 - "/v1593118657/eldo/1807_-_Las_Virgenes_Page_04_vu2zi6.jpg"
 - "/v1593118658/eldo/1807_-_Las_Virgenes_Page_05_cmxhd9.jpg"
@@ -20,10 +21,13 @@ images:
 - "/v1593118659/eldo/1807_-_Las_Virgenes_Page_09_rcsqfb.jpg"
 - "/v1593118659/eldo/1807_-_Las_Virgenes_Page_11_ij9co9.jpg"
 - "/v1593118659/eldo/1807_-_Las_Virgenes_Page_12_ze2uwv.jpg"
-- "/v1593119108/eldo/1807_-_Board_Presentation_Draft_18070254_kk3git.jpg"
 - "/v1593118659/eldo/1807_-_Las_Virgenes_Page_13_zkdvlg.jpg"
 - "/v1593118661/eldo/1807_-_Las_Virgenes_Page_16_vnxbvk.jpg"
 - "/v1593118660/eldo/1807_-_Las_Virgenes_Page_18_peplll.jpg"
+- "/v1593119108/eldo/1807_-_Board_Presentation_Draft_18070254_kk3git.jpg"
+- "/v1593119180/eldo/1807_-_Board_Presentation_Draft_18070255_qbqamp.jpg"
+- "/v1593119184/eldo/1807_-_Board_Presentation_Draft_18070256_luqyto.jpg"
+- "/v1593119188/eldo/1807_-_Board_Presentation_Draft_18070257_jnz1iw.jpg"
 related_projects: []
 architecture: true
 curatorial: true
