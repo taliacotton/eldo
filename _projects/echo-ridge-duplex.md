@@ -2,7 +2,7 @@
 layout: project
 title: Echo Ridge Duplex
 position: 
-hero_image: ''
+hero_image: "/v1593052319/eldo/Echo_7_vlkir3.jpg"
 short-description: El Dorado was challenged to offer new insights for the duplex typology
   for the Echo Ridge duplexes, executed within HUD-regulated budget constraints.
 description: |
@@ -11,7 +11,13 @@ description: |
   Typical duplex typologies were re-configured for Echo Ridge to provide natural cross ventilation for all major rooms of each unit. Arranged in a stacked configuration to create a shared interior courtyard, the new configuration of duplexes were designed with a focus on single mothers, providing a protected and easily supervised communal space for small children. The second level of each unit has a private, shaded patio and a planted roof. The new duplexes also gain energy efficiency through the use of highly insulated envelope construction, fully ventilated rain screen systems, and a shared ground source heat pump system. Storm water management is achieved through planted rooftops and pervious concrete sidewalk paving. Materials containing recycled content were specified throughout the design.
 
   The result, built for just $115 per square foot, is an energetic and optimistic re-thinking of a low-income housing typology that promotes sustainable living and a strong sense of community.
-images: []
+images:
+- "/v1593052319/eldo/Echo_1_rvmym7.jpg"
+- "/v1593052319/eldo/Echo_2_grmvih.jpg"
+- "/v1593052319/eldo/Echo_3_guidxk.jpg"
+- "/v1593052319/eldo/Echo_6_tfw9zd.jpg"
+- "/v1593052319/eldo/Echo_5_fybd9a.jpg"
+- "/v1593052319/eldo/Echo_4_id9oip.jpg"
 related_projects: []
 architecture: true
 curatorial: false
@@ -19,7 +25,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2012
