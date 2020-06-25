@@ -2,21 +2,27 @@
 layout: project
 title: Prairie Logic
 position: 
-hero_image: ''
+hero_image: "/v1593052104/eldo/PrairieLogic_6_n2md76.jpg"
 short-description: How a city's rooftops can become a public stage
 description: |-
   Prairie Logic is a collaboration between Brooklyn-based artist Janet Zweig and El Dorado. Comprised of a full scale perforated aluminum boxcar in a 25,000 square foot sea of native prairie grass, it was commissioned by the City of Kansas City, Missouri as part of their 1% for Public Art program. The work is situated on a half-acre planted roof 4 stories above Main Street in downtown Kansas City. It is meant to be experienced at three different scales: viewed from the neighboring skyscrapers looking down; viewed in the distance from the green roof; and experienced close up as both a place of solitary contemplation and as a programmed community performance space.
 
   Prairie Logic is a provocative study in historical displacement and urban juxtaposition: can a historic relic of a past frontier help us re-imagine a new urban frontier amongst our city’s rooftops?
-images: []
+images:
+- "/v1593052104/eldo/PrairieLogic_1_tx3spw.jpg"
+- "/v1593052103/eldo/PrairieLogic_2_pwwodo.jpg"
+- "/v1593052103/eldo/PrairieLogic_7_zq9opz.jpg"
+- "/v1593052103/eldo/PrairieLogic_3_upm0ir.jpg"
+- "/v1593052103/eldo/PrairieLogic_4_i0l8ou.jpg"
+- "/v1593052104/eldo/PrairieLogic_5_h0efgl.jpg"
 related_projects: []
 architecture: true
-curatorial: false
-urban-design: false
+curatorial: true
+urban-design: true
 education: false
-fabrication: false
+fabrication: true
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2012
