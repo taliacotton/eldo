@@ -2,7 +2,7 @@
 layout: project
 title: Hodgdon Powder Facility
 position: 
-hero_image: ''
+hero_image: "/v1593044825/eldo/Hodgdon_1_prvqr9.jpg"
 short-description: A unique workplace that makes a bold statement about brand identity
 description: "The design goal for Hodgdon Powder Facility was to prove that a building
   could elevate workplace productivity in a signature structure on a “bare bones”
@@ -16,7 +16,18 @@ description: "The design goal for Hodgdon Powder Facility was to prove that a bu
   result is a design that plays to the strengths of the pre-engineered system by focusing
   the major modifications to the end wall assemblies, allowing the dual-corrugated,
   structural panels to remain largely intact."
-images: []
+images:
+- "/v1593044825/eldo/Hodgdon_2_r1f422.jpg"
+- "/v1593044825/eldo/Hodgdon_3_lt3exe.jpg"
+- "/v1593044825/eldo/Hodgdon_03_lpxweh.jpg"
+- "/v1593044825/eldo/Hodgdon_04_oraums.jpg"
+- "/v1593044825/eldo/Hodgdon_4_yozhxn.jpg"
+- "/v1593044826/eldo/Hodgdon_5_n5lhbp.jpg"
+- "/v1593044826/eldo/Hodgdon_6_orwjeb.jpg"
+- "/v1593044826/eldo/Hodgdon_7_ef0hyi.jpg"
+- "/v1593044826/eldo/Hodgdon_8_ahp7vv.jpg"
+- "/v1593044826/eldo/Hodgdon_9_yvibsz.jpg"
+- "/v1593044826/eldo/Hodgdon_10_ahbokx.jpg"
 related_projects: []
 architecture: true
 curatorial: false
@@ -24,6 +35,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
+vimeo_link: ''
 published: false
 
 ---
