@@ -25,10 +25,10 @@ images:
 - "/v1593104004/eldo/Crossroads_Doors_4_i0xnkv.jpg"
 - "/v1593104005/eldo/Crossroads_Doors_11_cixixy.jpg"
 - "/v1593104005/eldo/Crossroads_Doors_10_iu1dq4.jpg"
-- "/v1593104006/eldo/Crossroads_Doors_14_anlu5m.jpg"
-- "/v1593104006/eldo/Crossroads_Doors_12_yf4lfq.jpg"
-- "/v1593104006/eldo/Crossroads_Doors_15_f1ildo.jpg"
 - "/v1593104005/eldo/Crossroads_Doors_13_symjax.jpg"
+- "/v1593104006/eldo/Crossroads_Doors_12_yf4lfq.jpg"
+- "/v1593104006/eldo/Crossroads_Doors_14_anlu5m.jpg"
+- "/v1593104006/eldo/Crossroads_Doors_15_f1ildo.jpg"
 vimeo_link: https://vimeo.com/432600164
 related_projects:
 - _projects/crossroads-hotel.md
