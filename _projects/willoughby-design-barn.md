@@ -31,7 +31,6 @@ images:
 - "/v1593094091/eldo/willoughby-4_y2454s.tiff"
 - "/v1593094091/eldo/willoughby-2_nfimq9.tiff"
 vimeo_link: ''
-published: false
 
 ---
 * 1999
