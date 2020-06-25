@@ -2,7 +2,7 @@
 layout: project
 title: Limelight
 position: 
-hero_image: ''
+hero_image: "/v1593051690/eldo/Limelight_4_xnnijo.jpg"
 short-description: A deceptively simple intervention that turns the street into community
   theater.
 description: Since 2010 in fourteen cities across the world, a selection of sidewalks
@@ -15,14 +15,17 @@ description: Since 2010 in fourteen cities across the world, a selection of side
   the other hand offers an alternative approach to city’s lighting as more than securitarian.
 related_projects: []
 architecture: true
-curatorial: false
-urban-design: false
+curatorial: true
+urban-design: true
 education: false
 fabrication: false
-images: []
+images:
+- "/v1593051691/eldo/Limelight_2_fwpscd.jpg"
+- "/v1593051691/eldo/Limelight_3_saau7o.jpg"
+- "/v1593051691/eldo/Limelight_1_vpfry7.jpg"
 images__easier_: []
 images_test: []
-published: false
+vimeo_link: ''
 
 ---
 * Ongoing
