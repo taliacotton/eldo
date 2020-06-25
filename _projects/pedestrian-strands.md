@@ -23,8 +23,8 @@ images:
 - "/v1593050288/eldo/Strands_9_lpwoaw.jpg"
 related_projects: []
 architecture: true
-curatorial: false
-urban-design: false
+curatorial: true
+urban-design: true
 education: false
 fabrication: false
 images_old: []
