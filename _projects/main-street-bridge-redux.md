@@ -26,7 +26,6 @@ curatorial: true
 urban-design: true
 education: false
 fabrication: true
-published: false
 
 ---
 * 2013
