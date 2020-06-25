@@ -10,9 +10,9 @@ description: |-
   Each door is outfitted with six panels of Bendheim Houdini glass that is fluted to obscure visibility while allowing ample light to penetrate.
 images:
 - "/v1593110612/eldo/IMG_5153_wdyuiu.jpg"
+- "/v1593110578/eldo/IMG_4992_qly4g2.jpg"
 - "/v1593104179/eldo/IMG_4445_d6qwhl.jpg"
 - "/v1593119487/eldo/_DSC1494_zf7flz.jpg"
-- "/v1593110578/eldo/IMG_4992_qly4g2.jpg"
 - "/v1593104210/eldo/IMG_4242_whrgim.jpg"
 - "/v1593110592/eldo/IMG_5150_gighnr.jpg"
 - "/v1593104006/eldo/Crossroads_Doors_16_ransze.jpg"
