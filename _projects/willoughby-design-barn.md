@@ -2,7 +2,7 @@
 layout: project
 title: Willoughby Design Barn
 position: 
-hero_image: ''
+hero_image: "/v1593093849/eldo/west_bay_yw1xq5.jpg"
 short-description: Space utilized as an event space in connection with Willoughby
   Design Group's work as a graphic design firm and business identity consultant.
 description: |-
@@ -14,13 +14,25 @@ architecture: true
 curatorial: false
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 images_old: []
-images: []
+images:
+- "/v1593094173/eldo/barn_plan-black_gsrefa.tiff"
+- "/v1593094109/eldo/barn_plan-black_xogf0f.tiff"
+- "/v1593094090/eldo/willoughbybarn5_mybolf.jpg"
+- "/v1593094090/eldo/willoughbybarn4_vwegb0.jpg"
+- "/v1593094090/eldo/willoughbybarn3_fjtt2f.jpg"
+- "/v1593094090/eldo/willoughbybarn2_thj4bw.jpg"
+- "/v1593094091/eldo/willoughby-10_sveyy4.tiff"
+- "/v1593094091/eldo/willoughby-9_i18kxt.tiff"
+- "/v1593094091/eldo/willoughby-7_el6j9i.tiff"
+- "/v1593094091/eldo/willoughby-4_y2454s.tiff"
+- "/v1593094091/eldo/willoughby-2_nfimq9.tiff"
+vimeo_link: ''
 published: false
 
 ---
-* 2006
+* 1999
 * Architect
 * Weston, MO
 * 2,750 SF
@@ -47,8 +59,8 @@ published: false
 
 ### Press
 
-*  Inhabitat, Bridgette Meinhold, "[Reclaimed Materials From A Missouri Barn Becomes Dynamic Design Event Space]( https://inhabitat.com/reclaimed-materials-from-a-missouri-barn-becomes-dynamic-design-event-space/)," 2011
-* Archdaily, Kelly Minner, "[Willoughby Design Barn / El Dorado]( https://www.archdaily.com/106333/willoughby-design-barn-el-dorado)," 2011
+* Inhabitat, Bridgette Meinhold, "[Reclaimed Materials From A Missouri Barn Becomes Dynamic Design Event Space](https://inhabitat.com/reclaimed-materials-from-a-missouri-barn-becomes-dynamic-design-event-space/)," 2011
+* Archdaily, Kelly Minner, "[Willoughby Design Barn / El Dorado](https://www.archdaily.com/106333/willoughby-design-barn-el-dorado)," 2011
 * Kansas City Star Magazine, Stacy Downs, "[The Ann Willoughby Experience](downloads.ctfassets.net/7ceafwpo4r5g/7gUwCK3WvKXtfyhwxTaN4q/63bdb4322904eb54d267abb20f723100/2009-Dan_Maginn-KCStar_Willoughby_compressed.pdf)," 2009
 * Cabana de Arquitectura Vernacula a Contemporanea, Anna Vicens,  "[Granero de Willoughby-Design](assets.ctfassets.net/7ceafwpo4r5g/6iYaehEAsqii7wfPJOIdpC/a05db95cf40497aaf20c56bb3877ae24/2008-Willoughby_Barn-Cabana_de_Arquitectura_Vernacula_a_Contemporanea_compressed.pdf )," 2008
 * ReMaterial Del desecho a la arquitectura, Alejandro Bahamón, Maria Camila Sanjinés, "[Willoughby Design Barn](assets.ctfassets.net/7ceafwpo4r5g/78FMzIvZ8W9g7gohNash6s/bcd0d110fa63e4a6bdfacdf4c640c842/2008-Willoughby_Barn-ReMaterial_compressed.pdf ),"2008
