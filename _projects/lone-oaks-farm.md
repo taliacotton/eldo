@@ -19,10 +19,13 @@ images:
 - "/v1593112043/eldo/Farm_Center_Entry_ELDO_wmydne.jpg"
 - "/v1592606825/eldo/utlof_2_pubeo4.png"
 - "/v1593111194/eldo/AIACSR168_4_q4tsqi.jpg"
+- "/v1593112853/eldo/Lake_Section_opc2wx.jpg"
 - "/v1593111198/eldo/AIACSR168_5_a0lp06.jpg"
+- "/v1593112860/eldo/Meadow_Section_hpjhje.jpg"
 - "/v1593111197/eldo/AIACSR168_3_q9qowx.jpg"
 - "/v1593112365/eldo/section10scale-ForestUPDATE_ei8vzl.jpg"
 - "/v1593111201/eldo/AIACSR168_6_ufvs47.jpg"
+- "/v1593112941/eldo/LOF_Ravine_gtb3yy.jpg"
 
 ---
 - 2017
