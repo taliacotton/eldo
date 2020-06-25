@@ -37,6 +37,34 @@ curatorial: true
 urban-design: true
 education: false
 fabrication: true
-published: false
 
 ---
+* 2016
+* Architect, Fabricator
+* Kansas City, MO
+* 11,277 SF
+
+### Client
+
+* City of KCMO
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+* Project Manager: Chris Burk
+* Fabricator: Nick Kratz, Brent Higgins
+* Designer: Nick Kratz, Brent Higgings
+
+### Artist
+
+* James Woodfill
+
+### Collaborators
+
+* Contractor: Collins + Hermann Inc
+* Structural Engineer: Genesis Structures
+* Electrical Engineer: Lankford / Fendler Associates
+
+### Photography by
+
+* Mike Sinclair
