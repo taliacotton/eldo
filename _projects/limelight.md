@@ -14,7 +14,7 @@ description: Since 2010 in fourteen cities across the world, a selection of side
   latent potential of public realm as places of interaction and celebration and on
   the other hand offers an alternative approach to city’s lighting as more than securitarian.
 related_projects: []
-architecture: true
+architecture: false
 curatorial: true
 urban-design: true
 education: false
