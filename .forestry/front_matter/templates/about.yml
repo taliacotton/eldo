@@ -32,6 +32,7 @@ fields:
   config:
     required: false
   label: Vimeo Link
-  description: Paste full link, e.g. https://player.vimeo.com/video/87110435
+  description: 'Correct format: https://player.vimeo.com/video/#########'
+  default: https://player.vimeo.com/video/#########
 pages:
 - about.md

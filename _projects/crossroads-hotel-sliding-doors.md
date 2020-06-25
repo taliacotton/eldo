@@ -29,8 +29,7 @@ images:
 - "/v1593104006/eldo/Crossroads_Doors_12_yf4lfq.jpg"
 - "/v1593104006/eldo/Crossroads_Doors_14_anlu5m.jpg"
 - "/v1593104006/eldo/Crossroads_Doors_15_f1ildo.jpg"
-vimeo_link: <iframe src="https://player.vimeo.com/video/432600164" width="640" height="360"
-  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+vimeo_link: https://player.vimeo.com/video/432600164
 related_projects:
 - _projects/crossroads-hotel.md
 architecture: false
