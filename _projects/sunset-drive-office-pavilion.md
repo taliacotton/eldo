@@ -2,7 +2,7 @@
 layout: project
 title: Sunset Drive Office Pavilion
 position: 
-hero_image: ''
+hero_image: "/v1593053729/eldo/Sunset_3_cg4je5.jpg"
 short-description: Custom glulam beams elevate mundane support members to an elegantly
   artful level.
 description: Located on the grounds of the Sunset Drive Office Building (SDOB) in
@@ -12,15 +12,17 @@ description: Located on the grounds of the Sunset Drive Office Building (SDOB) i
   adjacent wooded nature trail and botanical research garden. Incorporating eight
   glulam beams from King Louie, an iconic Johnson County building, the pavilion creates
   a connection to the history of the county while maintaining a dialog with the SDOB.
-images: []
+images:
+- "/v1593053729/eldo/Sunset_2_ycdto1.jpg"
+- "/v1593053729/eldo/Sunset_4_qczz2b.jpg"
 related_projects: []
 architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2015
