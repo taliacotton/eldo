@@ -3,8 +3,7 @@ layout: project
 title: Taylor Dining Pavilion
 position: 
 hero_image: "/v1593116934/eldo/taylor-1_jflvra.jpg"
-short-description: A farm-to-table pavilion was conceived as a flat-packed system
-  that was fabricated, shipped to the site and installed by El Dorado.
+short-description: A Flat-Packed, Farm-To-Table Dining Pavilion
 description: "The pavilion is situated in the midst of the client’s garden, and allows
   them the ability to experience its dynamic presence first hand. Aside from a pleasant,
   insect-free place to spend a summer evening, the pavilion was programmed to provide
@@ -26,7 +25,6 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: true
-published: false
 
 ---
 * 2001
