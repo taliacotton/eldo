@@ -2,7 +2,7 @@
 layout: project
 title: Habitat for Humanity Prototype House
 position: 
-hero_image: ''
+hero_image: "/v1593044490/eldo/Heartland_1_ehfmjv.jpg"
 short-description: The Heartland Habitat prototype establishes low-tech sustainable
   design strategies through an integration of indoor and outdoor programming, resulting
   in a new model for residential infill within its surrounding contexts.
@@ -17,7 +17,20 @@ description: 'Public Architecture''s 1% for Habitat Initiative matched EL DORADO
   system ecourage families to spend more time outdoors, reducing energy consumption
   and introducing them to sustainable practices. The program aligns with Heartland
   Habitat''s mission to build simple, decent homes and communities for people in need. '
-images: []
+images:
+- "/v1593044490/eldo/Heartland_6_ielvv3.jpg"
+- "/v1593044489/eldo/Heartland_3_Page_03_mk0gr2.jpg"
+- "/v1593044489/eldo/Heartland_4_acpcx0.jpg"
+- "/v1593044490/eldo/Heartland_5_wnqqlp.jpg"
+- "/v1593044490/eldo/Heartland_7_heufbw.jpg"
+- "/v1593044490/eldo/Heartland_8_ppvgfo.jpg"
+- "/v1593044490/eldo/Heartland_9_ejv87h.jpg"
+- "/v1593044491/eldo/Heartland_10_ero2c0.jpg"
+- "/v1593044490/eldo/Heartland_11_tesb21.jpg"
+- "/v1593044491/eldo/Heartland_12_wssj4f.jpg"
+- "/v1593044490/eldo/Heartland_1_ehfmjv.jpg"
+- "/v1593044491/eldo/Heartland_14_tgk8pc.jpg"
+- "/v1593044491/eldo/Heartland_15_lzpm9p.jpg"
 related_projects: []
 architecture: true
 curatorial: false
@@ -25,7 +38,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2013
