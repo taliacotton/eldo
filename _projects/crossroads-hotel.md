@@ -39,7 +39,7 @@ images:
 - "/v1592604606/eldo/CrossroadsHotel-34_hmyaut.jpg"
 - "/v1592604606/eldo/CrossroadsHotel-24_s0xb7v.jpg"
 - "/v1592952847/eldo/Crossroads_18_oszqbz.jpg"
-vimeo_link: https://vimeo.com/432600164
+vimeo_link: https://player.vimeo.com/video/432600164
 
 ---
 - 2018
