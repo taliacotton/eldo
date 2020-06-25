@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Tyler Residence Renovation
+title: Tyler Studio
 position: 
 hero_image: ''
 short-description: ''
