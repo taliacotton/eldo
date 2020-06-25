@@ -24,7 +24,6 @@ images:
 - "/v1593094592/eldo/_DSC0017__qvdmz1.jpg"
 - "/v1593096287/eldo/_DSC8283__j06z1s.jpg"
 - "/v1593094592/eldo/_DSC0031__xgkujp.jpg"
-- "/v1593094592/eldo/_DSC0093__cdztg2.jpg"
 - "/v1593094592/eldo/_DSC0330__iony1o.jpg"
 - "/v1593096145/eldo/20th_Streetscapesmall_plan_qtubdh.jpg"
 related_projects: []
