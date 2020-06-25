@@ -18,14 +18,14 @@ description: "El Dorado was selected by the City of Kansas City, Missouri to lea
   employment downtown; retain and promote safe, authentic neighborhoods; and promote
   sustainability."
 images:
-- "/v1593096287/eldo/_DSC8283__j06z1s.jpg"
-- "/v1593096275/eldo/_DSC8323__tojk51.jpg"
 - "/v1592593162/eldo/hero_images/img_1553_nuvujn.jpg"
-- "/v1593094592/eldo/_DSC0093__cdztg2.jpg"
-- "/v1593094592/eldo/_DSC0017__qvdmz1.jpg"
-- "/v1593094592/eldo/_DSC0330__iony1o.jpg"
 - "/v1593094592/eldo/_DSC9945__osb1un.jpg"
+- "/v1593096275/eldo/_DSC8323__tojk51.jpg"
+- "/v1593094592/eldo/_DSC0017__qvdmz1.jpg"
+- "/v1593096287/eldo/_DSC8283__j06z1s.jpg"
 - "/v1593094592/eldo/_DSC0031__xgkujp.jpg"
+- "/v1593094592/eldo/_DSC0093__cdztg2.jpg"
+- "/v1593094592/eldo/_DSC0330__iony1o.jpg"
 - "/v1593096145/eldo/20th_Streetscapesmall_plan_qtubdh.jpg"
 related_projects: []
 architecture: false
