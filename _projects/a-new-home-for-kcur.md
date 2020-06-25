@@ -1,6 +1,6 @@
 ---
 layout: project
-title: A New Home For KCUR
+title: A New Home For KCUR 89.3
 position: 
 hero_image: "/v1593098729/eldo/KCUR_New_Build_NIGHT_l30wpi.jpg"
 short-description: ''
