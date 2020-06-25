@@ -7,6 +7,14 @@ short-description: A thoughtful vision that respects the land, restores it to it
 description: |-
   To fulfill a need for a 4-H camp in Western Tennessee, the University of Tennessee acquired the 1,200-acre Lone Oaks Farm in Middleton, Tennessee. The client commissioned a multi-disciplinary design team to develop a master plan that would incorporate the new camp into the rich tapestry of woodlands, open pasture, lakes, and streams of the farm.
 
+  An elective studio of architecture students actively participated in and contributed to a long-range master planning process for 1,200 acres of farml and in rural Tennessee. Their studio course was a unique opportunity to forge an integrated understanding of ecology, landscape architecture, agriculture, and architecture through collaboration with a professional design team tasked with
+  envisioning the complex future of this site. Over two full academic semesters, the studio engaged with more than one hundred individuals—scientists,
+  architects, planners, landscape architects, youth educators, and community members—in design charettes, on-line meetings and on-site presentations,
+  both on-site and in Knoxville, Tennessee.
+
+  The design team invited the students into the project and the students invited the professionals into their studies; this unique bit of sanctioned meddling resulted in a resonant educational experience for the students and a powerful master
+  plan for Lone Oaks Farm.
+
   Heeding the principles set forth in the master plan, the same design team is working on the first phases of development (now under construction and in schematic design, respectively) at the farm, taking cues from existing agrarian structures, all while adopting updated performance standards to provide contemporary, durable facilities. Each new structure shares a kit of parts and language of detailing, but is unique in its integration to the local ecology.
 architecture: false
 curatorial: false
