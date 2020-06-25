@@ -13,7 +13,7 @@ description: "After operating in a limited and challenging converted Victorian h
   the food at Novel. For guests, this translates into an ephemeral space grounded
   in place — the heart of downtown Kansas City’s Crossroads Art District."
 architecture: true
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
 fabrication: false

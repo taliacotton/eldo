@@ -17,7 +17,7 @@ description: "YMCA’s Camp Wood commissioned this educationstation for North Am
 architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 hero_image: "/v1592605223/eldo/PrestonOutdoorEducation-15_pjco73.jpg"
 images:
