@@ -2,7 +2,7 @@
 layout: project
 title: Pedestrian Strands
 position: 
-hero_image: ''
+hero_image: "/v1593050288/eldo/Strands_3_t2faou.jpg"
 short-description: ''
 description: Pedestrian Strands is the latest collaboration between el dorado inc
   and artist James Woodfill.  Sited on four highway bridges that connect the Downtown
@@ -12,7 +12,15 @@ description: Pedestrian Strands is the latest collaboration between el dorado in
   embedded in illuminated glass panels, Pedestrian Strands embraces a strategy that
   all components of the installation comprise the artwork – the glass, the mesh guardrail
   and custom end panels with laser cut identifying street names.
-images: []
+images:
+- "/v1593050287/eldo/Strands_1_daafge.jpg"
+- "/v1593050288/eldo/Strands_2_sggljh.jpg"
+- "/v1593050288/eldo/Strands_4_xyiwk6.jpg"
+- "/v1593050288/eldo/Strands_5_prle3b.jpg"
+- "/v1593050288/eldo/Strands_6_pshv8u.jpg"
+- "/v1593050288/eldo/Strands_7_gocr6q.jpg"
+- "/v1593050288/eldo/Strands_8_ouacac.jpg"
+- "/v1593050288/eldo/Strands_9_lpwoaw.jpg"
 related_projects: []
 architecture: true
 curatorial: false
@@ -20,7 +28,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2008
