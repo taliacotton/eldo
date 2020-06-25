@@ -3,7 +3,7 @@ layout: project
 title: 'Block Addition Building Visitor Desk '
 position: 
 hero_image: "/v1593116551/eldo/RH1625-200_eakhbn.jpg"
-short-description: ''
+short-description: Museum-quality Craft
 description: |-
   el dorado custom fabricated a series of steel and terrazzo reception desks for the lobby of the Bloch Building at Kansas City’s Nelson-Atkins Museum of Art. The lead architect provided initial schematic designs, having el dorado complete the detailing and construction. This project posed a number of constraints that el dorado fabricators
   were able to work around including tight tolerances that required the stainless steel skin panels be custom fit in the shop prior to finishing. The simplicity
@@ -25,6 +25,6 @@ architecture: false
 curatorial: false
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 
 ---
