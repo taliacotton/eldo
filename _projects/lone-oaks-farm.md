@@ -11,7 +11,7 @@ description: |-
 architecture: false
 curatorial: false
 urban-design: true
-education: false
+education: true
 fabrication: false
 hero_image: "/v1592593105/eldo/hero_images/utlof_1_wl1r22.jpg"
 images:
@@ -38,25 +38,30 @@ images:
 - "/v1593113360/eldo/Camp_Core_08-29-2017_wbfhhb.jpg"
 
 ---
-- 2017
-- Planner
-- Hardeman County, TN
-- 1200 acre site, 225,000 SF of building (of that, 150,000 SF is new construction)
+* 2017
+* Planner
+* Hardeman County, TN
+* 1200 acre site, 225,000 SF of building (of that, 150,000 SF is new construction)
 
 ### Client
-- University of Tennessee, Lone Oaks Farm
+
+* University of Tennessee, Lone Oaks Farm
 
 ### Eldo Team
-- Principal: David Dowell, AIA
-- Project Manager: Sean Slattery, AIA, LEED AP BD+C
-- Project Architects: Brian Michener, RA, LEED AP; Kyle Leiker
-- Project Designer: Brock Traffas
+
+* Principal: David Dowell, AIA
+* Project Manager: Sean Slattery, AIA, LEED AP BD+C
+* Project Architects: Brian Michener, RA, LEED AP; Kyle Leiker
+* Project Designer: Brock Traffas
 
 ### Collaborator
-- Landscape Architect: Nelson Byrd Woltz Landscape Architects (NBW)
+
+* Landscape Architect: Nelson Byrd Woltz Landscape Architects (NBW)
+* University of Tennessee Extension
 
 ### Awards
-- 2018 Society for College and University Planning (SCUP) 
-- Special Citation Award
-- 2018 American Society of Landscape Architects (ASLA) Tennessee 
-- Merit Award in Research"
+
+* 2018 Society for College and University Planning (SCUP)
+* Special Citation Award
+* 2018 American Society of Landscape Architects (ASLA) Tennessee
+* Merit Award in Research
