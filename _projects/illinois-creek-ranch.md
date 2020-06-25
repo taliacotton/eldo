@@ -2,7 +2,7 @@
 layout: project
 title: Illinois Creek Ranch
 position: 
-hero_image: ''
+hero_image: "/v1593053243/eldo/Illinois_1_swiu7o.jpg"
 short-description: Striking a balance between honoring the integrity of the site and
   designing a boldly contemporary project
 description: 'Located in the Flint Hills of Kansas—the country’s last remaining tallgrass
@@ -24,8 +24,23 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-images: []
-published: false
+images:
+- "/v1593053243/eldo/Illinois_2_lqqs00.jpg"
+- "/v1593053242/eldo/Illinois_5_copy_kjp6jt.jpg"
+- "/v1593053242/eldo/Illinois_3_f9ccgs.jpg"
+- "/v1593053243/eldo/Illinois_4_aicilw.jpg"
+- "/v1593053242/eldo/Illinois_6_a6rwnn.jpg"
+- "/v1593053243/eldo/Illinois_7_zoebpy.jpg"
+- "/v1593053243/eldo/Illinois_8_bc51rh.jpg"
+- "/v1593053243/eldo/Illinois_9_ffpe5l.jpg"
+- "/v1593053244/eldo/Illinois_10_ugtuxb.jpg"
+- "/v1593053244/eldo/Illinois_11_drxpah.jpg"
+- "/v1593053245/eldo/Illinois_12_p32m8b.jpg"
+- "/v1593053245/eldo/Illinois_13_l5lfi9.jpg"
+- "/v1593053244/eldo/Illinois_14_cfexor.jpg"
+- "/v1593053245/eldo/Illinois_15_xdfhmd.jpg"
+- "/v1593053245/eldo/Illinois_16_aib7wa.jpg"
+vimeo_link: ''
 
 ---
 * 2015
