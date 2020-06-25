@@ -2,7 +2,7 @@
 layout: project
 title: Hughes Residence
 position: 
-hero_image: ''
+hero_image: "/v1593045187/eldo/Hughes01_vgvyzn.jpg"
 short-description: ''
 description: David Hughes, director of the Charlotte Street Foundation, asked El Dorado
   to customize his condo in the historic Union Carbide building to accomodate his
@@ -17,13 +17,22 @@ description: David Hughes, director of the Charlotte Street Foundation, asked El
   condo, including a steel fireplace system, a dining table and a built-in desk.
 related_projects: []
 architecture: true
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
 fabrication: false
 images_old: []
-images: []
-published: false
+images:
+- "/v1593045187/eldo/Hughes02_yx325s.jpg"
+- "/v1593045187/eldo/Hughes03_eai87u.jpg"
+- "/v1593045187/eldo/Hughes04_bc67ix.jpg"
+- "/v1593045187/eldo/Hughes05_fyafc8.jpg"
+- "/v1593045188/eldo/Hughes06_x2jrpv.jpg"
+- "/v1593045188/eldo/Hughes07_xn7abk.jpg"
+- "/v1593045188/eldo/Hughes08_mhszpx.jpg"
+- "/v1593045188/eldo/Hughes09_ysjauw.jpg"
+- "/v1593045188/eldo/Hughes10_cyo1wa.jpg"
+vimeo_link: ''
 
 ---
 * 2011
