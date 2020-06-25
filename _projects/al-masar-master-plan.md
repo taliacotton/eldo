@@ -17,7 +17,6 @@ images:
 - "/v1592604275/eldo/diagrams_tc8kti.jpg"
 - "/v1592604274/eldo/diagrams45_e7em7s.jpg"
 - "/v1592604275/eldo/diagrams52_nlyleg.jpg"
-- "/v1592604278/eldo/diagrams2_ydq4yi.jpg"
 published: false
 
 ---
