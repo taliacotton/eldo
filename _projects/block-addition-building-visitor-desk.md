@@ -40,3 +40,7 @@ fabrication: true
 
 * Principal: David Dowell, AIA
 * Fabrication: Chris Burk
+
+### Awards
+
+* 2007 AIA Kansas City Arts & Craftsmanship Awards, Merit Award
