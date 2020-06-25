@@ -5,7 +5,6 @@ role: Staff Designer
 principal: false
 image: ''
 related_projects: []
-published: false
 
 ---
 Hassan joined El Dorado as a Designer. Originally from Qatif, Saudi Arabia, Hassan came to Eldo by way of Fay Jones School of Architecture at the University of Arkansas.  
