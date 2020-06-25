@@ -2,7 +2,7 @@
 layout: project
 title: Park Central Apartments
 position: 
-hero_image: ''
+hero_image: "/v1593050119/eldo/Park_1_jecrno.jpg"
 short-description: Park Central Apartments were part of a group of historic renovations
   that have contributed to the reinvigoration of historic, stately Armour Boulevard
   in midtown Kansas City.
@@ -22,7 +22,22 @@ description: 'Kansas City’s historic Armour Boulevard was designed by the famo
   an enlivened street presence into the evening.
 
 '
-images: []
+images:
+- "/v1593050119/eldo/Park_2_j8hddw.jpg"
+- "/v1593050119/eldo/Park_3_nytq1r.jpg"
+- "/v1593050119/eldo/Park_4_owlgig.jpg"
+- "/v1593050119/eldo/Park_5_ui5xqr.jpg"
+- "/v1593050119/eldo/Park_6_hi13b4.jpg"
+- "/v1593050119/eldo/Park_7_qowm7a.jpg"
+- "/v1593050119/eldo/Park_8_tzkdct.jpg"
+- "/v1593050120/eldo/Park_10_l2yjce.jpg"
+- "/v1593050120/eldo/Park_11_oochb0.jpg"
+- "/v1593050120/eldo/Park_12_mhlidc.jpg"
+- "/v1593050120/eldo/Park_13_zkhknn.jpg"
+- "/v1593050120/eldo/Park_14_die3im.jpg"
+- "/v1593050120/eldo/Park_15_f1tlr0.jpg"
+- "/v1593050121/eldo/Park_16_pu8k4j.jpg"
+- "/v1593050120/eldo/Park_17_phxbbb.jpg"
 related_projects: []
 architecture: true
 curatorial: false
@@ -30,7 +45,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2010
