@@ -16,8 +16,8 @@ fabrication: false
 hero_image: "/v1592593105/eldo/hero_images/utlof_1_wl1r22.jpg"
 images:
 - "/v1593113906/eldo/Lone_Oaks_arial_print_wn0lqx.jpg"
-- "/v1593113862/eldo/DSC_0197_d4381g.jpg"
 - "/v1593113118/eldo/Lone_Oaks_Youth_Education7_oat1nh.jpg"
+- "/v1593113862/eldo/DSC_0197_d4381g.jpg"
 - "/v1593113135/eldo/Lone_Oaks_Youth_Education3_qgvg6p.jpg"
 - "/v1592606825/eldo/utlof_2_pubeo4.png"
 - "/v1593113194/eldo/Lone_Oaks_Youth_Education8_ikdpo4.jpg"
