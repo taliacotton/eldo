@@ -22,7 +22,6 @@ images:
 - "/v1593111198/eldo/AIACSR168_5_a0lp06.jpg"
 - "/v1593111197/eldo/AIACSR168_3_q9qowx.jpg"
 - "/v1593111201/eldo/AIACSR168_6_ufvs47.jpg"
-- "/v1592606861/eldo/utlof_4_kl01nk.jpg"
 
 ---
 - 2017
