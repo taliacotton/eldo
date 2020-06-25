@@ -28,3 +28,15 @@ education: false
 fabrication: true
 
 ---
+* 2007
+* Fabricator
+* Kansas City, MO
+
+### Client
+
+* Nelson Atkins Museum of Art
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+* Fabrication: Chris Burk
