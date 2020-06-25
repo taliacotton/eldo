@@ -21,7 +21,6 @@ education: false
 fabrication: false
 images_old: []
 vimeo_link: ''
-published: false
 
 ---
 * 2017
