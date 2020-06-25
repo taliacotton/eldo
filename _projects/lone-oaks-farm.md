@@ -21,6 +21,7 @@ images:
 - "/v1593111194/eldo/AIACSR168_4_q4tsqi.jpg"
 - "/v1593111198/eldo/AIACSR168_5_a0lp06.jpg"
 - "/v1593111197/eldo/AIACSR168_3_q9qowx.jpg"
+- "/v1593112365/eldo/section10scale-ForestUPDATE_ei8vzl.jpg"
 - "/v1593111201/eldo/AIACSR168_6_ufvs47.jpg"
 
 ---
