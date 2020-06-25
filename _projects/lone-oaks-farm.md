@@ -15,9 +15,11 @@ education: false
 fabrication: false
 hero_image: "/v1592593105/eldo/hero_images/utlof_1_wl1r22.jpg"
 images:
+- "/v1593113118/eldo/Lone_Oaks_Youth_Education7_oat1nh.jpg"
 - "/v1592606851/eldo/utlof_3_ieoj5e.png"
 - "/v1593112043/eldo/Farm_Center_Entry_ELDO_wmydne.jpg"
 - "/v1592606825/eldo/utlof_2_pubeo4.png"
+- "/v1593113135/eldo/Lone_Oaks_Youth_Education3_qgvg6p.jpg"
 - "/v1593111194/eldo/AIACSR168_4_q4tsqi.jpg"
 - "/v1593112853/eldo/Lake_Section_opc2wx.jpg"
 - "/v1593111198/eldo/AIACSR168_5_a0lp06.jpg"
