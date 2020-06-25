@@ -29,12 +29,13 @@ images:
 - "/v1593104006/eldo/Crossroads_Doors_12_yf4lfq.jpg"
 - "/v1593104006/eldo/Crossroads_Doors_15_f1ildo.jpg"
 - "/v1593104005/eldo/Crossroads_Doors_13_symjax.jpg"
-vimeo_link: ''
-related_projects: []
+vimeo_link: https://vimeo.com/432600164
+related_projects:
+- _projects/crossroads-hotel.md
 architecture: false
 curatorial: false
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 
 ---
