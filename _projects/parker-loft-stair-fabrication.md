@@ -31,3 +31,23 @@ fabrication: true
 published: false
 
 ---
+* 2003
+* Architect, Fabricator
+* Kansas City, MO
+* 1,800 SF
+
+### Client
+
+* Amy Parker and Bob McDonald
+
+### Eldo Team
+
+* Principal: David Dowell, AIA
+
+### Collaborators
+
+* Contractor: Bagget and Becker, LLC
+
+### Photography by
+
+* Mike Sinclair
