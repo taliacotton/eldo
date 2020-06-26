@@ -3,7 +3,7 @@ layout: project
 vimeo_link: https://player.vimeo.com/video/#########
 title: Moving In Moving Out
 position: 
-hero_image: ''
+hero_image: "/v1593143452/eldo/MIMO_7_xwzaay.jpg"
 short-description: Can artists elevate a self-storage facility into a community center?
 description: "El Dorado has a long history of “sanctioned meddling”, collaborating
   with artists and blurring the lines between design arenas. Moving In Moving Out
@@ -19,7 +19,14 @@ description: "El Dorado has a long history of “sanctioned meddling”, collabo
   Storage Systems. He revealed his photographs one-a-day to the collaborating artists,
   and his images had profound impact on their work. Mike’s photographs, displayed
   as a simple slide show in the final exhibition."
-images: []
+images:
+- "/v1593143451/eldo/MIMO_6_tutc4l.jpg"
+- "/v1593143451/eldo/MIMO_4_ic8xij.jpg"
+- "/v1593143451/eldo/MIMO_1_nzngqq.jpg"
+- "/v1593143452/eldo/MIMO_8_mgfhna.jpg"
+- "/v1593143451/eldo/MIMO_5_oymmzh.jpg"
+- "/v1593143451/eldo/MIMO_3_qatb23.jpg"
+- "/v1593143451/eldo/MIMO_2_kycwdu.jpg"
 related_projects: []
 architecture: false
 curatorial: false
