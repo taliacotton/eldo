@@ -2,7 +2,7 @@
 layout: project
 title: 'Destination Medical Center: Heart of the City'
 position: 
-hero_image: ''
+hero_image: "/v1593178231/eldo/DMC_6_f4chzo.jpg"
 short-description: ''
 description: "Heart of the City is a bold plan to transform downtown Rochester, MN
   into a public realm of experiential zones, punctuated by community-driven activation,
@@ -22,14 +22,22 @@ description: "Heart of the City is a bold plan to transform downtown Rochester, 
   A Not So Private Sky). "
 related_projects: []
 architecture: true
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
 fabrication: false
-images: []
+images:
+- "/v1593178392/eldo/DMC_10_bgg2fx.png"
+- "/v1593178231/eldo/DMC_2_e9ab8z.png"
+- "/v1593178231/eldo/DMC_8_gdgmef.jpg"
+- "/v1593178231/eldo/DMC_1_k0lbw7.png"
+- "/v1593178232/eldo/DMC_9_yzcoez.jpg"
+- "/v1593178231/eldo/DMC_7_bsk34t.jpg"
+- "/v1593178392/eldo/DMC_11_udhnby.png"
+- "/v1593178392/eldo/DMC_12_jqwmfd.png"
 images__easier_: []
 images_test: []
-published: false
+vimeo_link: ''
 
 ---
 * In progress
