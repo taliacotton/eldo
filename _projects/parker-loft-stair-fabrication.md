@@ -3,11 +3,10 @@ layout: project
 vimeo_link: https://player.vimeo.com/video/#########
 title: Parker Loft Stair Fabrication
 position: 
-hero_image: ''
+hero_image: "/v1593147032/eldo/Parker_4_vbmzt4.jpg"
 short-description: ''
 description: ''
 images:
-- "/v1593147032/eldo/Parker_4_vbmzt4.jpg"
 - "/v1593147074/eldo/parker-3_mqdkio.png"
 - "/v1593147033/eldo/Parker_1_msjgvn.jpg"
 - "/v1593147034/eldo/Parker_7_pxjv90.jpg"
@@ -28,7 +27,6 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: true
-published: false
 
 ---
 * 2003
