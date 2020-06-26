@@ -5,21 +5,18 @@ position:
 hero_image: "/v1592593098/eldo/hero_images/rendering_01_pwppft.jpg"
 short-description: A national model for the central role public universities play
   in the revitalization of rural America.
-description: |-
-  The Garage will promote economic
-          development in Northwest Tennessee and will be a shared resource for the region.
-          It will be used by local industries, start-up businesses, UTM academic departments,
-          and faculty at the Tennessee Colleges of Applied Technology (TCAT) and Dyersburg
-          State Community College (DSCC).  The facility will offer machine tools, equipment,
-          and space needed for start-ups and established companies to fabricate prototypes;
-          laboratories to support the Manufacturing Engineering concentration; a central
-          hub for high-level mechatronics certification in Northwest Tennessee; office
-          and workspace for the Northwest Tennessee Entrepreneur Center (NTEC) and the
-          Regional Entrepreneurship & Economic Development (REED) Center; work space
-          for student competition teams from the College of Engineering and Natural
-          Sciences (CENS) and the College of Agriculture and Applied Sciences (CAAS);
-          support for adult certificate/diploma programs offered by the Tennessee Colleges
-          of Applied Technology (TCAT).
+description: The Garage will promote economic development in Northwest Tennessee and
+  will be a shared resource for the region. It will be used by local industries, start-up
+  businesses, UTM academic departments, and faculty at the Tennessee Colleges of Applied
+  Technology (TCAT) and Dyersburg State Community College (DSCC).  The facility will
+  offer machine tools, equipment, and space needed for start-ups and established companies
+  to fabricate prototypes; laboratories to support the Manufacturing Engineering concentration;
+  a central hub for high-level mechatronics certification in Northwest Tennessee;
+  office and workspace for the Northwest Tennessee Entrepreneur Center (NTEC) and
+  the Regional Entrepreneurship & Economic Development (REED) Center; work space for
+  student competition teams from the College of Engineering and Natural Sciences (CENS)
+  and the College of Agriculture and Applied Sciences (CAAS); support for adult certificate/diploma
+  programs offered by the Tennessee Colleges of Applied Technology (TCAT).
 images:
 - "/v1592607650/eldo/utm_01_c7yayd.jpg"
 - "/v1592607649/eldo/utm_02_o6w9yx.jpg"
