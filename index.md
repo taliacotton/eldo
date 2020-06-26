@@ -15,7 +15,6 @@ slideshow:
 - _projects/boulevard-brewery-co.expansion.md
 - _projects/crossroads-hotel.md
 - _projects/flex-storage-systems.md
-- _projects/3435-main.md
 - _projects/kansas-city-art-institute-fiber-department.md
 
 ---
