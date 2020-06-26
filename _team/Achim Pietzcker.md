@@ -1,7 +1,7 @@
 ---
 layout: team
 name: Achim Pietzcker
-role: Project Architect
+role: Project Manager
 principal: false
 image: ''
 related_projects: []
