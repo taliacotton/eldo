@@ -12,9 +12,9 @@ images:
 - "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_05_re11oj.jpg"
 - "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_04_mfqzjv.jpg"
 related_projects: []
-architecture: false
-curatorial: false
-urban-design: false
+architecture: true
+curatorial: true
+urban-design: true
 education: false
 fabrication: false
 published: false

@@ -1,6 +1,7 @@
 ---
 layout: home
 slideshow:
+- _projects/albina-vision-community-investment-plan.md
 - _projects/volland-house-1.md
 - _projects/300-kansas.md
 - _projects/preston-outdoor-education-station.md
