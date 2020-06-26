@@ -1,7 +1,7 @@
 ---
 layout: project
 vimeo_link: https://player.vimeo.com/video/#########
-title: Parker Loft Stair Fabrication
+title: Parker Loft
 position: 
 hero_image: "/v1593147032/eldo/Parker_4_vbmzt4.jpg"
 short-description: Utilizing creative solutions to bring natural light into dark spaces.

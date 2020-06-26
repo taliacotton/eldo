@@ -1,9 +1,9 @@
 ---
 layout: project
 vimeo_link: ''
-title: Holbrook Loft Stair Fabrication
+title: Holbrook Loft
 position: 
-hero_image: "/v1593146634/eldo/Holbrook_1_ryf46y.jpg"
+hero_image: "/v1593146634/eldo/Holbrook_9_jtkado.jpg"
 short-description: A loft incorporates aquatic features and efficient looks with an
   airy, translucent staircase as the focal point.
 description: |
@@ -17,6 +17,7 @@ description: |
 
   This project’s final outcome addressed all initial design concerns and left the client satisfied with the new interior. The cooperative relationship forged between the client and architect helped to create an inviting and original living space.
 images:
+- "/v1593146634/eldo/Holbrook_1_ryf46y.jpg"
 - "/v1593146634/eldo/Holbrook_4_ccpfpl.jpg"
 - "/v1593146634/eldo/Holbrook_6_s9ym2e.jpg"
 - "/v1593146634/eldo/Holbrook_5_p9yg1u.jpg"
@@ -24,7 +25,6 @@ images:
 - "/v1593146634/eldo/Holbrook_2_mhtdxz.jpg"
 - "/v1593146634/eldo/Holbrook_8_r8afu7.jpg"
 - "/v1593146634/eldo/Holbrook_11_o9txmr.jpg"
-- "/v1593146634/eldo/Holbrook_9_jtkado.jpg"
 - "/v1593146634/eldo/Holbrook_10_qoyoe5.jpg"
 - "/v1593146634/eldo/Holbrook_7_mjthpo.jpg"
 - "/v1593146635/eldo/Holbrook_12_yn1vgb.jpg"

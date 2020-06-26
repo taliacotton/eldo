@@ -5,8 +5,6 @@ layout: project
 short-description: A glass bridge that sutures and reimagines Kansas City’s racial
   divide.
 description: |
-  __A glass bridge that sutures and reimagines Kansas City’s racial divide__
-
   *Collaboration with artist Derek Porter*
 
   Troost Bridge is located at the intersection of Troost Avenue and Brush Creek along the historic, and persisting, segregation line of Kansas City. Troost Avenue has seen both devastating poverty and incredible wealth, once rivaling downtown as the primary hub for commerce. As a result of its actionable disrepair, a new bridge was planned in conjunction with the Brush Creek Flood Control and Beautification Project. Both elegant and utilitarian, this project aimed to reanimate some of Troost Avenue’s former glory while embracing its specific and diverse cultures. Ten-feet-tall glass panels line the span of the bridge acting as an invisible guardrail. LED lighting concealed in a concrete barrier between pedestrians and vehicles illuminates the panels at night. The barrier also holds a series of stainless steel panels that fold and billow, activating artificial and natural light.
@@ -17,15 +15,15 @@ education: true
 fabrication: true
 hero_image: "/v1592593112/eldo/hero_images/troostbridge_2_bmal69.jpg"
 images:
-- "/v1593034940/eldo/Troost_1_xlwavn.jpg"
-- "/v1592605425/eldo/troostbridge_2_vc7rkn.jpg"
-- "/v1593034940/eldo/Troost_3_lraayu.jpg"
-- "/v1593034940/eldo/Troost_5_o4q1gi.jpg"
 - "/v1592605428/eldo/TroostBridge_11_wwogll.jpg"
+- "/v1592605420/eldo/TroostBridge_8_crk9y3.jpg"
+- "/v1593034940/eldo/Troost_5_o4q1gi.jpg"
+- "/v1593034940/eldo/Troost_3_lraayu.jpg"
+- "/v1592605431/eldo/TroostBridge_10_x7ronv.jpg"
+- "/v1593034940/eldo/Troost_1_xlwavn.jpg"
 - "/v1592605414/eldo/TroostBridge_3_wvz4hi.jpg"
 - "/v1592605422/eldo/TroostBridge_7_zrhygj.jpg"
-- "/v1592605431/eldo/TroostBridge_10_x7ronv.jpg"
-- "/v1592605420/eldo/TroostBridge_8_crk9y3.jpg"
+- "/v1592605425/eldo/troostbridge_2_vc7rkn.jpg"
 
 ---
 - 2012
