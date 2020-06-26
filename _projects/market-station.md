@@ -38,6 +38,7 @@ urban-design: true
 education: false
 fabrication: false
 related_projects:
+- _projects/motley-master-plan.md
 - _projects/the-paseo-at-market-station.md
 images_old: []
 vimeo_link: ''

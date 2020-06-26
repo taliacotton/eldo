@@ -15,10 +15,11 @@ description: "Early in the design process for Market Station, Gehl developed a c
   Paseo. The truss offers a generous covered area to grab a bite to eat, have a drink
   and meet up with friends."
 related_projects:
+- _projects/motley-master-plan.md
 - _projects/market-station.md
 architecture: true
-curatorial: false
-urban-design: false
+curatorial: true
+urban-design: true
 education: false
 fabrication: false
 images:
