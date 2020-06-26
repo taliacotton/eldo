@@ -30,7 +30,6 @@ images:
 related_projects:
 - _projects/michael-jones-mckean-the-rainbow.md
 - _projects/moving-in-moving-out.md
-published: false
 
 ---
 - 2003
