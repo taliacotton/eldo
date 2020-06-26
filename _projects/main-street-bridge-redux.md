@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Main Street Bridge Redux
 position: 
 hero_image: "/v1593121429/eldo/MainStreet_1_vegilp.jpg"
