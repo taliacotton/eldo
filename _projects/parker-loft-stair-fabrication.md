@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Parker Loft
 position: 
 hero_image: "/v1593147032/eldo/Parker_4_vbmzt4.jpg"
