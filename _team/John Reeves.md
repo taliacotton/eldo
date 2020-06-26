@@ -5,6 +5,7 @@ role: Project Manager
 principal: false
 image: ''
 related_projects:
+- _projects/leawood-speculative-office.md
 - _projects/market-station.md
 
 ---
