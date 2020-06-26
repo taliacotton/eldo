@@ -5,8 +5,6 @@ layout: project
 short-description: A glass bridge that sutures and reimagines Kansas City’s racial
   divide.
 description: |
-  __A glass bridge that sutures and reimagines Kansas City’s racial divide__
-
   *Collaboration with artist Derek Porter*
 
   Troost Bridge is located at the intersection of Troost Avenue and Brush Creek along the historic, and persisting, segregation line of Kansas City. Troost Avenue has seen both devastating poverty and incredible wealth, once rivaling downtown as the primary hub for commerce. As a result of its actionable disrepair, a new bridge was planned in conjunction with the Brush Creek Flood Control and Beautification Project. Both elegant and utilitarian, this project aimed to reanimate some of Troost Avenue’s former glory while embracing its specific and diverse cultures. Ten-feet-tall glass panels line the span of the bridge acting as an invisible guardrail. LED lighting concealed in a concrete barrier between pedestrians and vehicles illuminates the panels at night. The barrier also holds a series of stainless steel panels that fold and billow, activating artificial and natural light.
