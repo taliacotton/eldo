@@ -32,7 +32,7 @@ images:
 - "/v1593146635/eldo/Holbrook_15_rtqtw3.jpg"
 - "/v1593146635/eldo/Holbrook_14_spqf25.jpg"
 related_projects: []
-architecture: true
+architecture: false
 curatorial: false
 urban-design: false
 education: false
