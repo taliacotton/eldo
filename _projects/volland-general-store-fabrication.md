@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Volland General Store Fabrication
 position: 
 hero_image: "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
