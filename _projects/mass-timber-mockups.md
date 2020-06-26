@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Heavy Timber Mockups
 position: 
 hero_image: "/v1593144772/eldo/Timber_6_aheuew.jpg"
