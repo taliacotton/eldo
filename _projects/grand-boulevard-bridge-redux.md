@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Grand Boulevard Bridge Redux
 position: 
 hero_image: "/v1593126503/eldo/Grand_6_a97vjz.jpg"
