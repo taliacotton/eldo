@@ -22,14 +22,15 @@ description: |-
           sensitive guidelines, freshly re-engaging masonry as an artisan craft through
           careful attention to fenestration and details.
 images:
-- "/v1592593181/eldo/hero_images/marketstation-01_pyc7zq.jpg"
-- "/v1592605100/eldo/MarketStation-02_zmyjra.jpg"
-- "/v1592605102/eldo/MarketStation-05_i23tpr.jpg"
-- "/v1592605108/eldo/MarketStation-07_f0lomz.jpg"
 - "/v1592605109/eldo/MarketStation-06_jae7e0.jpg"
-- "/v1592605111/eldo/MarketStation-04_kohlsi.jpg"
-- "/v1592605111/eldo/MarketStation-08_dh6gqk.jpg"
 - "/v1592605112/eldo/MarketStation-03_j0cjyn.jpg"
+- "/v1592605100/eldo/MarketStation-02_zmyjra.jpg"
+- "/v1593133570/eldo/Market_9_jfqrtx.png"
+- "/v1592605108/eldo/MarketStation-07_f0lomz.jpg"
+- "/v1592605111/eldo/MarketStation-04_kohlsi.jpg"
+- "/v1592605102/eldo/MarketStation-05_i23tpr.jpg"
+- "/v1593133388/eldo/Market_6_qjzdox.png"
+- "/v1592605111/eldo/MarketStation-08_dh6gqk.jpg"
 images__easier_: []
 architecture: true
 curatorial: true
@@ -38,7 +39,7 @@ education: false
 fabrication: false
 related_projects: []
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 - 2020 (anticipated)
