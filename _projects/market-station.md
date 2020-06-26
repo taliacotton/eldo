@@ -33,7 +33,7 @@ images:
 - "/v1592605111/eldo/MarketStation-08_dh6gqk.jpg"
 images__easier_: []
 architecture: true
-curatorial: true
+curatorial: false
 urban-design: true
 education: false
 fabrication: false
