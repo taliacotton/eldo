@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Moving In Moving Out
 position: 
 hero_image: "/v1593143452/eldo/MIMO_7_xwzaay.jpg"
