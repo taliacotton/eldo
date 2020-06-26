@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Holbrook Loft Stair Fabrication
 position: 
 hero_image: "/v1593146634/eldo/Holbrook_1_ryf46y.jpg"
