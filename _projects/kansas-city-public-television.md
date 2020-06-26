@@ -2,7 +2,7 @@
 layout: project
 title: Kansas City Public Television
 position: 
-hero_image: ''
+hero_image: "/v1593145292/eldo/KCPT_12_aex8qy.jpg"
 short-description: Elevate KCPT's physical environs on par with the positive impact
   it has on the Metropolitan Kansas City community.
 description: "KCPT is a vessel of creative thinkers with values rooted in listening,
@@ -27,10 +27,21 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-images: []
+images:
+- "/v1593145291/eldo/KCPT_11_k1qjeb.jpg"
+- "/v1593145465/eldo/KCPT_9_t4levq.jpg"
+- "/v1593145289/eldo/KCPT_1_gug3ww.jpg"
+- "/v1593145289/eldo/KCPT_4_hkdn7g.jpg"
+- "/v1593145289/eldo/KCPT_2_mub1t9.jpg"
+- "/v1593145290/eldo/KCPT_3_acwvpu.jpg"
+- "/v1593145289/eldo/KCPT_5_xsmjli.jpg"
+- "/v1593145290/eldo/KCPT_10_ejkjvg.jpg"
+- "/v1593145289/eldo/KCPT_6_i9onyw.jpg"
+- "/v1593145290/eldo/KCPT_7_plbsqx.jpg"
+- "/v1593145290/eldo/KCPT_8_kaurfa.jpg"
 images__easier_: []
 images_test: []
-published: false
+vimeo_link: ''
 
 ---
 * On the Boards
