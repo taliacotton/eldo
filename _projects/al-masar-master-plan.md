@@ -9,7 +9,7 @@ curatorial: true
 urban-design: true
 education: false
 fabrication: false
-hero_image: "/v1593135564/eldo/AlMasar_13_tbdjy5.png"
+hero_image: "/v1593096703/eldo/IMG_2554_SMALL_k5gmaw.jpg"
 images:
 - "/v1593097753/eldo/1820_18_1120_-_Cycle_Interlace_View_1_k5rpo1.jpg"
 - "/v1593097753/eldo/1820_18_1120_-_Cycle_Interlace_View_3_sb2f4u.jpg"
