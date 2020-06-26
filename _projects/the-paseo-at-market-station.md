@@ -2,7 +2,7 @@
 layout: project
 title: The Paseo at Market Station
 position: 
-hero_image: ''
+hero_image: "/v1593133279/eldo/Paseo_1_kit91c.jpg"
 short-description: ''
 description: "Early in the design process for Market Station, Gehl developed a comprehensive
   urban design analysis for the site. Consistent with their insight, we have created
@@ -20,10 +20,15 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-images: []
+images:
+- "/v1593133279/eldo/Paseo_6_d4r0vk.jpg"
+- "/v1593133278/eldo/Paseo_5_eiah6l.jpg"
+- "/v1593133278/eldo/Paseo_2_ewtdqy.png"
+- "/v1593133279/eldo/Paseo_3_z2cqli.jpg"
+- "/v1593133279/eldo/Paseo_4_cmvz4z.jpg"
 images__easier_: []
 images_test: []
-published: false
+vimeo_link: ''
 
 ---
 * 2020 (anticipated)
