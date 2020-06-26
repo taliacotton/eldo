@@ -9,7 +9,7 @@ description: |-
   *Collaboration with artist Michael Jones McKean*
 
   A collaboration between artist Michael Jones McKean, EL DORADO, and multiple engineers, The Rainbow generates actual prismatic rainbows at civic scale from recycled water. In the context of a global water crisis, The Rainbow ignites public imagination and advances popular understanding and acceptance of water recycling. The project’s impact can be measured on multiple fronts: as highly personal and collective artistic experiences for a broad public, and as a utilitarian and progressive model of water reclamation and reuse —underscoring the instrumental value of embedding artists’ perspectives within the most urgent and seemingly intractable challenges of our time. The Rainbow is a project whose legacy spans art, urban design, and multiple cities, and opens new possibilities for an aspirational approach to ecology, infrastructure, and public engagement.
-architecture: true
+architecture: false
 curatorial: true
 urban-design: true
 education: false
