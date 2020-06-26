@@ -13,6 +13,7 @@ images:
 - "/v1592605249/eldo/regnier-05_zaloiz.jpg"
 - "/v1592605239/eldo/regnier-06_nymcmw.jpg"
 - "/v1593139674/eldo/KState_1_lhovze.png"
+- "/v1593140230/eldo/Kstate_3_mvxgi6.png"
 - "/v1593139674/eldo/KState_2_wiftfx.png"
 - "/v1592605250/eldo/regnier-02_yqxuer.jpg"
 - "/v1592605248/eldo/regnier-03_h1ynxu.jpg"
