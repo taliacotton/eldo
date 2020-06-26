@@ -8,7 +8,7 @@ short-description: ''
 description: ''
 images: []
 related_projects: []
-architecture: false
+architecture: true
 curatorial: false
 urban-design: false
 education: false
@@ -16,14 +16,11 @@ fabrication: false
 published: false
 
 ---
-\- Unbuilt
+* Unbuilt
+* Architect
+* New York, NT
+* 4,485 SF
 
-\- Architect
+### Eldo Team
 
-\- New York, NY
-
-\- 4,485 SF
-
-\### Eldo Team
-
-\- Project Architect: Derik Eckhardt, AIA, ,Mark Horne, AIA
+* Project Architect: Derik Eckhardt, AIA; Mark Horne, AIA
