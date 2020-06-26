@@ -23,7 +23,7 @@
     {% if video_exists > 0 %}
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{page.vimeo_link}}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
     {% else %}
-    <img 
+    <img    style="width:100%;"
             src="{{ site.cloudinary_url }}c_scale,w_1500{{page.hero_image}}"
             srcset="
                 {{ site.cloudinary_url }}/w_500{{page.hero_image}} 500w,
@@ -42,7 +42,7 @@
         <a href="{{principal.url}}">
             <!-- <img class="full" src="{{principal.image}}"> -->
             <div class="image" style="background-image:url({{principal.image}})"></div>
-            <h4>{{principal.title}}</h4>
+            <h4>{{principal.name}}</h4>
             <h5>{{principal.role}}</h5>
         </a>
         {% endfor %}
