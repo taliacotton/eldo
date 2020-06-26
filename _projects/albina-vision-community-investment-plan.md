@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Albina Vision Community Investment Plan
 position: 
 hero_image: "/v1593194960/eldo/Albina_aerial_z8fhqo.jpg"
