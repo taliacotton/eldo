@@ -28,7 +28,6 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: true
-published: false
 
 ---
 * 2019
