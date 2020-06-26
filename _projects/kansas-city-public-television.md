@@ -26,7 +26,7 @@ architecture: true
 curatorial: false
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 images:
 - "/v1593145291/eldo/KCPT_11_k1qjeb.jpg"
 - "/v1593145465/eldo/KCPT_9_t4levq.jpg"
