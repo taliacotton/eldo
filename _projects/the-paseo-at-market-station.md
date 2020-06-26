@@ -14,7 +14,8 @@ description: "Early in the design process for Market Station, Gehl developed a c
   organized around a 200-foot-long by 30-foot-tall truss standing to one side of the
   Paseo. The truss offers a generous covered area to grab a bite to eat, have a drink
   and meet up with friends."
-related_projects: []
+related_projects:
+- _projects/market-station.md
 architecture: true
 curatorial: false
 urban-design: false

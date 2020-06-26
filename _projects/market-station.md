@@ -37,7 +37,8 @@ curatorial: true
 urban-design: true
 education: false
 fabrication: false
-related_projects: []
+related_projects:
+- _projects/the-paseo-at-market-station.md
 images_old: []
 vimeo_link: ''
 
