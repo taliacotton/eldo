@@ -9,7 +9,7 @@ related_projects:
 - _projects/volland-general-store.md
 - _projects/troost-bridge.md
 - _projects/university-of-arkansas.md
-image: "/v1593209116/eldo/david_crop_o2c5ld.jpg"
+image: "/v1593209412/eldo/david_crop_ywersz.jpg"
 
 ---
 David Dowell is a partner at El Dorado Inc., and has practiced architecture for more than twenty-five years. He is interested in work that engages contemporary issues around culture, education and the public good. Current and recent projects include a new facility for the sculpture department at the University of Arkansas, a 1,200 acre master plan for the University of Tennessee's Lone Oaks Farm, and an adaptive reuse project for an Arts and Humanities  Residency program in Volland, KS.
