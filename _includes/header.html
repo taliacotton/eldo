@@ -20,18 +20,27 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <meta name="description" content="{{site.description}}">
-
-        
+        {% if page.short-description %}
+        <meta name="description" content="{{page.short-description}}">
+        <meta property="og:description" content="{{page.short-description}}">
+        <meta property="twitter:description" content="{{page.short-description}}">
+        {% else %}
+        <meta name="description" content="{{page.description}}">
         <meta property="og:description" content="{{site.description}}">
+        <meta property="twitter:description" content="{{site.description}}">
+        {% endif %}
         
         <meta property="og:url" content="{{site.url}}">
-        
-        <meta property="twitter:description" content="{{site.description}}">
 
+        {% if page.hero_image %}
+        <meta property="twitter:image" content="{{ site.cloudinary_url }}c_scale,w_1200{{page.hero_image}}">
+        <meta property="og:image" content="{{ site.cloudinary_url }}c_scale,w_1200{{page.hero_image}}">
+        <meta property="twitter:image:alt" content="{{ site.cloudinary_url }}c_scale,w_1200{{page.hero_image}}">
+        {% else %}
         <meta property="twitter:image" content="{{ site.cloudinary_url }}c_scale,w_1200{{site.og_img}}">
         <meta property="og:image" content="{{ site.cloudinary_url }}c_scale,w_1200{{site.og_img}}">
         <meta property="twitter:image:alt" content="{{ site.cloudinary_url }}c_scale,w_1200{{site.og_img}}">
+        {% endif %}
 
         <link rel="icon" type="image/png" href="/assets/favicon/favicon.ico" />
         <link rel="stylesheet" href="/assets/css/styles.css">
