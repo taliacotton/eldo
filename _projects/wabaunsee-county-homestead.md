@@ -41,7 +41,6 @@ images:
 - "/v1593041156/eldo/Wabaunsee_16_lkjgm8.jpg"
 - "/v1593041157/eldo/Wabaunsee_18_ax7gom.jpg"
 - "/v1593041157/eldo/Wabaunsee_19_if5ihk.jpg"
-- "/v1593041157/eldo/Wabaunsee_20_k2ijou.jpg"
 
 ---
 - 2014
