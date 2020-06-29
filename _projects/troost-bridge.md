@@ -18,10 +18,10 @@ images:
 - "/v1592605428/eldo/TroostBridge_11_wwogll.jpg"
 - "/v1592605420/eldo/TroostBridge_8_crk9y3.jpg"
 - "/v1593034940/eldo/Troost_5_o4q1gi.jpg"
-- "/v1593034940/eldo/Troost_3_lraayu.jpg"
 - "/v1592605431/eldo/TroostBridge_10_x7ronv.jpg"
-- "/v1593034940/eldo/Troost_1_xlwavn.jpg"
+- "/v1593473516/eldo/troost_5_k0v3u5.jpg"
 - "/v1592605414/eldo/TroostBridge_3_wvz4hi.jpg"
+- "/v1593473455/eldo/troost_7_ivjnvw.jpg"
 - "/v1592605422/eldo/TroostBridge_7_zrhygj.jpg"
 - "/v1592605425/eldo/troostbridge_2_vc7rkn.jpg"
 
