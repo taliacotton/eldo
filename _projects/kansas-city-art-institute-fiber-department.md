@@ -21,10 +21,10 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1592591441/eldo/kcaifiber-01_xdhjls.jpg"
+hero_image: "/v1592604761/eldo/KCAIFiber-02_vyf674.jpg"
 images:
+- "/v1592591441/eldo/kcaifiber-01_xdhjls.jpg"
 - "/v1592604764/eldo/KCAIFiber-09_pprhzl.jpg"
-- "/v1592604761/eldo/KCAIFiber-02_vyf674.jpg"
 - "/v1592604792/eldo/KCAIFiber-10_ro8zgv.jpg"
 - "/v1592604796/eldo/KCAIFiber-12_ulnr77.jpg"
 - "/v1592604800/eldo/KCAIFiber-13_x8ynha.jpg"
