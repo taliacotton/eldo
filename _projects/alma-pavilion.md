@@ -11,7 +11,14 @@ description: "Beginning as an envisioning exercise, for the redevelopment of the
   Kansas as a whole. Phase 1 of this selected proposal focuses on creating a shade
   structure and improved entries to Alma City Pool, located within \nthe park."
 images:
+- "/v1593466928/eldo/AlmaPav_3_vcbsvb.jpg"
+- "/v1593466928/eldo/AlmaPav_8_jyghly.jpg"
+- "/v1593466930/eldo/AlmaPav_9_scboto.jpg"
+- "/v1593466928/eldo/AlmaPav_5_hhsvib.jpg"
+- "/v1593466929/eldo/AlmaPav_7_eomieh.jpg"
 - "/v1593053961/eldo/AlmaPav_2_llrokp.jpg"
+- "/v1593466929/eldo/AlmaPav_4_agc5nu.jpg"
+- "/v1593466929/eldo/AlmaPav_6_xhelat.jpg"
 related_projects: []
 architecture: true
 curatorial: false
