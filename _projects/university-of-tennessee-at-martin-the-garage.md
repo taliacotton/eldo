@@ -45,5 +45,5 @@ vimeo_link: ''
 
 ### Eldo Team
 
-* Principal: Josh Shelton, AIA
+* Principal: David Dowell, AIA
 * Project Manager: Sean Slattery, AIA, LEED AP BD+C
