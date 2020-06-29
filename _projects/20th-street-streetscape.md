@@ -2,7 +2,7 @@
 layout: project
 title: 20th Street Streetscape
 position: 
-hero_image: "/v1593097491/eldo/20th%20Street_1.jpg"
+hero_image: "/v1593473112/eldo/20_2_wv8kcg.jpg"
 short-description: An exemplar of innovative storm water management, urban design,
   and years of work with a diverse set of stakeholders
 description: "El Dorado was selected by the City of Kansas City, Missouri to lead
@@ -19,12 +19,12 @@ description: "El Dorado was selected by the City of Kansas City, Missouri to lea
   sustainability."
 images:
 - "/v1592593162/eldo/hero_images/img_1553_nuvujn.jpg"
-- "/v1593094592/eldo/_DSC9945__osb1un.jpg"
-- "/v1593096275/eldo/_DSC8323__tojk51.jpg"
-- "/v1593094592/eldo/_DSC0017__qvdmz1.jpg"
-- "/v1593096287/eldo/_DSC8283__j06z1s.jpg"
-- "/v1593094592/eldo/_DSC0031__xgkujp.jpg"
-- "/v1593094592/eldo/_DSC0330__iony1o.jpg"
+- "/v1593473111/eldo/20_1_q3chya.jpg"
+- "/v1593473112/eldo/20_4_dqhjql.jpg"
+- "/v1593473113/eldo/20_7_yvqscc.jpg"
+- "/v1593473115/eldo/20_3_jr0mop.jpg"
+- "/v1593473112/eldo/20_5_ac3zto.jpg"
+- "/v1593473115/eldo/20_6_jelqwh.jpg"
 - "/v1593096145/eldo/20th_Streetscapesmall_plan_qtubdh.jpg"
 related_projects: []
 architecture: false
