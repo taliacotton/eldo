@@ -20,7 +20,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1592593131/eldo/hero_images/wab_1_t4z9z5.jpg"
+hero_image: "/v1593041157/eldo/Wabaunsee_20_k2ijou.jpg"
 images:
 - "/v1593041153/eldo/Wabaunsee_1_eteeox.jpg"
 - "/v1593041153/eldo/Wabaunsee_2_g0fmxm.jpg"
