@@ -10,7 +10,7 @@
             </h2>
             <p>{{ content }}</p>
         </div>
-        <div><img src="{{page.image}}" class="full"></div>
+        <div><img src="{{ site.cloudinary_url }}c_scale,w_600{{page.image}}" class="full"></div>
     </div>
 
     {% assign length = page.related_projects | size %}

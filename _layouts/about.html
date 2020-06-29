@@ -41,7 +41,7 @@
         {% for principal in principals %}
         <a href="{{principal.url}}">
             <!-- <img class="full" src="{{principal.image}}"> -->
-            <div class="image" style="background-image:url({{principal.image}})"></div>
+            <div class="image" style="background-image:url({{ site.cloudinary_url }}c_scale,w_600{{principal.image}})"></div>
             <h4>{{principal.name}}</h4>
             <h5>{{principal.role}}</h5>
         </a>
