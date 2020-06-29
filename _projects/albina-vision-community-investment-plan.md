@@ -12,7 +12,7 @@ description: |-
   The Albina Vision Community Investment Plan, initiated by Albina Vision Trust Inc. (AVT), seeks to create a vision and framework for an inclusive community while healing the wounds of previous urban development that displaced and disempowered Portland’s Black community. A wide range of community partners have worked to produce a development vision that lays the groundwork for investment in a diverse community. The vision is anchored by equitable public park spaces that seamlessly connect to the river and its surrounding neighborhoods. It is time to take the next step and transform the vision into action, coordinating and integrating community values and intentions with needed public, private, and community investment. The Albina Vision Community Investment Plan (AVCIP) aims to illustrate how a community anchored in sustained affordability, livability, and diversity can provide value to Lower Albina. Moreover, it will authentically involve the community in shaping a place that serves their needs while simultaneously considering financially feasible strategies for accomplishing this work over time.
 images:
 - "/v1593201814/eldo/Albina_Workplan_06-15-2020_Page_01_sa6ohq.jpg"
-- "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_02_us1jxm.jpg"
+- "/v1593460631/eldo/Albina_Workplan_06-15-2020_Page_02_aivnj0.jpg"
 - "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_04_mfqzjv.jpg"
 - "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_05_re11oj.jpg"
 related_projects: []
@@ -23,3 +23,26 @@ education: false
 fabrication: false
 
 ---
+* 2020
+* Urban Design, Architecture
+* Portland, WS
+* 94 acres
+
+### Client
+
+* Albina Vision Trust, Inc.
+
+### Eldo Team
+
+* Principal: Josh Shelton, AIA
+* Project Manager: Sean Slattery, AIA, LEED AP BD+C
+* Urban Design Project Manager: Brian Michener, RA, LEED AP
+* Project Designer: Samaher Baredooan
+
+### Collaborator
+
+* Urban Planning & Landscape Architecture: Agency
+* Community Connections: The Meadows Group
+* History & Storytelling: Soapbox Theory
+* Economics & Community Wealth-Building: Mark Norman and ECONorthwest
+* Film Production: Dru Holley
