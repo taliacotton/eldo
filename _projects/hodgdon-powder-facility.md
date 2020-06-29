@@ -54,6 +54,7 @@ vimeo_link: ''
 
 ### Collaborators
 
+* Contractor: Kelley Construction
 * Structural Engineer: Structural Engineer Associates
 * MEP Engineer: Lankford Fendler + Associates
 * Civil Engineer: Cook, Flatt & Strobel Engineers

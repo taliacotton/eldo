@@ -22,7 +22,6 @@ images:
 - "/v1592946566/eldo/Broadway_7_cagw0y.jpg"
 - "/v1592946566/eldo/Broadway_9_q3jj9e.jpg"
 - "/v1592946566/eldo/Broadway_10_zlcqdf.jpg"
-- "/v1592946566/eldo/Broadway_8_xj8b15.jpg"
 related_projects: []
 architecture: false
 curatorial: true
