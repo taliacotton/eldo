@@ -17,11 +17,11 @@ curatorial: true
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1592603869/eldo/novel_1_fz2mqx.jpg"
+hero_image: "/v1592605170/eldo/Novel_4_bsd7p3.jpg"
 images:
+- "/v1592603869/eldo/novel_1_fz2mqx.jpg"
 - "/v1592605141/eldo/Novel_2_kzzqmg.jpg"
 - "/v1593027560/eldo/Novel_3_gvejlr.jpg"
-- "/v1592605170/eldo/Novel_4_bsd7p3.jpg"
 - "/v1593027560/eldo/Novel_5_oyzrem.jpg"
 - "/v1593027560/eldo/Novel_6_iay0qy.jpg"
 - "/v1593027560/eldo/Novel_7_jcc2ss.jpg"
