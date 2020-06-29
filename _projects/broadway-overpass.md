@@ -2,7 +2,7 @@
 layout: project
 title: Broadway Overpass
 position: 
-hero_image: "/v1592946566/eldo/Broadway_8_xj8b15.jpg"
+hero_image: "/v1593472431/eldo/broadway_16_hmjcaj.jpg"
 short-description: ''
 description: As part of the third installation of Unlooping the Loop, lighting artist
   Derek Porter proposed weaving light, color, and varying sizes of stainless steel
@@ -14,14 +14,13 @@ description: As part of the third installation of Unlooping the Loop, lighting a
   take shape as an illusion at urban scale, creating a dynamic gateway to the city
   from Interstate 670.
 images:
-- "/v1592946566/eldo/Broadway_5_vxwn7k.jpg"
-- "/v1592946566/eldo/Broadway_2_dciidz.jpg"
-- "/v1592946566/eldo/Broadway_3_qnhcyq.jpg"
-- "/v1592946566/eldo/Broadway_4_fehrlk.jpg"
-- "/v1592946566/eldo/Broadway_6_w3eayx.jpg"
-- "/v1592946566/eldo/Broadway_7_cagw0y.jpg"
-- "/v1592946566/eldo/Broadway_9_q3jj9e.jpg"
-- "/v1592946566/eldo/Broadway_10_zlcqdf.jpg"
+- "/v1593472434/eldo/broadway_13_fxjfre.jpg"
+- "/v1593472430/eldo/broadway_11_yhe6hr.jpg"
+- "/v1593472432/eldo/broadway_18_tsnsv0.jpg"
+- "/v1593472431/eldo/broadway_17_s3uaqz.jpg"
+- "/v1593472435/eldo/broadway_15_adma2w.jpg"
+- "/v1593472430/eldo/broadway_14_phi6cz.jpg"
+- "/v1593472433/eldo/broadway_12_madyqq.jpg"
 related_projects: []
 architecture: false
 curatorial: true
