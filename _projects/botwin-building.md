@@ -2,7 +2,7 @@
 layout: project
 title: Botwin Building
 position: 
-hero_image: "/v1592946540/eldo/Botwin_1_npnmoh.jpg"
+hero_image: "/v1593471893/eldo/botwin_1_kapdjd.jpg"
 short-description: ''
 description: In February of 2007, the historic Waldo Theater, a once thriving cultural
   center for the Waldo neighborhood in midtown Kansas City, burnt to the ground. The
@@ -20,8 +20,8 @@ urban-design: false
 education: false
 fabrication: false
 images:
-- "/v1592946540/eldo/Botwin_2_wg3ei6.jpg"
-- "/v1592946540/eldo/Botwin_3_hjraol.jpg"
+- "/v1593471893/eldo/botwin_2_vu5pxo.jpg"
+- "/v1593471893/eldo/botwin_3_yhtbxc.jpg"
 - "/v1592946540/eldo/Botwin_4_b0xaxl.jpg"
 - "/v1592946540/eldo/Botwin_5_p1kbw0.jpg"
 - "/v1592946540/eldo/Botwin_6_zox7t8.jpg"
