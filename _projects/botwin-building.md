@@ -13,7 +13,14 @@ description: In February of 2007, the historic Waldo Theater, a once thriving cu
   a planted roof and a commissioned art installation which doubles as a sun screening
   device for the upper level glazing system. Perhaps most importantly, the new center
   will drastically improve visibility into retail spaces from sidewalks and roadways.
-related_projects: []
+related_projects:
+- _projects/waldo-duplex.md
+- _projects/pizzabella.md
+- _projects/national-center-for-drug-free-sport.md
+- _projects/leawood-speculative-office.md
+- _projects/flex-storage-systems.md
+- _projects/cox-communications-distribution-center.md
+- _projects/boulevard-brewery-co.expansion.md
 architecture: true
 curatorial: true
 urban-design: false
