@@ -29,6 +29,12 @@ images:
 - "/v1592946525/eldo/300Kansas_3_raeynx.jpg"
 - "/v1592946525/eldo/300Kansas_2_xgtmxd.jpg"
 vimeo_link: ''
+related_projects:
+- _projects/mass-timber-mockups.md
+- _projects/leawood-speculative-office.md
+- _projects/hodgdon-powder-facility.md
+- _projects/cox-communications-distribution-center.md
+- _projects/boulevard-brewery-co.expansion.md
 
 ---
 * (anticipated) 2021
