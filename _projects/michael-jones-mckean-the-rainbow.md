@@ -26,8 +26,6 @@ images:
 - "/v1592605407/eldo/TheRainbow_19_wnjroy.jpg"
 - "/v1592605382/eldo/TheRainbow_13_xztuyb.jpg"
 - "/v1592605355/eldo/TheRainbow_5_bn0tup.jpg"
-- "/v1592605390/eldo/TheRainbow_16_xh2tdg.jpg"
-- "/v1592605366/eldo/TheRainbow_12_uwviji.jpg"
 - "/v1592605385/eldo/TheRainbow_6_qravb8.jpg"
 
 ---
