@@ -35,7 +35,11 @@ images:
 - "/v1593460631/eldo/Albina_Workplan_06-15-2020_Page_02_aivnj0.jpg"
 - "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_04_mfqzjv.jpg"
 - "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_05_re11oj.jpg"
-related_projects: []
+related_projects:
+- _projects/troost-troost-troost.md
+- _projects/michael-jones-mckean-the-rainbow.md
+- _projects/east-9th-street.md
+- _projects/a-new-home-for-kcur.md
 architecture: false
 curatorial: false
 urban-design: true
