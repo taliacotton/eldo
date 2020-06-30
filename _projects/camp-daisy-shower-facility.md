@@ -24,12 +24,19 @@ education: true
 fabrication: false
 hero_image: "/v1592878983/eldo/DaisyShower_6_upk0er.jpg"
 images:
-- "/v1592604492/eldo/CampDaisy-05_cjlwkj.jpg"
 - "/v1592604615/eldo/CampDaisy-02_eijxpy.jpg"
+- "/v1592604492/eldo/CampDaisy-05_cjlwkj.jpg"
 - "/v1592604898/eldo/CampDaisy-09_mfdsoq.jpg"
 - "/v1592604910/eldo/CampDaisy-17_vs4nnk.jpg"
 - "/v1592604901/eldo/CampDaisy-16_advspo.jpg"
 - "/v1592604564/eldo/CampDaisy-15_bbnrj9.jpg"
+related_projects:
+- _projects/lone-oaks-farm.md
+- _projects/north-forest-trail-biological-pavilion.md
+- _projects/preston-outdoor-education-station.md
+- _projects/girl-scout-camp-prairie-schooner.md
+- _projects/alma-pavilion.md
+- _projects/camp-daisy-cabin-prototype.md
 
 ---
 - 2013
