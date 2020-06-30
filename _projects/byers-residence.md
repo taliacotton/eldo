@@ -15,7 +15,13 @@ description: The Byers family of five had a clear vision for their new home on a
   of exterior materials is organized by a gently sloped cantilevered roofline, rendering
   the structure low and lean in the surrounding landscape. The result is a house finely
   tuned to the subtly and drama of the earth and sky around it.
-related_projects: []
+related_projects:
+- _projects/illinois-creek-ranch.md
+- _projects/shelton-marshall-residence.md
+- _projects/paxton-residence.md
+- _projects/lawrence-residence.md
+- _projects/hodgdon-powder-facility.md
+- _projects/aron-levin-residence.md
 architecture: true
 curatorial: false
 urban-design: false
