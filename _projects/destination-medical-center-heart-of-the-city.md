@@ -20,7 +20,13 @@ description: "Heart of the City is a bold plan to transform downtown Rochester, 
   public space (Rafael Lozano-Hemmer, Voice Canopy), and considers the infinitely
   small and the infinitely large with a monument to public engagement (Iñigo Manglano-Ovalle,
   A Not So Private Sky). "
-related_projects: []
+related_projects:
+- _projects/prairie-logic.md
+- _projects/michael-jones-mckean-the-rainbow.md
+- _projects/pedestrian-strands.md
+- _projects/moving-in-moving-out.md
+- _projects/limelight.md
+- _projects/landscaped-edge.md
 architecture: false
 curatorial: true
 urban-design: false
