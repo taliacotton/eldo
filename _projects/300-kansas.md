@@ -4,12 +4,21 @@ position: 1
 layout: project
 short-description: A 21st century light manufacturing building for the emerging economies
   of San Francisco.
-description: |-
-  In San Francisco, industrial buildings have uniquely evolved as civic places, sites for innovation, and social condensers. This project embraces its light industrial lineage while celebrating the diverse energies and communities of Potrero Hill.
-
-  EL DORADO worked closely with local developer Group i Partners to massage the massing of the building to adhere to San Francisco’s strenuous zoning ordinances. The design pays careful attention to required setbacks, height limits and FAR restrictions without allowing them to dictate a generic building form. At the same time, the building’s striking back-lit north facade and its inviting, elevated public podium make a uniquely welcoming civic statement to the neighborhood.
-
-  Exterior façade materials such as polycarbonate panels and perforated metal let in generous amounts of natural light while massive square windows frame views of the San Francisco Bay and downtown. Artisans will have access to a rooftop garden as well as a direct connection to the neighborhood streetscape from a raised concrete podium.
+description: "In San Francisco, industrial buildings have uniquely evolved as civic
+  places, sites for innovation, and social condensers. This project embraces its light
+  industrial lineage while celebrating the diverse energies and communities of Potrero
+  Hill.\n\nEL DORADO worked during schematic design to massage the massing of the
+  building to adhere to San Francisco’s strenuous zoning ordinances. The design pays
+  careful attention to required setbacks, height limits, and FAR restrictions without
+  allowing them to dictate a generic building form.  Sawtooth forms along the east
+  and west facades follow the guidelines of the City's unique bay window code while
+  offering a re-imagining of a typical industrial form.  \n\nAlong the north facade,
+  exterior curtain wall systems let in generous amounts of natural light and frame
+  views of the San Francisco Bay and downtown skyline.  Perforated metal panels on
+  the east and west sawtooth facades manage the direct light to avoid disruptive glare
+  within the industrial or R&D spades within.  A vegetated, occupied rooftop provides
+  stormwater management while offering an uninterrupted view of the urban fabric and
+  topography for which San Francisco is famous."
 architecture: true
 curatorial: false
 urban-design: false
