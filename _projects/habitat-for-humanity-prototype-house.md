@@ -31,7 +31,10 @@ images:
 - "/v1593044490/eldo/Heartland_1_ehfmjv.jpg"
 - "/v1593044491/eldo/Heartland_14_tgk8pc.jpg"
 - "/v1593044491/eldo/Heartland_15_lzpm9p.jpg"
-related_projects: []
+related_projects:
+- _projects/echo-ridge-duplex.md
+- _projects/restart-housing.md
+- _projects/willoughby-design-barn.md
 architecture: true
 curatorial: false
 urban-design: false

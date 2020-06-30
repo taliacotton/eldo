@@ -31,7 +31,11 @@ images:
 - "/v1593126510/eldo/GrandBLVDRedux_20_1_cmecyc.jpg"
 - "/v1593126503/eldo/Grand_5_jghakv.jpg"
 - "/v1593126628/eldo/GrandBLVDRedux_16_e9wfy4.jpg"
-related_projects: []
+related_projects:
+- _projects/main-street-bridge-redux.md
+- _projects/landscaped-edge.md
+- _projects/broadway-overpass.md
+- _projects/20th-street-streetscape.md
 architecture: true
 curatorial: true
 urban-design: true
