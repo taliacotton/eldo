@@ -21,7 +21,12 @@ images:
 - "/v1593472435/eldo/broadway_15_adma2w.jpg"
 - "/v1593472430/eldo/broadway_14_phi6cz.jpg"
 - "/v1593472433/eldo/broadway_12_madyqq.jpg"
-related_projects: []
+related_projects:
+- _projects/troost-bridge.md
+- _projects/pedestrian-strands.md
+- _projects/main-street-bridge-redux.md
+- _projects/landscaped-edge.md
+- _projects/grand-boulevard-bridge-redux.md
 architecture: false
 curatorial: true
 urban-design: true
