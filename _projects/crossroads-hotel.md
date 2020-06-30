@@ -40,6 +40,15 @@ images:
 - "/v1592604606/eldo/CrossroadsHotel-24_s0xb7v.jpg"
 - "/v1592952847/eldo/Crossroads_18_oszqbz.jpg"
 vimeo_link: ''
+related_projects:
+- _projects/20th-street-streetscape.md
+- _projects/crossroads-hotel-sliding-doors.md
+- _projects/the-paseo-at-market-station.md
+- _projects/novel.md
+- _projects/willoughby-design-barn.md
+- _projects/volland-general-store.md
+- _projects/holbrook-loft-stair-fabrication.md
+- _projects/boulevard-brewery-co.expansion.md
 
 ---
 - 2018
