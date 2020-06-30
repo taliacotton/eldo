@@ -38,7 +38,7 @@ fabrication: true
 
 ### Eldo Team
 
-* Principal: Jamie Darnell
+* Principal: Jamie Darnell, RA, LEED AP
 * Fabrication: Chris Burk
 
 ### Awards
