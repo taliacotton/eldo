@@ -18,7 +18,12 @@ images:
 - "/v1593052319/eldo/Echo_6_tfw9zd.jpg"
 - "/v1593052319/eldo/Echo_5_fybd9a.jpg"
 - "/v1593052319/eldo/Echo_4_id9oip.jpg"
-related_projects: []
+related_projects:
+- _projects/troost-bridge.md
+- _projects/waldo-duplex.md
+- _projects/restart-housing.md
+- _projects/habitat-for-humanity-prototype-house.md
+- _projects/3435-main.md
 architecture: true
 curatorial: false
 urban-design: false
