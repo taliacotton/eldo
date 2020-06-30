@@ -44,26 +44,31 @@ images_old: []
 vimeo_link: ''
 
 ---
-- 2020 (anticipated)
-- Architect
-- Denver, CO
-- 450,000 SF (177,200 residential; 78,300 parking; 90,000 retail; 97,100 office), 225 total residential units (54 luxury; 171 market rate)
+* 2020 (anticipated)
+* Architect
+* Denver, CO
+* 450,000 SF (177,200 residential; 78,300 parking; 90,000 retail; 97,100 office), 225 total residential units (54 luxury; 171 market rate)
 
 ### Client
-- Continuum
+
+* Continuum Partners
 
 ### Eldo Team
-- Principal: Josh Shelton, AIA
-- Project Manager: Steven Jones, AIA; John Reeves, AIA
-- Project Architect: Kyle Schleicher, RA
-- Designer: John Renner
+
+* Principal: Josh Shelton, AIA
+* Project Manager: Steven Jones, R.A.; John Reeves, AIA
+* Project Architect: Kyle Schleicher, RA
+* Designer: John Renner
 
 ### Collaborators
-- Contractor: GE Johnson
-- Architect of Record: Boka Powell
-- Urban Planning: Gehl Studio
+
+* Contractor: Kiewit
+* Architect of Record: Boka Powell
+* Urban Planning: Gehl Studio
+* Interior Design: Styleworks
 
 ### Press
-- Denver Business Journal, Kelcey McClung, ["From a Hole in the Ground to 10 stories: Here's the Timetable for Denver's Market Station"](https://www.bizjournals.com/denver/news/2018/08/08/market-station-denver-lodo-timetable.html "From a Hole in the Ground to 10 stories: Here's the Timetable for Denver's Market Station"), 2018
-- Archpaper, Anna Bergren Miller, ["el dorado's Josh Shelton on Merging Facade Design and Fabrication"](https://archpaper.com/2016/07/el-dorado-josh-shelton-facade-design-fabrication/ "el dorado's Josh Shelton on Merging Facade Design and Fabrication"), 2016
-- The Denver Post, Emilie Rusch, ["Market Street Station Sold for Micro Apartments, Office, Retail"](https://www.denverpost.com/2015/12/21/market-street-station-sold-for-micro-apartments-office-retail/ "Market Street Station Sold for Micro Apartments, Office, Retail"), 2016
+
+* Denver Business Journal, Kelcey McClung, ["From a Hole in the Ground to 10 stories: Here's the Timetable for Denver's Market Station"](https://www.bizjournals.com/denver/news/2018/08/08/market-station-denver-lodo-timetable.html "From a Hole in the Ground to 10 stories: Here's the Timetable for Denver's Market Station"), 2018
+* Archpaper, Anna Bergren Miller, ["el dorado's Josh Shelton on Merging Facade Design and Fabrication"](https://archpaper.com/2016/07/el-dorado-josh-shelton-facade-design-fabrication/ "el dorado's Josh Shelton on Merging Facade Design and Fabrication"), 2016
+* The Denver Post, Emilie Rusch, ["Market Street Station Sold for Micro Apartments, Office, Retail"](https://www.denverpost.com/2015/12/21/market-street-station-sold-for-micro-apartments-office-retail/ "Market Street Station Sold for Micro Apartments, Office, Retail"), 2016
