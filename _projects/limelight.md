@@ -35,7 +35,7 @@ vimeo_link: ''
 
 ### Eldo Team
 
-* Principal: David Dowell, AIA
+* Principal: David Dowell, AIA (Kansas City location only)
 
 ### Artists
 
