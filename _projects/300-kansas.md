@@ -29,7 +29,7 @@ vimeo_link: ''
 
 ### Client
 
-* Groupi
+* Spear Street Capital
 
 ### Eldo Team
 
