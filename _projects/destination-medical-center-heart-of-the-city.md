@@ -51,7 +51,7 @@ vimeo_link: ''
 
 ### Eldo Team
 
-* Principal: David Dowell, AIA
+* Curator: Hesse McGraw
 * Project Manager: John Reeves, AIA
 * Project Designer: Brock Traffas
 * Curator: Hesse McGraw
