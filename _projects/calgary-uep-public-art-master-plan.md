@@ -13,8 +13,13 @@ images:
 - "/v1593051861/eldo/Calgary_1_qnjkv8.jpg"
 - "/v1593051861/eldo/Calgary_3_lyjlbb.jpg"
 - "/v1593051861/eldo/Calgary_2_a2hxmv.jpg"
-related_projects: []
-architecture: true
+related_projects:
+- _projects/lone-oaks-farm.md
+- _projects/michael-jones-mckean-the-rainbow.md
+- _projects/las-virgenes-pure-water-center.md
+- _projects/motley-master-plan.md
+- _projects/destination-medical-center-heart-of-the-city.md
+architecture: false
 curatorial: true
 urban-design: true
 education: false
