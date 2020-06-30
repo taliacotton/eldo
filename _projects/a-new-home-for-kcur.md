@@ -23,7 +23,12 @@ images:
 - "/v1593098729/eldo/KCUR_New_Build_2_ihneeu.jpg"
 - "/v1593098729/eldo/KCUR_New_Build_NIGHT_l30wpi.jpg"
 vimeo_link: ''
-related_projects: []
+related_projects:
+- _projects/kansas-city-art-institute-master-plan.md
+- _projects/motley-master-plan.md
+- _projects/troost-bridge.md
+- _projects/troost-troost-troost.md
+- _projects/albina-vision-community-investment-plan.md
 architecture: true
 curatorial: false
 urban-design: true
