@@ -28,8 +28,11 @@ images:
 - "/v1592604643/eldo/FLEX-01_gkpqfz.jpg"
 - "/v1592604642/eldo/FLEX-04_eqltvn.jpg"
 related_projects:
-- _projects/michael-jones-mckean-the-rainbow.md
 - _projects/moving-in-moving-out.md
+- _projects/michael-jones-mckean-the-rainbow.md
+- _projects/cox-communications-distribution-center.md
+- _projects/hodgdon-powder-facility.md
+- _projects/national-center-for-drug-free-sport.md
 
 ---
 - 2003
