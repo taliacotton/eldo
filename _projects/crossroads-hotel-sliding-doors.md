@@ -34,6 +34,7 @@ images:
 - "/v1593119452/eldo/_DSC1521_d829ny.jpg"
 vimeo_link: https://player.vimeo.com/video/432600164
 related_projects:
+- _projects/mass-timber-mockups.md
 - _projects/crossroads-hotel.md
 architecture: false
 curatorial: false
