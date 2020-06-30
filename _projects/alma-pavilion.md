@@ -19,11 +19,15 @@ images:
 - "/v1593053961/eldo/AlmaPav_2_llrokp.jpg"
 - "/v1593466929/eldo/AlmaPav_4_agc5nu.jpg"
 - "/v1593466929/eldo/AlmaPav_6_xhelat.jpg"
-related_projects: []
+related_projects:
+- _projects/preston-outdoor-education-station.md
+- _projects/sunset-drive-office-pavilion.md
+- _projects/camp-daisy-cabin-prototype.md
+- _projects/camp-daisy-shower-facility.md
 architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 images_old: []
 vimeo_link: ''
