@@ -38,7 +38,7 @@ fabrication: true
 
 ### Eldo Team
 
-* Principal: David Dowell, AIA
+* Principal: Jamie Darnell
 * Fabrication: Chris Burk
 
 ### Awards
