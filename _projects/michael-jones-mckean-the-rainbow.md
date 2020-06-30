@@ -1,5 +1,5 @@
 ---
-title: 'Michael Jones McKean: The Rainbow'
+title: 'The Rainbow: Michael Jones McKean'
 position: 14
 layout: project
 short-description: A civic spectacle that is almost never there.
@@ -39,7 +39,7 @@ images:
 
 ### Eldo Team
 
-* Principal: Hesse McGraw
+* Curator: Hesse McGraw
 * Project Manager: Chris Burk
 * Project Designer: Brock Traffas
 
