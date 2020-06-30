@@ -26,7 +26,12 @@ images:
 - "/v1593473112/eldo/20_5_ac3zto.jpg"
 - "/v1593473115/eldo/20_6_jelqwh.jpg"
 - "/v1593096145/eldo/20th_Streetscapesmall_plan_qtubdh.jpg"
-related_projects: []
+related_projects:
+- _projects/limelight.md
+- _projects/novel.md
+- _projects/pedestrian-strands.md
+- _projects/landscaped-edge.md
+- _projects/grand-boulevard-bridge-redux.md
 architecture: false
 curatorial: true
 urban-design: true
