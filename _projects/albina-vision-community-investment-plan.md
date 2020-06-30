@@ -4,8 +4,8 @@ vimeo_link: ''
 title: Albina Vision Community Investment Plan
 position: 
 hero_image: "/v1593194960/eldo/Albina_aerial_z8fhqo.jpg"
-short-description: A Re-entrification Project That Leverages Community Wealth-Building
-  Strategies to Organize an Equitable Planning Process
+short-description: A re-entrification project that leverages community wealth-building
+  strategies to organize an equitable planning process
 description: "Historically, Albina was a thriving, affordable, and diverse neighborhood.
   Over the last 50 years, successive waves of urban renewal, interstate freeway construction,
   and a modern development framework that valued large, inwardly facing civic spaces
