@@ -37,4 +37,5 @@ fabrication: true
 ### Eldo Team
 
 * Principal: David Dowell, AIA
-* Fabricator: Ted Arendes, R.A.; Chris Burk
+* Fabricator: Chris Burk
+* Fabricator: Ted Arendes, R.A.
