@@ -16,6 +16,7 @@ description: The Byers family of five had a clear vision for their new home on a
   the structure low and lean in the surrounding landscape. The result is a house finely
   tuned to the subtly and drama of the earth and sky around it.
 related_projects:
+- _projects/westside-residence.md
 - _projects/illinois-creek-ranch.md
 - _projects/shelton-marshall-residence.md
 - _projects/paxton-residence.md
