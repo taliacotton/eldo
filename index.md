@@ -8,8 +8,8 @@ slideshow:
 - _projects/troost-bridge.md
 - _projects/university-of-arkansas.md
 - _projects/cox-communications-distribution-center.md
-- _projects/pizzabella.md
 - _projects/university-of-tennessee-at-martin-the-garage.md
+- _projects/novel.md
 - _projects/wabaunsee-county-homestead.md
 - _projects/20th-street-streetscape.md
 - _projects/botwin-building.md
