@@ -2,7 +2,7 @@
 title: Josh Shelton
 layout: team
 name: Josh Shelton, AIA
-role: Principal
+role: ''
 image: "/v1593492373/eldo/josh2_wziqyc.png"
 principal: true
 related_projects:
