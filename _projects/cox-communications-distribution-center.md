@@ -25,6 +25,14 @@ images:
 - "/v1592879191/eldo/Cox_5_ynanvb.jpg"
 - "/v1592879188/eldo/Cox_7_ztcidd.jpg"
 - "/v1592946794/eldo/Cox_6_tthbue.jpg"
+related_projects:
+- _projects/university-of-tennessee-at-martin-the-garage.md
+- _projects/university-of-arkansas.md
+- _projects/national-center-for-drug-free-sport.md
+- _projects/hodgdon-powder-facility.md
+- _projects/boulevard-brewery-co.expansion.md
+- _projects/botwin-building.md
+- _projects/300-kansas.md
 
 ---
 - 2007
