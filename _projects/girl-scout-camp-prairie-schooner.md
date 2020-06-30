@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Girl Scout Camp Prairie Schooner
+title: Girl Scouts Camp Prairie Schooner
 position: 
 hero_image: "/v1592879035/eldo/Schooner_2_uhyn0x.jpg"
 short-description: A restrained palette broadcasts the optimism of the Girl Scouts.
@@ -27,7 +27,11 @@ curatorial: false
 urban-design: false
 education: true
 fabrication: false
-related_projects: []
+related_projects:
+- _projects/camp-daisy-cabin-prototype.md
+- _projects/lone-oaks-farm.md
+- _projects/camp-daisy-shower-facility.md
+- _projects/alma-pavilion.md
 images_old: []
 vimeo_link: ''
 
