@@ -16,11 +16,11 @@ description: "With El Dorado’s in-house steel fabrication capabilities (incl. 
   involved a much more illustrative visual accounting of an important detail, which
   in turn allowed a more nuanced conversation about the pro’s and con’s of each approach."
 images:
+- "/v1593144772/eldo/timber_1_njje8p.jpg"
 - "/v1593144771/eldo/timber_2_hqwjxr.jpg"
 - "/v1593144771/eldo/timber_3_u7rclr.jpg"
 - "/v1593144771/eldo/Timber_5_igtuqq.jpg"
 - "/v1593144771/eldo/timber_4_butsqn.jpg"
-- "/v1593144772/eldo/timber_1_njje8p.jpg"
 related_projects:
 - _projects/300-kansas.md
 architecture: false
