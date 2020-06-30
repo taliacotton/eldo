@@ -24,10 +24,10 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1592946526/eldo/300Kansas_1_qzkelz.jpg"
+hero_image: "/v1593551962/eldo/300K_2_ysatxt.jpg"
 images:
-- "/v1592946525/eldo/300Kansas_3_raeynx.jpg"
-- "/v1592946525/eldo/300Kansas_2_xgtmxd.jpg"
+- "/v1593551962/eldo/300K_1_flds2q.jpg"
+- "/v1593551962/eldo/300K_3_jx0gxw.jpg"
 vimeo_link: ''
 related_projects:
 - _projects/mass-timber-mockups.md
