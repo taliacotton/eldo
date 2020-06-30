@@ -17,7 +17,14 @@ description: Boulevard Brewing tapped El Dorado and our design-build team to exp
   traffic emerging from under a rail overpass. Vertical mesh panels reduce solar heat
   gain on the southwest and northeast facade while still allowing views of the tanks,
   which are especially visible when illuminated at night.
-related_projects: []
+related_projects:
+- _projects/university-of-arkansas.md
+- _projects/university-of-tennessee-at-martin-the-garage.md
+- _projects/leawood-speculative-office.md
+- _projects/hodgdon-powder-facility.md
+- _projects/cox-communications-distribution-center.md
+- _projects/botwin-building.md
+- _projects/300-kansas.md
 architecture: true
 curatorial: false
 urban-design: false
