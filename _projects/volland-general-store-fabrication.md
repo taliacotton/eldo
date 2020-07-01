@@ -4,8 +4,26 @@ vimeo_link: ''
 title: Volland General Store Fabrication
 position: 
 hero_image: "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
-short-description: ''
-description: ''
+short-description: Precisely minimal, custom components create a spacious community
+  gathering room
+description: "The design team started by taking stock of what was left of the original
+  building. While the roof, second and third floors had collapsed, the masonry shell
+  was left structurally intact and was in good shape. The design team laid out a floor
+  plan similar to the original, with a large open space at the front for events including
+  dining, dancing, and art exhibitions where the main floor of the general store used
+  to be and a catering kitchen and restrooms at the back on the first floor and a
+  second-story single studio apartment where storage used to be. The majority of the
+  second story was not rebuilt, leaving the gallery with an open, flexible and filled
+  with light, revealing two stories of windows and showing off the full height of
+  the original structure. \n\nTo realize the project, our in-house steel shop designed
+  and fabricated a structural steel brace with custom components to prevent deflection
+  and support the exterior walls. Because the brace is a focal point within the space,
+  the architect took great care in its appearance, the cornerstone of which is a highly
+  precise, extremely minimal metal sleeve for the bracing cables. The sleeve hovers
+  over the center of the main gathering space keeping the cables precisely separated
+  at exactly the right height. This piece was designed, tested, and ultimately fabricated
+  in our in-house steel shop in order to control the outcome with impeccably clean
+  details."
 images:
 - "/v1593627252/eldo/sketch2_e51aop.jpg"
 - "/v1593147741/eldo/volland_4_pxokxa.jpg"
@@ -20,7 +38,6 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: true
-published: false
 
 ---
 * 2015
