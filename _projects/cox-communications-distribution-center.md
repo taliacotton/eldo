@@ -16,7 +16,7 @@ architecture: true
 curatorial: false
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 hero_image: "/v1592879187/eldo/Cox_1_mslziy.jpg"
 images:
 - "/v1592879187/eldo/Cox_2_jz8r7i.jpg"
