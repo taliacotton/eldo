@@ -6,9 +6,9 @@ role: Partner
 image: "/v1593492373/eldo/josh2_wziqyc.png"
 principal: true
 related_projects:
+- _projects/300-kansas.md
 - _projects/al-masar-master-plan.md
 - _projects/highlander-accelerator.md
-- _projects/upper-harbor-terminal.md
 - _projects/market-station.md
 
 ---
