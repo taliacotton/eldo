@@ -2,7 +2,7 @@
 layout: project
 title: Bhargava Residence
 position: 
-hero_image: ''
+hero_image: "/v1593615763/eldo/_MG_5068__oqjjh7.jpg"
 short-description: Panoramic views, clean design, and features let light and city
   views in, even through walls and dividers.
 description: "A young medical professional wanted a design-build renovation of his
