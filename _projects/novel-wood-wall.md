@@ -17,6 +17,7 @@ images:
 - "/v1593630880/eldo/20180309_094040_i7bp9z.jpg"
 - "/v1593630880/eldo/20180309_094021_ghr8yu.jpg"
 - "/v1592605159/eldo/Novel_13_y0kit2.jpg"
+- "/v1593631432/eldo/IMG_4636_sitn4f.jpg"
 related_projects:
 - _projects/novel.md
 - _projects/crossroads-hotel-sliding-doors.md
