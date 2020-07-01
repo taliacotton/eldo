@@ -7,6 +7,7 @@ hero_image: "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
 short-description: ''
 description: ''
 images:
+- "/v1593627252/eldo/sketch2_e51aop.jpg"
 - "/v1593147741/eldo/volland_4_pxokxa.jpg"
 - "/v1593147741/eldo/volland_2_sfce1n.jpg"
 - "/v1593147741/eldo/volland_3_shgutw.jpg"
