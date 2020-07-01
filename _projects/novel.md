@@ -25,7 +25,6 @@ images:
 - "/v1593027560/eldo/Novel_5_oyzrem.jpg"
 - "/v1593027560/eldo/Novel_6_iay0qy.jpg"
 - "/v1593027560/eldo/Novel_7_jcc2ss.jpg"
-- "/v1593118248/eldo/IMG_2474_quybqe.jpg"
 - "/v1592605155/eldo/Novel_9_txvn8x.jpg"
 - "/v1593118323/eldo/IMG_4636_dvmvou.jpg"
 - "/v1592605156/eldo/Novel_8_uykqef.jpg"
