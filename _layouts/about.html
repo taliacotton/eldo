@@ -35,7 +35,8 @@
     {% endif %}
 </div>
 <div class="section principals">
-    <h2>Principals</h2>
+    <!-- <h2>Principals</h2> -->
+    <h2>Our team works<br>purposefully across<br>scales and contexts.</h2>
     <div class="flex flex-mobile">
         {% assign principals = site.team | where: "principal", "true" %}
         {% for principal in principals %}
@@ -49,7 +50,7 @@
     </div>
 </div>
 <div class="section team">
-    <h2>Our team works<br>purposefully across<br>scales and contexts.</h2>
+    
     <div class="flex col-4 flex-mobile">
         {% assign team = site.team | where: "principal", "false" %}
         {% for teammember in team %}
@@ -58,12 +59,13 @@
             <h5>{{ teammember.role }}</h5>
         </a>
         {% endfor %}
+        
     </div>
 </div>
 <div class="section news">
     <h2>News</h2>
     <ul>
-        {% for news_item in site.news %}
+        {% for news_item in site.news reversed %}
         <li><a href="{{news_item.link}}" target="_blank">
                 <p>{{news_item.title}}</p>
                 <p class="sm">{{news_item.publication}}<br>{{ news_item.date | date_to_string: "ordinal", "US" }}</p>
