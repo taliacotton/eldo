@@ -6,8 +6,8 @@ principal: false
 image: ''
 related_projects:
 - _projects/lone-oaks-farm.md
-- _projects/las-virgenes-pure-water-center.md
 - _projects/a-new-home-for-kcur.md
+- _projects/las-virgenes-pure-water-center.md
 - _projects/kansas-city-art-institute-master-plan.md
 
 ---
