@@ -1,7 +1,6 @@
 ---
 layout: project
-title: Kansas State University Architecture, Planning & Urban Design–Regnier Hall
-  Fab Lab Expansion
+title: Kansas State University Fab Lab
 position: 
 hero_image: "/v1592607354/eldo/regnier-01_t8spho.jpg"
 short-description: A nexus for interdisciplinary engagement, outreach and research.
