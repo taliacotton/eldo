@@ -2,7 +2,7 @@
 title: John Smith
 layout: team
 name: David Dowell, AIA
-role: ''
+role: Partner
 principal: true
 related_projects:
 - _projects/lone-oaks-farm.md
