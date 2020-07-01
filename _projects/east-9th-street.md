@@ -14,7 +14,13 @@ description: "The Lawrence Arts Center received a prestigious ArtPlace grant awa
   Arts District. \n\nWith a high concentration of artistic, cultural, historic and
   natural amenities, the design team is focusing on celebrating these aspects of Lawrence
   and bringing them to the forefront of the community."
-images: []
+images:
+- "/v1593613342/eldo/East_Ninth_Artist_Plan_ufr6o7.jpg"
+- "/v1593613131/eldo/East_Ninth_Public_Engagement_tzq5e7.jpg"
+- "/v1593612483/eldo/East_Ninth_AIA_KS_5_qvkutk.png"
+- "/v1593612975/eldo/East_Ninth_Turnhalle_kdyfza.jpg"
+- "/v1593612971/eldo/East_Ninth_Boulder_Field_zfrvxk.jpg"
+- "/v1593612709/eldo/East_Ninth_Murral_ce67sa.jpg"
 related_projects: []
 architecture: true
 curatorial: false
@@ -22,6 +28,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
+vimeo_link: ''
 published: false
 
 ---
