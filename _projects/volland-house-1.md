@@ -2,7 +2,7 @@
 layout: project
 title: 'Volland House #1'
 position: 
-hero_image: "/v1593122355/eldo/_DSC0752_1___dg1eyd.jpg"
+hero_image: "/v1593122217/eldo/_DSC0667_1___kbd1f5.jpg"
 short-description: A generic 1930's kit house gets a site-specific refresh that locks
   it into its context.
 description: |-
@@ -18,6 +18,7 @@ images:
 - "/v1593122345/eldo/_DSC0719_1___xbftep.jpg"
 - "/v1593122344/eldo/_DSC0624___djt1gy.jpg"
 - "/v1593122411/eldo/_DSC0370___utf4hw.jpg"
+- "/v1593122355/eldo/_DSC0752_1___dg1eyd.jpg"
 - "/v1593122269/eldo/_DSC0381___hcb7cv.jpg"
 - "/v1593122295/eldo/_DSC0423___g4nm5g.jpg"
 - "/v1593122284/eldo/_DSC0395_2___q249uq.jpg"
