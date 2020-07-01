@@ -41,6 +41,7 @@ published: false
 
 ### Eldo Team
 
+* Principal: David Dowell, AIA
 * Project Architect: Derik Eckhardt, AIA
 * Project Architect: Mark Horne, AIA
 * Project Designer: Charlie Vega
