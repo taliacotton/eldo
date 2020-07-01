@@ -8,6 +8,7 @@ slideshow:
 - _projects/preston-outdoor-education-station.md
 - _projects/university-of-arkansas.md
 - _projects/university-of-tennessee-at-martin-the-garage.md
+- _projects/slender-house.md
 - _projects/novel.md
 - _projects/shelton-marshall-residence.md
 - _projects/wabaunsee-county-homestead.md
