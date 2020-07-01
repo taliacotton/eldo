@@ -2,8 +2,8 @@
 layout: project
 title: East 9th Street
 position: 
-hero_image: ''
-short-description: An Innovative urban planning model that, through thoughtful public
+hero_image: "/v1593614514/eldo/East_Ninth_Murral_nlyi3h.jpg"
+short-description: An innovative urban planning model that, through thoughtful public
   engagement, embeds artists into the planning process of the street itself.
 description: "The Lawrence Arts Center received a prestigious ArtPlace grant award
   for the infusion of art into a streetscape project along east 9th Street, from Delaware
@@ -44,7 +44,7 @@ vimeo_link: ''
 
 ---
 * 2013 (planning)
-* Architect
+* Urban Designer, Architect
 * Lawrence, KS
 * 7 City Blocks
 
