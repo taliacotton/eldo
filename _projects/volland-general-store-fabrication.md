@@ -4,7 +4,7 @@ vimeo_link: ''
 title: Volland General Store Fabrication
 position: 
 hero_image: "/v1592603949/eldo/VollandStore_1_mrkrjc.jpg"
-short-description: Precisely minimal, custom components create a spacious community
+short-description: Precisely minimal, custom steel components create a spacious community
   gathering room
 description: "The design team started by taking stock of what was left of the original
   building. While the roof, second and third floors had collapsed, the masonry shell
