@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Novel Wood Wall
 position: 
 hero_image: "/v1592605155/eldo/Novel_9_txvn8x.jpg"
@@ -8,21 +8,25 @@ short-description: ''
 description: ''
 images:
 - "/v1593631014/eldo/image1_esezbd.jpg"
+- "/v1593631135/eldo/Novel_16_wumkjh.jpg"
 - "/v1593027560/eldo/Novel_7_jcc2ss.jpg"
-- "/v1593631007/eldo/IMG_4850_ndadwt.jpg"
-- "/v1593631006/eldo/IMG_4810_zerreu.jpg"
 - "/v1593630880/eldo/IMG_2473_ln1reh.jpg"
-- "/v1593630880/eldo/20180309_094040_i7bp9z.jpg"
+- "/v1593631006/eldo/IMG_4810_zerreu.jpg"
+- "/v1593631007/eldo/IMG_4850_ndadwt.jpg"
 - "/v1593630880/eldo/20180309_094037_cl3o8x.jpg"
+- "/v1593630880/eldo/20180309_094040_i7bp9z.jpg"
 - "/v1593630880/eldo/20180309_094021_ghr8yu.jpg"
-- "/v1592605156/eldo/Novel_8_uykqef.jpg"
 - "/v1592605159/eldo/Novel_13_y0kit2.jpg"
-related_projects: []
+related_projects:
+- _projects/novel.md
+- _projects/crossroads-hotel-sliding-doors.md
+- _projects/mass-timber-mockups.md
+- _projects/pizzabella.md
 architecture: false
 curatorial: false
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 published: false
 
 ---
