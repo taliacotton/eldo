@@ -82,14 +82,14 @@ vimeo_link: ''
 
 * Archpaper, Anna Bergren Miller, "[el dorado's Josh Shelton on Merging Facade Design and Fabrication](https://archpaper.com/2016/07/el-dorado-josh-shelton-facade-design-fabrication/ )", 2016
 * Green Building & Design Magazine, Emma Jansen, "[Typology: Brewery](https://gbdmagazine.com/2014/30-typology/ )," 2014
-* Architectural Record, Asad Syrkett, "[Boulevard Brewing Company Cellar 1 Expansion](https://www.architecturalrecord.com/articles/7406-boulevard-brewing-company-cellar-1-expansion?v=preview )," 2013
-* Azure Magazine, David Dick-Agnew, "[Awards of Merit](assets.ctfassets.net/7ceafwpo4r5g/5RcYWGu3TXcPAKYSiyQflP/ca4cd4422bce46a0632e634602577612/201308_Azure_Magazine_AZ_Awards_The_Best_of_Arch_and_Design.pdf)," 2013
-* Archdaily, Alison Furuto, "[2012 AIA Central States Design Award Winners]( https://www.archdaily.com/280308/2012-aia-central-states-design-award-winners)," 2012
+* Architectural Record, Asad Syrkett, "[Boulevard Brewing Company Cellar 1 Expansion](https://www.architecturalrecord.com/articles/7406-boulevard-brewing-company-cellar-1-expansion?v=preview)," 2013
+* Azure Magazine, David Dick-Agnew, "Awards of Merit," 2013
+* Archdaily, Alison Furuto, "[2012 AIA Central States Design Award Winners](https://www.archdaily.com/280308/2012-aia-central-states-design-award-winners)," 2012
 * Archdaily, Jonathan Alarcon, "[Boulevard Brewing Company Cellar 1 Expansion / El Dorado Inc](https://www.archdaily.com/281598/boulevard-brewing-company-cellar-1-expansion-el-dorado)," 2012
 * Architect Magazine, Katie Gerfen, "[2012 Annual Design Review, Work Category, Citation: Boulevard Brewing Company Cellar 1 Expansion](https://www.architectmagazine.com/awards/annual-design-review/2012-annual-design-review-work-category-citation-boulevard-brewing-company-cellar-1-expansion_o)," 2013
-* Kansas City Star, Steve Paul, "[Design Awards Go to KC Ballet Retrofit and Olympic Stadium](assets.ctfassets.net/7ceafwpo4r5g/6HEanmsB8dUHkUP3R4oieH/0eca8dcaa3000697eaf119c6aff3e5b4/2012-Kansas_City_Star-Design_Awards_go_to_KC_Ballet.pdf)," 2012
-* Omaha World Herald, "[AIA Nebraska Honors Excellence in Design Winners](downloads.ctfassets.net/7ceafwpo4r5g/5x0fFssw93zpdg4GzLTeib/c7d5a9bf9fce5bc7bccfa1f2f5f81a68/2012-Omaha_World_Herald-Central_States_Regional_Awards.pdf)," 2012
-* BeerAdvocate, Alström Bros, "[Boulevard Brewing Company Raises the Roof](assets.ctfassets.net/7ceafwpo4r5g/5BtuORuTUAhKEm0bMLpvHL/2abacbb7eb88cf5a75da9831f81dacc2/2011-BeerAdvocate.com-Blvd_Brewing_Exp.pdf )," 2011
+* Kansas City Star, Steve Paul, "Design Awards Go to KC Ballet Retrofit and Olympic Stadium," 2012
+* Omaha World Herald, "AIA Nebraska Honors Excellence in Design Winners," 2012
+* BeerAdvocate, Alström Bros, "Boulevard Brewing Company Raises the Roof," 2011
 
 ### Photography by
 
