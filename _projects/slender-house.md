@@ -4,7 +4,8 @@ vimeo_link: ''
 title: Slender House
 position: 
 hero_image: "/v1593639119/eldo/streetside_twn9ou.jpg"
-short-description: ''
+short-description: Demonstrating how narrow in-fill lots are actually plenty wide
+  for a dignified dwelling
 description: "Slender House upends the core constraint of the “too narrow to build
   on” urban infill lot. By insisting on qualities necessary for dignified dwellings
   – light, air, thermal comfort, affordability, accommodation – the project shows
@@ -19,12 +20,18 @@ description: "Slender House upends the core constraint of the “too narrow to b
   and new models of shared/private amenities throughout the entire building and site.
   \n\nFinally, weave into the neighborhood and immediate block context."
 images:
-- "/v1593639421/eldo/Slender_House_top_floor_c3bwjt.jpg"
-- "/v1593639421/eldo/Slender_House_studio_dw1vqe.jpg"
-- "/v1593639423/eldo/Slender_House_streetside_in73np.jpg"
-- "/v1593639423/eldo/Slender_House_canyon_obqp6k.jpg"
-- "/v1593639425/eldo/Slender_House_190324_0945_Plans_wo_dims_ftfsk4.jpg"
-- "/v1593639423/eldo/Slender_House_19_0323_1900_-_DRAWINGS-4_v4os5b.jpg"
+- "/v1593640343/eldo/SlenderHouse_2019AIAKC-8_psfsox.jpg"
+- "/v1593640340/eldo/SlenderHouse_2019AIAKC-5_wavtws.jpg"
+- "/v1593640340/eldo/SlenderHouse_2019AIAKC-4_xfrlxg.jpg"
+- "/v1593640343/eldo/SlenderHouse__Model_hgxmqf.jpg"
+- "/v1593640343/eldo/Slender_House19_0323_1900_-_DRAWINGS-6_sfn3ep.jpg"
+- "/v1593640338/eldo/Slender_House_top_floor_jdyy4s.jpg"
+- "/v1593640339/eldo/Slender_House_studio_jfgrws.jpg"
+- "/v1593640340/eldo/Slender_House_streetside_kjoybs.jpg"
+- "/v1593640340/eldo/Slender_House_canyon_dpdupg.jpg"
+- "/v1593640343/eldo/Slender_House_190324_0945_Plans_wo_dims_innqvu.jpg"
+- "/v1593640342/eldo/Slender_House_19_0323_1900_-_DRAWINGS-7_sjezrk.jpg"
+- "/v1593640340/eldo/Slender_House_19_0323_1900_-_DRAWINGS-4_xbsl57.jpg"
 related_projects: []
 architecture: true
 curatorial: false
