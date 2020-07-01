@@ -15,21 +15,32 @@ description: "The Lawrence Arts Center received a prestigious ArtPlace grant awa
   natural amenities, the design team is focusing on celebrating these aspects of Lawrence
   and bringing them to the forefront of the community."
 images:
-- "/v1593613342/eldo/East_Ninth_Artist_Plan_ufr6o7.jpg"
+- "/v1593614221/eldo/East_Ninth_Site_b4i7gu.jpg"
+- "/v1593614289/eldo/East_Ninth_Advisory_Council_ugxbwo.jpg"
 - "/v1593613131/eldo/East_Ninth_Public_Engagement_tzq5e7.jpg"
 - "/v1593612483/eldo/East_Ninth_AIA_KS_5_qvkutk.png"
+- "/v1593613342/eldo/East_Ninth_Artist_Plan_ufr6o7.jpg"
+- "/v1593613698/eldo/East_Ninth_Landscape_Plan_dr6vn9.jpg"
+- "/v1593613890/eldo/East_Ninth_Stormwater_Plan_p5wmou.jpg"
+- "/v1593614390/eldo/East_Ninth_Street_Sections_gjywkw.jpg"
 - "/v1593612975/eldo/East_Ninth_Turnhalle_kdyfza.jpg"
 - "/v1593612971/eldo/East_Ninth_Boulder_Field_zfrvxk.jpg"
 - "/v1593612709/eldo/East_Ninth_Murral_ce67sa.jpg"
-related_projects: []
-architecture: true
-curatorial: false
-urban-design: false
+related_projects:
+- _projects/destination-medical-center-heart-of-the-city.md
+- _projects/20th-street-streetscape.md
+- _projects/troost-troost-troost.md
+- _projects/motley-master-plan.md
+- _projects/landscaped-edge.md
+- _projects/michael-jones-mckean-the-rainbow.md
+- _projects/kansas-city-art-institute-master-plan.md
+architecture: false
+curatorial: true
+urban-design: true
 education: false
 fabrication: false
 images_old: []
 vimeo_link: ''
-published: false
 
 ---
 * 2013 (planning)
