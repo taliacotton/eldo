@@ -69,8 +69,8 @@ vimeo_link: ''
 
 ### Press
 
-* Kansas City Star, Kevin Collison, "[For Old 20th Street, A Whole New Look](downloads.ctfassets.net/7ceafwpo4r5g/6Njzpzjl1s5k91kxUf92mI/2fb90d7c6e3e69443a317b98bcb593f1/2013-Kansas_City_Star-20th_Street_Streetscape.pdf )," 2013
-* Kansas City Star Magazine, "[Street Smart](downloads.ctfassets.net/7ceafwpo4r5g/HHox5X6K4a0rF5KR5Ukz9/cc1bc66df7e404781d5d46397570c099/2010-KC_Star_Magazine-20th_Street.pdf )," 2010
+* Kansas City Star, Kevin Collison, "For Old 20th Street, A Whole New Look," 2013
+* Kansas City Star Magazine, "Street Smart," 2010
 
 ### Photography by
 
