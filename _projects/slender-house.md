@@ -32,7 +32,12 @@ images:
 - "/v1593640340/eldo/Slender_House_canyon_dpdupg.jpg"
 - "/v1593640342/eldo/Slender_House_19_0323_1900_-_DRAWINGS-7_sjezrk.jpg"
 - "/v1593640340/eldo/Slender_House_streetside_kjoybs.jpg"
-related_projects: []
+related_projects:
+- _projects/300-kansas.md
+- _projects/waldo-duplex.md
+- _projects/crossroads-hotel.md
+- _projects/bhargava-residence.md
+- _projects/3435-main.md
 architecture: true
 curatorial: false
 urban-design: false
