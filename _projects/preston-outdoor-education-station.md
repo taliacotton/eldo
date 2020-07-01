@@ -4,9 +4,9 @@ position: 17
 layout: project
 short-description: Engaging real challenges of architectural education in North America’s
   most threatened landscape.
-description: "YMCA’s Camp Wood commissioned this educationstation for North America’s
-  most endangered landscape: the native Tallgrass Prairie. Requirements were: 1) it
-  must survive annual prairie burns, and 2) the intervention must recede into the
+description: "YMCA’s Camp Wood commissioned this education station for North America’s
+  most endangered landscape: the native Tall grass Prairie. Requirements were: 1)
+  it must survive annual prairie burns, and 2) the intervention must recede into the
   landscape. During the fall, the studio researched the complexities of the site,
   and in the spring, produced drawings, prototypes, pricing information, and the project
   itself. What began as a simple shade structure evolved into a flexible platform
@@ -86,7 +86,7 @@ images:
 
 ### Press
 
-* The Architect's Newspaper, ["Here are the Winners of the 2017 AN Best of Design Awards"](https://archpaper.com/2017/12/winners-2017-an-best-design-awards/#gallery-0-slide-0 "Here are the Winners of the 2017 AN Best of Design Awards"), 2017
+* The Architect's Newspaper, ["2017 Best of Design Awards for Student Work,"](https://www.archpaper.com/2017/12/2017-design-awards-student-work/) 2017
 * Association of Collegiate  Schools of Architecture, ["2017 Architectural Education Award Winners"](http://www.acsa-arch.org/programs-events/awards/archives/2017-architectural-education-award-winners "2017 Architectural Education Award Winners"), 2017
 * Azure, ["2017 AZ Awards Winner: A+ Student Award"](https://www.azuremagazine.com/article/2017-az-awards-winner-a-student-award/ "2017 AZ Awards Winner: A+ Student Award"), 2017
 

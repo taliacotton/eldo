@@ -32,9 +32,8 @@ published: false
 
 ---
 * 2018
-* Architect
+* Fabricator, Architect
 * Kansas City, MO
-* 2,892 SF
 
 ### Client
 
@@ -46,7 +45,7 @@ published: false
 * Project Manager: Steve Salzer, AIA
 * Project Architect: Ted Arendes, RA; Mark Horne, AIA
 * Project Designer: Daniel Renner
-* Fabricator: Lauren Harness
+* Fabricator: Ted Arendes
 
 ### Artist
 
@@ -55,9 +54,6 @@ published: false
 ### Collaborators
 
 * Contractor: 3 Square
-* Structural Engineer: Bob D Campbell & Associates
-* MEP Engineer: PKMR
-* Civil Engineer: SK Design Group
 
 ### Awards
 
