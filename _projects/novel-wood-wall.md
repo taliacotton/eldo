@@ -34,7 +34,7 @@ published: false
 * 2018
 * Fabricator, Architect
 * Kansas City, MO
-* 90 feet
+* \~100 feet
 
 ### Client
 
