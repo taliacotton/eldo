@@ -5,6 +5,7 @@ role: Staff Architect
 principal: false
 image: ''
 related_projects:
+- _projects/kansas-city-public-television.md
 - _projects/preston-outdoor-education-station.md
 
 ---
