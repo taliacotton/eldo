@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Block Addition Building Visitor Desk '
+title: 'Bloch Addition Building Visitor Desk '
 position: 
 hero_image: "/v1593116551/eldo/RH1625-200_eakhbn.jpg"
 short-description: Museum-quality craft
