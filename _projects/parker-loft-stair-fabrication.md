@@ -23,7 +23,6 @@ images:
 - "/v1593179221/eldo/parker-6_ygcutp.jpg"
 - "/v1593147034/eldo/Parker_8_eiawgu.jpg"
 - "/v1593147032/eldo/Parker_9_bxkczm.jpg"
-- "/v1593147033/eldo/Parker_5_qlm7av.jpg"
 - "/v1593147034/eldo/Parker_3_m7whvr.jpg"
 - "/v1593147034/eldo/Parker_6_vlcg1j.jpg"
 related_projects: []
