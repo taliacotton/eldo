@@ -3,7 +3,7 @@ layout: project
 vimeo_link: ''
 title: Grand Boulevard Bridge Redux
 position: 
-hero_image: "/v1593126503/eldo/Grand_6_a97vjz.jpg"
+hero_image: "/v1594061451/eldo/grand_1_zgpjeq.jpg"
 short-description: Grand Boulevard Bridge Redux suggests that we should slow down
   to fully experience the places that we inhabit. By tapping into the pragmatic languages
   of form and function within the site, the architect and artist composed frameworks
@@ -23,14 +23,13 @@ description: "In 2009, the architect worked with public and private entities to 
   respond to, and provoke contemplation within the evolution of the urban environment.
   \n"
 images:
-- "/v1593126503/eldo/Grand_4_p9h3vn.jpg"
-- "/v1593126503/eldo/Grand_2_oe831y.jpg"
-- "/v1593126504/eldo/Grand_7_j6ltjr.jpg"
+- "/v1594061452/eldo/grand_2_qfeq1c.jpg"
+- "/v1594061336/eldo/grand_4_usu0f3.jpg"
 - "/v1593126510/eldo/GrandBLVDRedux_15b_ay0etl.jpg"
 - "/v1593126510/eldo/GrandBLVDRedux_13_osaw4n.jpg"
 - "/v1593126510/eldo/GrandBLVDRedux_20_1_cmecyc.jpg"
-- "/v1593126503/eldo/Grand_5_jghakv.jpg"
-- "/v1593126628/eldo/GrandBLVDRedux_16_e9wfy4.jpg"
+- "/v1594061336/eldo/grand_5_ryuuuy.jpg"
+- "/v1594061336/eldo/grand_3_pj0whm.jpg"
 related_projects:
 - _projects/main-street-bridge-redux.md
 - _projects/landscaped-edge.md
