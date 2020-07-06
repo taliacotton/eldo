@@ -28,7 +28,6 @@ images:
 - "/v1593627252/eldo/sketch2_e51aop.jpg"
 - "/v1593147741/eldo/volland_4_pxokxa.jpg"
 - "/v1593147741/eldo/volland_2_sfce1n.jpg"
-- "/v1593147741/eldo/volland_3_shgutw.jpg"
 - "/v1593147741/eldo/volland_1_ofkczz.jpg"
 - "/v1592605613/eldo/VollandStore_7_iykqyu.jpg"
 - "/v1592605617/eldo/VollandStore_4_vfbvfs.jpg"
