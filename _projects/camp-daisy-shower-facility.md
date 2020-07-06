@@ -22,7 +22,7 @@ curatorial: false
 urban-design: false
 education: true
 fabrication: false
-hero_image: "/v1592878983/eldo/DaisyShower_6_upk0er.jpg"
+hero_image: "/v1594059144/eldo/DaisyShower_01_onkq2c.jpg"
 images:
 - "/v1592604615/eldo/CampDaisy-02_eijxpy.jpg"
 - "/v1592604492/eldo/CampDaisy-05_cjlwkj.jpg"
