@@ -3,7 +3,7 @@ layout: project
 vimeo_link: ''
 title: Main Street Bridge Redux
 position: 
-hero_image: "/v1593121429/eldo/MainStreet_1_vegilp.jpg"
+hero_image: "/v1594071214/eldo/main_4_bllydt.jpg"
 short-description: Embracing experimentation and collaboration at an infrastructural
   scale.
 description: "The Main Street Bridge Redux was one of the first in a four-part collaboration
@@ -15,11 +15,11 @@ description: "The Main Street Bridge Redux was one of the first in a four-part c
   acoustical improvements, life safety, ambient illumination, ease of installation,
   and overall durability. \n"
 images:
-- "/v1593121429/eldo/MainStreet_4_mh1bz9.jpg"
-- "/v1593121429/eldo/MainStreet_5_plg5kp.jpg"
+- "/v1594071214/eldo/main_1_c19c9x.jpg"
+- "/v1594071214/eldo/main_2_bkp3jy.jpg"
 - "/v1593121429/eldo/MainStreet_3_pmvcvq.png"
-- "/v1593121429/eldo/MainStreet_2_fuoaz3.jpg"
-- "/v1593121429/eldo/MainStreet_6_yjs2yq.jpg"
+- "/v1594071214/eldo/main_5_uwlrrr.jpg"
+- "/v1594071214/eldo/main_3_gy1pbu.jpg"
 related_projects: []
 architecture: true
 curatorial: true
