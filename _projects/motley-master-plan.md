@@ -2,7 +2,7 @@
 layout: project
 title: Motley Master Plan
 position: 
-hero_image: "/v1593179944/eldo/motley_2_zm6v3q.png"
+hero_image: "/v1594071772/eldo/motley_01_sbnk28.jpg"
 short-description: A bold planning process that seeks to turn laboratories inside
   out within the public realm
 description: |-
