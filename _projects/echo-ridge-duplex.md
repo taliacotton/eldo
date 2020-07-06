@@ -2,7 +2,7 @@
 layout: project
 title: Echo Ridge Duplex
 position: 
-hero_image: "/v1593052319/eldo/Echo_7_vlkir3.jpg"
+hero_image: "/v1594059940/eldo/Echo_1_y3jqqg.jpg"
 short-description: El Dorado was challenged to offer new insights for the duplex typology
   for the Echo Ridge duplexes, executed within HUD-regulated budget constraints.
 description: |
@@ -12,12 +12,12 @@ description: |
 
   The result, built for just $115 per square foot, is an energetic and optimistic re-thinking of a low-income housing typology that promotes sustainable living and a strong sense of community.
 images:
-- "/v1593052319/eldo/Echo_1_rvmym7.jpg"
-- "/v1593052319/eldo/Echo_2_grmvih.jpg"
-- "/v1593052319/eldo/Echo_3_guidxk.jpg"
-- "/v1593052319/eldo/Echo_6_tfw9zd.jpg"
-- "/v1593052319/eldo/Echo_5_fybd9a.jpg"
-- "/v1593052319/eldo/Echo_4_id9oip.jpg"
+- "/v1594059940/eldo/Echo_2_xgs9da.jpg"
+- "/v1594059940/eldo/Echo_3_fowvw7.jpg"
+- "/v1594059940/eldo/Echo_4_znqfh6.jpg"
+- "/v1594059937/eldo/Echo_5_k0l1ci.jpg"
+- "/v1594059937/eldo/Echo_6_qk2hgg.jpg"
+- "/v1594059938/eldo/Echo_7_wvbx5q.jpg"
 related_projects:
 - _projects/troost-bridge.md
 - _projects/waldo-duplex.md
