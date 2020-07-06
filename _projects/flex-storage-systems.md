@@ -16,14 +16,13 @@ education: false
 fabrication: false
 hero_image: "/v1592593158/eldo/hero_images/flex-13_m0v7jb.jpg"
 images:
-- "/v1593143243/eldo/Flex_6_oqlcei.jpg"
 - "/v1592604653/eldo/FLEX-10_odom6j.jpg"
 - "/v1593143243/eldo/Flex_2_r7kvc2.jpg"
 - "/v1593143243/eldo/Flex_1_uackmu.jpg"
 - "/v1592604654/eldo/FLEX-12_vkx1cc.jpg"
-- "/v1593143243/eldo/Flex_5_xbob1i.jpg"
-- "/v1593143243/eldo/Flex_4_ztvgtb.jpg"
-- "/v1593143243/eldo/Flex_3_lrvznq.jpg"
+- "/v1594060676/eldo/flex_7_prl4j9.jpg"
+- "/v1594060676/eldo/flex_8_wdxczf.jpg"
+- "/v1594060676/eldo/flex_9_ozw7ve.jpg"
 - "/v1592604653/eldo/FLEX-11_swjbzr.jpg"
 - "/v1592604643/eldo/FLEX-01_gkpqfz.jpg"
 - "/v1592604642/eldo/FLEX-04_eqltvn.jpg"
