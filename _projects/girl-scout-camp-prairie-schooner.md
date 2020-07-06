@@ -2,7 +2,7 @@
 layout: project
 title: Girl Scouts Camp Prairie Schooner
 position: 
-hero_image: "/v1592879035/eldo/Schooner_2_uhyn0x.jpg"
+hero_image: "/v1594060847/eldo/Schooner_cover_hlbixf.jpg"
 short-description: A restrained palette broadcasts the optimism of the Girl Scouts.
 description: Camp Prairie Schooner sits high on the bluffs of the Little Blue River,
   and with 176 wooded acres, the camp feels like wilderness in the heart of Kansas
