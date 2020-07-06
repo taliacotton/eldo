@@ -21,7 +21,6 @@ images:
 - "/v1593099177/eldo/KCUR_Adjacency_Diagram_aqayax.png"
 - "/v1593099177/eldo/KCUR_Institutions_sz8klu.png"
 - "/v1593098729/eldo/KCUR_New_Build_2_ihneeu.jpg"
-- "/v1593098729/eldo/KCUR_New_Build_NIGHT_l30wpi.jpg"
 vimeo_link: ''
 related_projects:
 - _projects/kansas-city-art-institute-master-plan.md
