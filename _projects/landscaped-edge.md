@@ -3,20 +3,11 @@ layout: project
 title: Landscaped Edge
 position: 
 hero_image: ''
-short-description: Urban infrastructure moves are big moves. As design professionals,
-  we can only match their audacity by embracing experimentation and collaboration.
-  el dorado collaborated with the city, bridge design engineer and local artist to
-  enhance the pedestrian experience of the Wyandotte Street Bridge in downtown Kansas
-  City.
-description: In 2006, El Dorado teamed up with local motion graphics firm MK12 to
-  win a competition to design the new guardrail system for the Wyandotte Bridge in
-  downtown Kansas City. The design is the result of an intensive collaboration and
-  integrates a novel (and MODOT code-compliant) structural design that serves to house
-  an integral and easily-maintained lighting element. The graphics for the system
-  suggest a rich diversity of natural landscaping which is a direct contrast to the
-  expansive interstate system below. The “landscaping” will glow at night, providing
-  a safe pedestrian path across the bridge in addition to an interesting visual element
-  for the cars passing below on I-670.
+short-description: Urban infrastructure moves are big moves
+description: |-
+  In 2006, El Dorado teamed up with local motion graphics firm MK12 to win a competition to design the new guardrail system for the Wyandotte Bridge in downtown Kansas City. The design is the result of an intensive collaboration and integrates a novel (and MODOT code-compliant) structural design that serves to house an integral and easily-maintained lighting element. The graphics for the system suggest a rich diversity of natural landscaping which is a direct contrast to the expansive interstate system below. The “landscaping” will glow at night, providing a safe pedestrian path across the bridge in addition to an interesting visual element for the cars passing below on I-670.
+
+  Urban infrastructure moves are big moves: as design professionals, we can only match their audacity by embracing experimentation and collaboration. We collaborated with the city, bridge design engineer, and local artists to enhance the pedestrian experience of the Wyandotte Street Bridge in downtown Kansas City.
 images: []
 related_projects: []
 architecture: true
@@ -25,6 +16,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
+vimeo_link: ''
 published: false
 
 ---
