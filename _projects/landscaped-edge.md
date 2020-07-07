@@ -25,14 +25,13 @@ images:
 - "/v1594127800/eldo/522102_ici1n5.tiff"
 - "/v1594127799/eldo/522101_qigr1i.tiff"
 related_projects: []
-architecture: true
+architecture: false
 curatorial: false
-urban-design: false
+urban-design: true
 education: false
-fabrication: false
+fabrication: true
 images_old: []
 vimeo_link: ''
-published: false
 
 ---
 * 2007
