@@ -20,9 +20,8 @@ description: "Slender House upends the core constraint of the “too narrow to b
   and new models of shared/private amenities throughout the entire building and site.
   \n\nFinally, weave into the neighborhood and immediate block context."
 images:
-- "/v1593640343/eldo/SlenderHouse_2019AIAKC-8_psfsox.jpg"
-- "/v1594054725/eldo/Screen_Shot_2020-07-01_at_5.53.30_PM_e8qalb.png"
 - "/v1593640343/eldo/Slender_House19_0323_1900_-_DRAWINGS-6_sfn3ep.jpg"
+- "/v1594054725/eldo/Screen_Shot_2020-07-01_at_5.53.30_PM_e8qalb.png"
 - "/v1593640340/eldo/SlenderHouse_2019AIAKC-4_xfrlxg.jpg"
 - "/v1593640340/eldo/SlenderHouse_2019AIAKC-5_wavtws.jpg"
 - "/v1594054725/eldo/Screen_Shot_2020-07-01_at_5.54.08_PM_wmlvlm.png"
