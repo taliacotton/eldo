@@ -27,9 +27,14 @@ images:
 - "/v1593143451/eldo/MIMO_5_oymmzh.jpg"
 - "/v1593143451/eldo/MIMO_3_qatb23.jpg"
 - "/v1593143451/eldo/MIMO_2_kycwdu.jpg"
-related_projects: []
+related_projects:
+- _projects/flex-storage-systems.md
+- _projects/michael-jones-mckean-the-rainbow.md
+- _projects/crossroads-hotel.md
+- _projects/east-9th-street.md
+- _projects/limelight.md
 architecture: false
-curatorial: false
+curatorial: true
 urban-design: false
 education: false
 fabrication: false
