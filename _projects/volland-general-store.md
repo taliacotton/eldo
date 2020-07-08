@@ -19,7 +19,7 @@ architecture: true
 curatorial: true
 urban-design: false
 education: false
-fabrication: false
+fabrication: true
 hero_image: "/v1592605621/eldo/VollandStore_11_g20zwx.jpg"
 images:
 - "/v1593043810/eldo/Volland_2_jead1z.jpg"
@@ -35,6 +35,14 @@ images:
 - "/v1593044050/eldo/Volland_14_pi0fuj.jpg"
 - "/v1593044049/eldo/Volland_15_qqo7ta.jpg"
 - "/v1592605615/eldo/VollandStore_8_w9m8do.jpg"
+related_projects:
+- _projects/volland-general-store-fabrication.md
+- _projects/volland-house-1.md
+- _projects/wabaunsee-county-homestead.md
+- _projects/willoughby-design-barn.md
+- _projects/mass-timber-mockups.md
+- _projects/holbrook-loft-stair-fabrication.md
+- _projects/crossroads-hotel.md
 
 ---
 * 2015
