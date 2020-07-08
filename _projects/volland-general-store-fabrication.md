@@ -31,7 +31,13 @@ images:
 - "/v1593147741/eldo/volland_1_ofkczz.jpg"
 - "/v1592605613/eldo/VollandStore_7_iykqyu.jpg"
 - "/v1592605617/eldo/VollandStore_4_vfbvfs.jpg"
-related_projects: []
+related_projects:
+- _projects/mass-timber-mockups.md
+- _projects/crossroads-hotel-sliding-doors.md
+- _projects/taylor-dining-pavilion.md
+- _projects/volland-general-store.md
+- _projects/volland-house-1.md
+- _projects/willoughby-design-barn.md
 architecture: true
 curatorial: false
 urban-design: false
