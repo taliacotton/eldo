@@ -33,7 +33,7 @@ related_projects:
 ---
 * In progress
 * Architect, Curator, Project Manager
-* San Francisco, CA; Omaha, NE
+* Omaha, NE
 
 ### Commissioned by
 
