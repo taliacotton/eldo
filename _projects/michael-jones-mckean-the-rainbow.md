@@ -28,6 +28,11 @@ images:
 - "/v1592605355/eldo/TheRainbow_5_bn0tup.jpg"
 - "/v1593099524/eldo/024_the_rainbow_michael_jones_mckean_rtgnl8.jpg"
 related_projects:
+- _projects/moving-in-moving-out.md
+- _projects/limelight.md
+- _projects/calgary-uep-public-art-master-plan.md
+- _projects/troost-bridge.md
+- _projects/botwin-building.md
 - _projects/20th-street-streetscape.md
 
 ---
