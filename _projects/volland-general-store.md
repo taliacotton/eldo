@@ -19,7 +19,7 @@ architecture: true
 curatorial: true
 urban-design: false
 education: false
-fabrication: true
+fabrication: false
 hero_image: "/v1592605621/eldo/VollandStore_11_g20zwx.jpg"
 images:
 - "/v1593043810/eldo/Volland_2_jead1z.jpg"
