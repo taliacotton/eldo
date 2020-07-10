@@ -4,7 +4,7 @@ vimeo_link: ''
 title: Novel Wood Wall
 position: 
 hero_image: "/v1592605155/eldo/Novel_9_txvn8x.jpg"
-short-description: ''
+short-description: 'A warm wood thread that ties service functions together '
 description: ''
 images:
 - "/v1593631014/eldo/image1_esezbd.jpg"
