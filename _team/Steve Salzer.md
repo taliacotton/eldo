@@ -5,7 +5,6 @@ role: Principal
 principal: false
 image: ''
 related_projects:
-- _projects/al-masar-master-plan.md
 - _projects/novel.md
 - _projects/crossroads-hotel.md
 - _projects/university-of-arkansas.md
