@@ -5,6 +5,8 @@ role: Project Manager
 principal: false
 image: ''
 related_projects:
+- _projects/destination-medical-center-heart-of-the-city.md
+- _projects/the-paseo-at-market-station.md
 - _projects/leawood-speculative-office.md
 - _projects/market-station.md
 
