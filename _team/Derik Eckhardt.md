@@ -5,7 +5,6 @@ role: Project Architect
 principal: false
 image: ''
 related_projects:
-- _projects/al-masar-phase-i-implementation.md
 - _projects/upper-harbor-terminal.md
 
 ---
