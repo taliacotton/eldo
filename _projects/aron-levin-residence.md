@@ -2,7 +2,7 @@
 layout: project
 title: Aron / Levin Residence
 position: 
-hero_image: ''
+hero_image: "/v1594677270/eldo/aronlevin_6_muvlnf.jpg"
 short-description: Renovations designed to create an engaging space within the house's
   open floorplan, providing a warm environment for the frequent entertainment of family
   and friends.
@@ -17,8 +17,14 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
-images: []
-published: false
+images:
+- "/v1594677266/eldo/aronlevin_3_pe1a2w.jpg"
+- "/v1594677266/eldo/aronlevin_2_c1bzp2.jpg"
+- "/v1594677267/eldo/aronlevin_1_pevwob.jpg"
+- "/v1594677266/eldo/aronlevin_4_ckc5sa.jpg"
+- "/v1594677266/eldo/aronlevin_5_bgxnx6.jpg"
+- "/v1594677268/eldo/aronlevin_7_hmnb5w.jpg"
+vimeo_link: ''
 
 ---
 * 2011
