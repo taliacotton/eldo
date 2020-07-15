@@ -1,6 +1,6 @@
 ---
 layout: project
-vimeo_link: https://player.vimeo.com/video/#########
+vimeo_link: ''
 title: Johnson County Justice Annex
 position: 
 hero_image: "/v1594677995/eldo/Johnson_County_Justice_Annex_6_s1mnos.jpg"
