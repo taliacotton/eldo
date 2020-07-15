@@ -2,7 +2,7 @@
 layout: project
 title: Finn Lofts
 position: 
-hero_image: ''
+hero_image: "/v1594852434/eldo/finn_6_xilecz.jpg"
 short-description: Finn Lofts converts an early century warehouse building into a
   community of dwellings, and retail spaces that compliments the local art community
 description: "The Finn Lofts is located in the heart of what has come to be known
@@ -16,14 +16,28 @@ description: "The Finn Lofts is located in the heart of what has come to be know
   and vertically. By understanding the constraints and opportunities of the site and
   existing structure, our approach focuses on four strategies: Adapting, Removing,
   Carving and Adding."
-images: []
-related_projects: []
+images:
+- "/v1594852436/eldo/finn_3_f71xpx.jpg"
+- "/v1594852438/eldo/finn_10_liz7s2.jpg"
+- "/v1594852434/eldo/finn_1_kglxsz.jpg"
+- "/v1594852435/eldo/finn_2_yvk8sc.jpg"
+- "/v1594852435/eldo/finn_9_qplyom.jpg"
+- "/v1594852436/eldo/finn_8_yik3sg.jpg"
+- "/v1594852438/eldo/finn_7_hwipuq.jpg"
+- "/v1594852436/eldo/finn_4_ycn61z.jpg"
+- "/v1594852434/eldo/finn_5_oo8ppd.jpg"
+related_projects:
+- _projects/5-delaware.md
+- _projects/3435-main.md
+- _projects/interstate-flats.md
+- _projects/waldo-duplex.md
 architecture: true
 curatorial: false
 urban-design: false
 education: false
 fabrication: false
 images_old: []
+vimeo_link: ''
 published: false
 
 ---
