@@ -24,37 +24,34 @@ fabrication: false
 published: false
 
 ---
-2004  
-Architect, Fabricator  
-Kansas City, MO  
-86,000 SF
+* 2004
+* Architect, Fabricator
+* Kansas City, MO
+* 86,000 SF
 
-Client
+### Client
 
-\- 21 West 10th LLC
+* 21 West 10th LLC
 
-\### Eldo Team
+### Eldo Team
 
-\- Principal: Doug Stockman
+* Principal: Doug Stockman
+* Project Manager: Steve Salzer, AIA
+* Fabricators: Chris Burk, Doug Hurt, Brady Neely
 
-\- Project Manager: Steve Salzer, AIA
+### Collaborators
 
-\- Fabricators: Chris Burk, ,Doug Hurt, ,Brady Neely
+* Contractor: Walton Construction Co.
 
-\### Collaborators
+### Awards
 
-\- Contractor: Walton Construction Co.
+* 2002 Pitch Magazine Best of Kansas Cit - Best Loft
 
-\### Award
+### Press
 
-\- 2002 Pitch Magazine Best of Kansas City - Best Loft
+* Kansas City Star, Kevin Collison, "Going Condo," 2003
+* Verge, Mark Adcock, "Loft Living," 2003
 
-\### Press
+### Photography
 
-\- Kansas City Star, Kevin Collison, \[PDF\](//downloads.ctfassets.net/7ceafwpo4r5g/Uc4H1cciwziOvZqLofwf8/d9b7158fe40e3bdd350aab996ec68e4d/2003-Trabon-KC_Star.pdf "Download PDF: Going Condo"), 2003
-
-\- Verge, Mark Adcock, \[PDF\](//assets.ctfassets.net/7ceafwpo4r5g/6jkK7GX85whdeIrRdlXc88/eb7c9dd65089e7bff9331ad7947e34f2/2003-21Ten-Verge.pdf "Download PDF: Loft Living"), 2003
-
-\### Photography by
-
-\- Mike Sinclair
+* Mike Sinclair
