@@ -32,7 +32,6 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-published: false
 
 ---
 * 2005
