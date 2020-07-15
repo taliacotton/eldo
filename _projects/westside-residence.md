@@ -2,29 +2,38 @@
 layout: project
 title: Westside Residence
 position: 
-hero_image: ''
-short-description: With a focus on cubic feet rather than area; the design team created
-  a small box that wasn't dwarfed by it's neighbors, lifting it up to give it a presence.
-description: This new-construction residence in Kansas City’s Westside Neighborhood
-  was both designed and contracted by El Dorado principal, Jamie Darnell, for himself
-  and his family. Elegant and spare, it combines clean lines and durable materials
-  (concrete, corrugated copper, glue-laminated timber, chain link fencing and ipe
-  decking) into a dynamic form that respects both the scale of the neighborhood and
-  the energy of its new residents. The residence is extremely efficient and well lit
-  and it utilizes a Structural Insulated Panel System, which saved labor and material
-  costs during construction and has resulted in significant energy savings throughout
-  the year.
+hero_image: "/v1594823751/eldo/westside_8_zwpsg0.jpg"
+short-description: A small residential box, carefully lit and lifted to give it a
+  presence bigger than its size
+description: "This new residence in Kansas City's Westside neighborhood was both designed
+  and built by its owner for his family of four. Elegant and spare, it combines clean
+  lines and durable materials (concrete, corrugated copper, glue-laminated timber,
+  chain link fencing and ipe decking) into a dynamic form that respects both the scale
+  of the neighborhood and the energy of its new residents.  Care was given to introduce
+  daylight into every space in the house while controlling views both in and out.
+  The form is carefully placed within, and actively engages the site and its surroundings.
+  \n\nThe residence is extremely efficient and well lit. It utilizes a structural
+  insulated panel System for the envelope, saving labor and material costs during
+  construction, and resulting in significant energy savings throughout the year.  "
 related_projects: []
 architecture: true
 curatorial: false
 urban-design: false
 education: false
 fabrication: false
-images: []
+images:
+- "/v1594823750/eldo/westside_3_eldkwn.jpg"
+- "/v1594823750/eldo/westside_1_hyihpb.jpg"
+- "/v1594823751/eldo/westside_7_m5otsl.jpg"
+- "/v1594823751/eldo/westside_5_dxyvxi.jpg"
+- "/v1594823750/eldo/westside_2_j3f4en.jpg"
+- "/v1594823750/eldo/westside_4_s9z4kd.jpg"
+- "/v1594823750/eldo/westside_6_xgwwt2.jpg"
+- "/v1594823750/eldo/westside_9_zmrcfm.jpg"
 images__easier_: []
 images_test: []
 images_old: []
-published: false
+vimeo_link: ''
 
 ---
 * 2006
