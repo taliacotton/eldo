@@ -1,11 +1,10 @@
 ---
 layout: team
 name: Thad Nobuhara
-role: ''
+role: Project Architect
 principal: false
 image: ''
 related_projects: []
-published: false
 
 ---
 Shaped by his background in working with artists, galleries, and collections, as well as his experience with multi-family housing, Thad is passionate about navigating both socially conscious and artistically minded projects with a keen eye in the execution of the built work. He believes in using his skills as an architect to create work that has a positive impact on diverse communities.
