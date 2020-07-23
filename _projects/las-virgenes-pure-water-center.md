@@ -11,7 +11,6 @@ description: |-
 
   This project is the creation of a pure water demonstration facility at the Las Virgnes Municipal Water Department. Minimally constructed within an existing building, the facility is designed to showcase the technology, invert public perceptions about recycled water, and celebrate the potential for independence from an antiquated potable water delivery system.
 images:
-- "/v1593119226/eldo/1807_-_Las_Virgenes_Page_01_sfdcth.jpg"
 - "/v1593118657/eldo/1807_-_Las_Virgenes_Page_03_rjepvm.jpg"
 - "/v1593118657/eldo/1807_-_Las_Virgenes_Page_04_vu2zi6.jpg"
 - "/v1593118658/eldo/1807_-_Las_Virgenes_Page_05_cmxhd9.jpg"
