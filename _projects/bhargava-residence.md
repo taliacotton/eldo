@@ -29,9 +29,9 @@ education: false
 fabrication: true
 images_old: []
 images:
-- "/v1593615364/eldo/_MG_5123_1__luyhbt.jpg"
 - "/v1593615365/eldo/_MG_5141__yqcrav.jpg"
-- "/v1593615370/eldo/_MG_5130__lwu33z.jpg"
+- "/v1593615364/eldo/_MG_5123_1__luyhbt.jpg"
+- "/v1597101750/eldo/_MG_5130__p9dybj.jpg"
 - "/v1593615376/eldo/_MG_5186__btgpyp.jpg"
 - "/v1593615364/eldo/_MG_5103__g6a8s1.jpg"
 - "/v1593615370/eldo/_MG_5078__vncvho.jpg"
