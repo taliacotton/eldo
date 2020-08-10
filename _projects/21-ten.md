@@ -11,8 +11,8 @@ description: |-
 
   21 Ten was part of an overall makeover for the heart of the Library District in downtown Kansas City.
 images:
-- "/v1594846708/eldo/21ten_1_ky4ypg.jpg"
-- "/v1594846708/eldo/21ten_4_gxfje3.jpg"
+- "/v1597079057/eldo/21ten_1_ky4ypg_xquiph.jpg"
+- "/v1597079057/eldo/21ten_4_gxfje3_twxlj0.jpg"
 - "/v1594846708/eldo/21ten_3_jcd06x.jpg"
 related_projects:
 - _projects/park-central-apartments.md
