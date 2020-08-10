@@ -29,13 +29,12 @@ education: false
 fabrication: true
 images_old: []
 images:
+- "/v1597102175/eldo/_MG_5123_1__xdsviz.jpg"
 - "/v1593615365/eldo/_MG_5141__yqcrav.jpg"
-- "/v1593615364/eldo/_MG_5123_1__luyhbt.jpg"
-- "/v1597101750/eldo/_MG_5130__p9dybj.jpg"
 - "/v1593615376/eldo/_MG_5186__btgpyp.jpg"
 - "/v1593615364/eldo/_MG_5103__g6a8s1.jpg"
-- "/v1593615370/eldo/_MG_5078__vncvho.jpg"
-- "/v1593615367/eldo/_MG_5133_1__tp6ey6.jpg"
+- "/v1597102175/eldo/_MG_5078__p1rejo.jpg"
+- "/v1597102174/eldo/_MG_5133_1__koev7w.jpg"
 - "/v1593615364/eldo/_MG_5114_1__fxrx3t.jpg"
 - "/v1593615364/eldo/_MG_5101__ooig9b.jpg"
 - "/v1593615364/eldo/_MG_5068__wt2qxi.jpg"
