@@ -15,13 +15,13 @@ description: "El Dorado worked closely with a group of enthusiastic developers t
   Delaware was featured in the October 2006 issue of “Dwell” magazine."
 images:
 - "/v1594851029/eldo/5-delaware_5_rjkaqg.jpg"
-- "/v1594851029/eldo/5-delaware-house-blacony-portrait_grqzor.jpg"
-- "/v1594851028/eldo/5-delaware_2_qwmafk.jpg"
-- "/v1594851028/eldo/5-delaware_1_lwxner.jpg"
-- "/v1594851029/eldo/5-delaware-house-bedroom_lvl4rb.jpg"
+- "/v1597079974/eldo/5-delaware-house-blacony-portrait_grqzor_obfiag.png"
+- "/v1597079972/eldo/5-delaware_2_qwmafk_npevwv.jpg"
+- "/v1597079972/eldo/5-delaware_1_lwxner_sabjdc.jpg"
+- "/v1597079972/eldo/5-delaware-house-bedroom_lvl4rb_lxjhub.jpg"
 - "/v1594851029/eldo/5-delaware_3_svihzc.jpg"
-- "/v1594851029/eldo/5-delaware-house-exterior-arial-day_s5hovz.jpg"
-- "/v1594851029/eldo/5-delaware-house-exterior-arial_qntseu.jpg"
+- "/v1597079973/eldo/5-delaware-house-exterior-arial-day_s5hovz_mesma1.jpg"
+- "/v1597079973/eldo/5-delaware-house-exterior-arial_qntseu_mlgonk.jpg"
 related_projects:
 - _projects/hughes-residence.md
 - _projects/bhargava-residence.md
