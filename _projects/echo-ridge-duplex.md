@@ -15,7 +15,7 @@ images:
 - "/v1594059940/eldo/Echo_2_xgs9da.jpg"
 - "/v1594059940/eldo/Echo_3_fowvw7.jpg"
 - "/v1594059940/eldo/Echo_4_znqfh6.jpg"
-- "/v1594059937/eldo/Echo_5_k0l1ci.jpg"
+- "/v1597183797/eldo/Echo_5_wnhfeb.jpg"
 - "/v1594059937/eldo/Echo_6_qk2hgg.jpg"
 - "/v1594059938/eldo/Echo_7_wvbx5q.jpg"
 related_projects:
