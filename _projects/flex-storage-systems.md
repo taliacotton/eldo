@@ -20,7 +20,7 @@ images:
 - "/v1593143243/eldo/Flex_2_r7kvc2.jpg"
 - "/v1593143243/eldo/Flex_1_uackmu.jpg"
 - "/v1592604654/eldo/FLEX-12_vkx1cc.jpg"
-- "/v1594060676/eldo/flex_7_prl4j9.jpg"
+- "/v1597184386/eldo/Flex_5_psejto.jpg"
 - "/v1594060676/eldo/flex_8_wdxczf.jpg"
 - "/v1594060676/eldo/flex_9_ozw7ve.jpg"
 - "/v1592604653/eldo/FLEX-11_swjbzr.jpg"
