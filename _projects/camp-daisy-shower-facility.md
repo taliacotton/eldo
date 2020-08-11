@@ -24,12 +24,12 @@ education: true
 fabrication: false
 hero_image: "/v1594059144/eldo/DaisyShower_01_onkq2c.jpg"
 images:
-- "/v1592604615/eldo/CampDaisy-02_eijxpy.jpg"
+- "/v1597174636/eldo/DaisyShower_2_gcgmiu.jpg"
 - "/v1592604492/eldo/CampDaisy-05_cjlwkj.jpg"
 - "/v1592604898/eldo/CampDaisy-09_mfdsoq.jpg"
 - "/v1592604910/eldo/CampDaisy-17_vs4nnk.jpg"
 - "/v1592604901/eldo/CampDaisy-16_advspo.jpg"
-- "/v1592604564/eldo/CampDaisy-15_bbnrj9.jpg"
+- "/v1597174637/eldo/CampDaisy-15_bbnrj9_amhczz.jpg"
 related_projects:
 - _projects/lone-oaks-farm.md
 - _projects/north-forest-trail-biological-pavilion.md
