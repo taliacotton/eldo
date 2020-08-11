@@ -19,7 +19,7 @@ description: |
 images:
 - "/v1593146634/eldo/Holbrook_1_ryf46y.jpg"
 - "/v1593146635/eldo/Holbrook_12_yn1vgb.jpg"
-- "/v1593146634/eldo/Holbrook_7_mjthpo.jpg"
+- "/v1597185032/eldo/hobrook_5_vxrcmn.jpg"
 - "/v1593146634/eldo/Holbrook_2_mhtdxz.jpg"
 - "/v1593146634/eldo/Holbrook_10_qoyoe5.jpg"
 - "/v1593146634/eldo/Holbrook_3_nmtklu.jpg"
