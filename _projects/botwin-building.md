@@ -27,13 +27,13 @@ urban-design: false
 education: false
 fabrication: false
 images:
-- "/v1593471893/eldo/botwin_2_vu5pxo.jpg"
+- "/v1597173950/eldo/sinclair_530306_nxdprs.jpg"
 - "/v1593471893/eldo/botwin_3_yhtbxc.jpg"
 - "/v1592946540/eldo/Botwin_4_b0xaxl.jpg"
 - "/v1592946540/eldo/Botwin_5_p1kbw0.jpg"
-- "/v1592946540/eldo/Botwin_6_zox7t8.jpg"
+- "/v1597173950/eldo/Botwin_6_miegsx.jpg"
 - "/v1592946541/eldo/Botwin_7_zohst5.jpg"
-- "/v1592946541/eldo/Botwin_8_xkqetn.jpg"
+- "/v1597173950/eldo/Botwin_8_jqefzz.jpg"
 - "/v1592946541/eldo/Botwin_9_onjpjx.jpg"
 - "/v1592946541/eldo/Botwin_10_dul5v7.jpg"
 - "/v1592946541/eldo/Botwin_11_d4ulxq.jpg"
