@@ -24,7 +24,7 @@ images:
 - "/v1592879139/eldo/DaisyCabin_3_lrprz4.jpg"
 - "/v1592879139/eldo/DaisyCabin_4_jromtr.jpg"
 - "/v1592879138/eldo/DaisyCabin_5_mseplb.jpg"
-- "/v1592879166/eldo/DaisyCabin_6_f0qetv.jpg"
+- "/v1597174375/eldo/DaisyCabin_6_wwcvfl.jpg"
 vimeo_link: ''
 
 ---
