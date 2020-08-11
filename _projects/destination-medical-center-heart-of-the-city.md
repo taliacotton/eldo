@@ -39,7 +39,7 @@ images:
 - "/v1593178231/eldo/DMC_1_k0lbw7.png"
 - "/v1593178232/eldo/DMC_9_yzcoez.jpg"
 - "/v1593178231/eldo/DMC_7_bsk34t.jpg"
-- "/v1593178392/eldo/DMC_11_udhnby.png"
+- "/v1597183660/eldo/DMC_11_qtftyv.jpg"
 - "/v1593178392/eldo/DMC_12_jqwmfd.png"
 images__easier_: []
 images_test: []
