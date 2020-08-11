@@ -37,7 +37,7 @@ images:
 - "/v1593474484/eldo/byers_1_alcoec.jpg"
 - "/v1593474486/eldo/byers_10_ynxeu7.jpg"
 - "/v1593474484/eldo/byers_3_cs7t9n.jpg"
-- "/v1593474485/eldo/byers_9_krttni.jpg"
+- "/v1597174241/eldo/byers_9_ecbv0g.jpg"
 - "/v1593474484/eldo/byers_2_zcrtvt.jpg"
 - "/v1593474484/eldo/byers_5_hwrads.jpg"
 vimeo_link: ''
