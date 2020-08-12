@@ -23,7 +23,7 @@ education: false
 fabrication: false
 hero_image: "/v1592604761/eldo/KCAIFiber-02_vyf674.jpg"
 images:
-- "/v1592591441/eldo/kcaifiber-01_xdhjls.jpg"
+- "/v1597244024/eldo/kcaifiber-01_xdhjls_be3pmi.jpg"
 - "/v1592604764/eldo/KCAIFiber-09_pprhzl.jpg"
 - "/v1592604792/eldo/KCAIFiber-10_ro8zgv.jpg"
 - "/v1592604796/eldo/KCAIFiber-12_ulnr77.jpg"
