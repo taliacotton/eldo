@@ -40,7 +40,7 @@ images:
 - "/v1593034132/eldo/Shelton_12_pjvbfd.jpg"
 - "/v1592605343/eldo/SheltonMarshallRes_18_qbrcnw.jpg"
 - "/v1593034130/eldo/Shelton_14_af5zw2.jpg"
-- "/v1593034129/eldo/Shelton_15_tmalmz.jpg"
+- "/v1597269569/eldo/Shelton_15_ebhsov.jpg"
 - "/v1593034131/eldo/Shelton_16_larhge.jpg"
 - "/v1592605331/eldo/SheltonMarshallRes_14_kaglk6.jpg"
 - "/v1592605349/eldo/SheltonMarshallRes_13_yenj8x.jpg"
