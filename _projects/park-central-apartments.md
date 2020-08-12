@@ -24,7 +24,7 @@ description: 'Kansas City’s historic Armour Boulevard was designed by the famo
 '
 images:
 - "/v1593050119/eldo/Park_2_j8hddw.jpg"
-- "/v1593050119/eldo/Park_3_nytq1r.jpg"
+- "/v1597266446/eldo/Park_3_t6dxge.jpg"
 - "/v1593050119/eldo/Park_4_owlgig.jpg"
 - "/v1593050119/eldo/Park_5_ui5xqr.jpg"
 - "/v1593050119/eldo/Park_6_hi13b4.jpg"
