@@ -14,7 +14,7 @@ description: Located on the grounds of the Sunset Drive Office Building (SDOB) i
   a connection to the history of the county while maintaining a dialog with the SDOB.
 images:
 - "/v1593053729/eldo/Sunset_2_ycdto1.jpg"
-- "/v1593053729/eldo/Sunset_4_qczz2b.jpg"
+- "/v1597270488/eldo/Sunset_4_guaibw.jpg"
 related_projects: []
 architecture: true
 curatorial: false
