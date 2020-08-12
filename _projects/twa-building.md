@@ -22,13 +22,13 @@ urban-design: false
 education: false
 fabrication: false
 images:
-- "/v1594072376/eldo/twa-10_sxrbjq.jpg"
+- "/v1597265663/eldo/TWA-01_fvpdgb.jpg"
 - "/v1593035540/eldo/TWA_12_wjehfh.jpg"
 - "/v1593035540/eldo/TWA_13_aonwes.jpg"
-- "/v1593035541/eldo/TWA_14_paage9.jpg"
+- "/v1597265665/eldo/TWA_14_tkxyyq.jpg"
 - "/v1594072376/eldo/twa-11_ikhyo1.jpg"
-- "/v1594072378/eldo/twa-13_bph0nr.jpg"
-- "/v1594072376/eldo/twa-12_tnn5qo.jpg"
+- "/v1597265664/eldo/TWA-07_iprucs.jpg"
+- "/v1597265664/eldo/twa-12_yuqzk1.jpg"
 images__easier_: []
 images_test: []
 vimeo_link: ''
