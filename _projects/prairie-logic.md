@@ -13,7 +13,7 @@ images:
 - "/v1593052103/eldo/PrairieLogic_2_pwwodo.jpg"
 - "/v1593052103/eldo/PrairieLogic_3_upm0ir.jpg"
 - "/v1593052103/eldo/PrairieLogic_4_i0l8ou.jpg"
-- "/v1593052104/eldo/PrairieLogic_5_h0efgl.jpg"
+- "/v1597268735/eldo/PrairieLogic_5_xturwa.jpg"
 related_projects: []
 architecture: true
 curatorial: true
