@@ -21,7 +21,7 @@ description: 'Johnson County presented el dorado with a unique challenge: Renova
   the construction of shading elements.'
 images:
 - "/v1594677995/eldo/Johnson_County_Justice_Annex_3_ugh2fq.jpg"
-- "/v1594677996/eldo/Johnson_County_Justice_Annex_4_l79w4h.jpg"
+- "/v1597243798/eldo/Johnson_County_Justice_Annex_4_vwjw8g.jpg"
 - "/v1594677996/eldo/Johnson_County_Justice_Annex_5_cak8sa.jpg"
 - "/v1594677996/eldo/Johnson_County_Justice_Annex_2_after_ttbpsv.jpg"
 related_projects: []
