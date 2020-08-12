@@ -38,7 +38,7 @@ images:
 - "/v1597243556/eldo/interstate_5_slwfy6.jpg"
 - "/v1592604734/eldo/InterstateFlats_6_r95akx.jpg"
 - "/v1592604725/eldo/InterstateFlats_9_wrctwa.jpg"
-- "/v1592955196/eldo/interstate_6_mqetjm.jpg"
+- "/v1597243669/eldo/interstate_6_pyhcgf.jpg"
 - "/v1592955003/eldo/interstate_7_ybtwox.jpg"
 - "/v1592604730/eldo/InterstateFlats_8_eweebl.jpg"
 - "/v1592604735/eldo/InterstateFlats_11_kjwgw9.jpg"
