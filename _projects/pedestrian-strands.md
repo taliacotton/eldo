@@ -17,10 +17,10 @@ images:
 - "/v1593050287/eldo/Strands_1_daafge.jpg"
 - "/v1593050288/eldo/Strands_2_sggljh.jpg"
 - "/v1593050288/eldo/Strands_4_xyiwk6.jpg"
-- "/v1593050288/eldo/Strands_5_prle3b.jpg"
+- "/v1597268546/eldo/Strands_5_prle3b_jtz4ah.jpg"
 - "/v1593050288/eldo/Strands_6_pshv8u.jpg"
 - "/v1593050288/eldo/Strands_7_gocr6q.jpg"
-- "/v1593050288/eldo/Strands_8_ouacac.jpg"
+- "/v1597268571/eldo/Strands_8_o56vlf.jpg"
 - "/v1593050288/eldo/Strands_9_lpwoaw.jpg"
 related_projects: []
 architecture: true
