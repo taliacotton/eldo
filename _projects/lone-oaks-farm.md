@@ -29,7 +29,7 @@ images:
 - "/v1592606825/eldo/utlof_2_pubeo4.png"
 - "/v1593113194/eldo/Lone_Oaks_Youth_Education8_ikdpo4.jpg"
 - "/v1593114000/eldo/20170412_180617_bkum6a.jpg"
-- "/v1593112043/eldo/Farm_Center_Entry_ELDO_wmydne.jpg"
+- "/v1597334477/eldo/Farm_Center_Entry_ELDO_wmydne_afr03a.jpg"
 - "/v1593113761/eldo/Lone_Oaks_Cabins_Page_03_fyluky.jpg"
 - "/v1593113645/eldo/Lone_Oaks_Cabins_Page_05_ctudv5.jpg"
 - "/v1593113565/eldo/Lone_Oaks_Cabins_Page_02_niqwrp.jpg"
