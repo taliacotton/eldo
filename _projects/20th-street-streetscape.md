@@ -20,10 +20,10 @@ description: "El Dorado was selected by the City of Kansas City, Missouri to lea
 images:
 - "/v1592593162/eldo/hero_images/img_1553_nuvujn.jpg"
 - "/v1593473111/eldo/20_1_q3chya.jpg"
-- "/v1593473112/eldo/20_4_dqhjql.jpg"
+- "/v1597329761/eldo/_DSC8323_h0npns.jpg"
 - "/v1593473113/eldo/20_7_yvqscc.jpg"
 - "/v1593473115/eldo/20_3_jr0mop.jpg"
-- "/v1593473112/eldo/20_5_ac3zto.jpg"
+- "/v1597329758/eldo/20_5_ghtwmi.jpg"
 - "/v1593473115/eldo/20_6_jelqwh.jpg"
 - "/v1593096145/eldo/20th_Streetscapesmall_plan_qtubdh.jpg"
 related_projects:
