@@ -40,7 +40,7 @@ images:
 - "/v1592947622/eldo/Boulevard_8_nsrqkk.jpg"
 - "/v1592947622/eldo/Boulevard_9_db3fen.jpg"
 - "/v1592947623/eldo/Boulevard_10_qpkoit.jpg"
-- "/v1592947625/eldo/Boulevard_11_yl8chp.jpg"
+- "/v1597331752/eldo/Boulevard_11_rrox4x.jpg"
 - "/v1592947624/eldo/Boulevard_12_wwsnra.jpg"
 - "/v1592947623/eldo/Boulevard_13_r6qgsn.jpg"
 - "/v1592947623/eldo/Boulevard_14_vgmpq2.jpg"
