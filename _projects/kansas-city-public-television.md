@@ -37,7 +37,7 @@ images:
 - "/v1593145289/eldo/KCPT_5_xsmjli.jpg"
 - "/v1593145290/eldo/KCPT_10_ejkjvg.jpg"
 - "/v1593145289/eldo/KCPT_6_i9onyw.jpg"
-- "/v1593145290/eldo/KCPT_7_plbsqx.jpg"
+- "/v1597334120/eldo/KCPT_7_e6vaop.jpg"
 - "/v1593145290/eldo/KCPT_8_kaurfa.jpg"
 images__easier_: []
 images_test: []
