@@ -9,7 +9,7 @@ description: |-
 
   The design of the labs complement the studios above, by breaking down the barriers between the disciplines and vertically integrating the community of designers. At 70% of the new construction within the expansion, each of the 16 labs act as a hybrid between workshop and classroom, transforming the lab experience into a nurturing environment for learning and exploring. The new Center for Design Excellence within the fab lab offers a flexible space to allow for full-scale mock-ups and a range of uses that permit the students to showcase their work throughout the year.
 images:
-- "/v1592605249/eldo/regnier-05_zaloiz.jpg"
+- "/v1597334259/eldo/regnier-05_zaloiz_zanl9v.jpg"
 - "/v1592605239/eldo/regnier-06_nymcmw.jpg"
 - "/v1593139674/eldo/KState_1_lhovze.png"
 - "/v1593140230/eldo/Kstate_3_mvxgi6.png"
