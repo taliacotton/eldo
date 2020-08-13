@@ -22,7 +22,7 @@ images:
 - "/v1597185032/eldo/hobrook_5_vxrcmn.jpg"
 - "/v1593146634/eldo/Holbrook_2_mhtdxz.jpg"
 - "/v1593146634/eldo/Holbrook_10_qoyoe5.jpg"
-- "/v1593146634/eldo/Holbrook_3_nmtklu.jpg"
+- "/v1597333751/eldo/526123_upoaa5.jpg"
 - "/v1593146634/eldo/Holbrook_5_p9yg1u.jpg"
 related_projects: []
 architecture: false
