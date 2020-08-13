@@ -30,8 +30,8 @@ images:
 - "/v1593104006/eldo/Crossroads_Doors_12_yf4lfq.jpg"
 - "/v1593104005/eldo/Crossroads_Doors_13_symjax.jpg"
 - "/v1593104006/eldo/Crossroads_Doors_14_anlu5m.jpg"
-- "/v1597333155/eldo/_DSC1521_copy_ine6rb_adenen.jpg"
-- "/v1593119452/eldo/_DSC1521_d829ny.jpg"
+- "/v1597333263/eldo/_DSC1521_copy_ine6rb_mrdxam.jpg"
+- "/v1597333263/eldo/_DSC1521_d829ny_a8sdbg.jpg"
 vimeo_link: https://player.vimeo.com/video/432600164
 related_projects:
 - _projects/mass-timber-mockups.md
