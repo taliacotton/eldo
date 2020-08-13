@@ -23,13 +23,13 @@ education: false
 fabrication: false
 images:
 - "/v1594823750/eldo/westside_3_eldkwn.jpg"
-- "/v1594823750/eldo/westside_1_hyihpb.jpg"
+- "/v1597327250/eldo/westside_1_dzoe72.jpg"
 - "/v1594823751/eldo/westside_7_m5otsl.jpg"
 - "/v1594823751/eldo/westside_5_dxyvxi.jpg"
 - "/v1594823750/eldo/westside_2_j3f4en.jpg"
 - "/v1594823750/eldo/westside_4_s9z4kd.jpg"
-- "/v1594823750/eldo/westside_6_xgwwt2.jpg"
-- "/v1594823750/eldo/westside_9_zmrcfm.jpg"
+- "/v1597327245/eldo/westside_6_edtbux.jpg"
+- "/v1597327246/eldo/524705_lrnbxi.jpg"
 images__easier_: []
 images_test: []
 images_old: []
