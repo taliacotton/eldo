@@ -31,9 +31,9 @@ images:
 - "/v1592605604/eldo/VollandStore_5_b5sne2.jpg"
 - "/v1592605617/eldo/VollandStore_4_vfbvfs.jpg"
 - "/v1593043811/eldo/Volland_13_s2k2cz.jpg"
-- "/v1593044050/eldo/Volland_13_mijrid.jpg"
+- "/v1597326513/eldo/Volland_13_mijrid_jkzszu.jpg"
 - "/v1593044050/eldo/Volland_14_pi0fuj.jpg"
-- "/v1593044049/eldo/Volland_15_qqo7ta.jpg"
+- "/v1597326513/eldo/Volland_15_qqo7ta_xqszyp.jpg"
 - "/v1592605615/eldo/VollandStore_8_w9m8do.jpg"
 related_projects:
 - _projects/volland-general-store-fabrication.md
