@@ -28,9 +28,9 @@ images:
 - "/v1593133570/eldo/Market_9_jfqrtx.png"
 - "/v1592605108/eldo/MarketStation-07_f0lomz.jpg"
 - "/v1592605111/eldo/MarketStation-04_kohlsi.jpg"
-- "/v1592605102/eldo/MarketStation-05_i23tpr.jpg"
+- "/v1597334994/eldo/MarketStation-05_i23tpr_f226i0.jpg"
 - "/v1593133388/eldo/Market_6_qjzdox.png"
-- "/v1592605111/eldo/MarketStation-08_dh6gqk.jpg"
+- "/v1597334995/eldo/MarketStation-08_dh6gqk_ribz8e.jpg"
 images__easier_: []
 architecture: true
 curatorial: false
