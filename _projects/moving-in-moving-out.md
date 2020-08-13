@@ -24,7 +24,7 @@ images:
 - "/v1593143451/eldo/MIMO_4_ic8xij.jpg"
 - "/v1593143451/eldo/MIMO_1_nzngqq.jpg"
 - "/v1593143452/eldo/MIMO_8_mgfhna.jpg"
-- "/v1593143451/eldo/MIMO_5_oymmzh.jpg"
+- "/v1597335652/eldo/MIMO_5_de9q9y.jpg"
 - "/v1593143451/eldo/MIMO_3_qatb23.jpg"
 - "/v1593143451/eldo/MIMO_2_kycwdu.jpg"
 related_projects:
