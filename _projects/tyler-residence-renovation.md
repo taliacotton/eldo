@@ -29,14 +29,14 @@ images:
 - "/v1593132315/eldo/Tyler_8_rz20ij.jpg"
 - "/v1593132315/eldo/Tyler_2_nlihqq.jpg"
 - "/v1593132316/eldo/Tyler_10_i8tpr6.jpg"
-- "/v1593132315/eldo/Tyler_3_i3qgvm.jpg"
+- "/v1597433974/eldo/Tyler_3_drvelk.jpg"
 - "/v1593132419/eldo/Tyler_11_od2mlx.jpg"
 - "/v1593132314/eldo/Tyler_6_ojolfd.jpg"
 - "/v1593132315/eldo/Tyler_7_yfaalb.jpg"
 - "/v1593132420/eldo/Tyler_13_nlhysy.jpg"
 - "/v1593132419/eldo/Tyler_12_aaajuh.jpg"
-- "/v1593132314/eldo/Tyler_5_iqxzf8.jpg"
-- "/v1593132316/eldo/Tyler_14_yvrn1q.jpg"
+- "/v1597433973/eldo/Tyler_5_i6n8gm.jpg"
+- "/v1597433973/eldo/Tyler_14_qqehfd.jpg"
 - "/v1593132315/eldo/Tyler_9_bfqpl5.jpg"
 vimeo_link: ''
 
