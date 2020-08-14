@@ -26,7 +26,7 @@ images:
 - "/v1593035540/eldo/TWA_12_wjehfh.jpg"
 - "/v1593035540/eldo/TWA_13_aonwes.jpg"
 - "/v1597265665/eldo/TWA_14_tkxyyq.jpg"
-- "/v1594072376/eldo/twa-11_ikhyo1.jpg"
+- "/v1597433271/eldo/525613_idbnlb.jpg"
 - "/v1597432859/eldo/89632c_rks2jw.jpg"
 - "/v1597265664/eldo/twa-12_yuqzk1.jpg"
 images__easier_: []
