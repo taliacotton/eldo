@@ -23,7 +23,7 @@ fabrication: false
 hero_image: "/v1594139598/eldo/wabaunsee_20_x1kq4s.jpg"
 images:
 - "/v1593041153/eldo/Wabaunsee_1_eteeox.jpg"
-- "/v1593041153/eldo/Wabaunsee_2_g0fmxm.jpg"
+- "/v1597439187/eldo/Wabaunsee_2_qkg0ic.jpg"
 - "/v1593041152/eldo/Wabaunsee_3_zzxoxs.jpg"
 - "/v1593041155/eldo/Wabaunsee_4_dm8wo6.jpg"
 - "/v1593041153/eldo/Wabaunsee_6_tui523.jpg"
