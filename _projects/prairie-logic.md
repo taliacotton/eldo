@@ -9,7 +9,7 @@ description: |-
 
   Prairie Logic is a provocative study in historical displacement and urban juxtaposition: can a historic relic of a past frontier help us re-imagine a new urban frontier amongst our city’s rooftops?
 images:
-- "/v1593052104/eldo/PrairieLogic_1_tx3spw.jpg"
+- "/v1597437469/eldo/PrairieLogic_1_q1kwkq.jpg"
 - "/v1593052103/eldo/PrairieLogic_2_pwwodo.jpg"
 - "/v1593052103/eldo/PrairieLogic_3_upm0ir.jpg"
 - "/v1593052103/eldo/PrairieLogic_4_i0l8ou.jpg"
