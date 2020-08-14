@@ -17,7 +17,7 @@ images:
 - "/v1593116934/eldo/taylor-4_z8exaw.jpg"
 - "/v1593116934/eldo/taylor-3_ejmydx.jpg"
 - "/v1593116934/eldo/taylor-2_wwygvq.jpg"
-- "/v1593116935/eldo/taylor-5_fvrmra.jpg"
+- "/v1597431045/eldo/taylor-5_yimwjd.jpg"
 vimeo_link: ''
 related_projects: []
 architecture: true
