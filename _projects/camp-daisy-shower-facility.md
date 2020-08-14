@@ -24,7 +24,7 @@ education: true
 fabrication: false
 hero_image: "/v1594059144/eldo/DaisyShower_01_onkq2c.jpg"
 images:
-- "/v1597174636/eldo/DaisyShower_2_gcgmiu.jpg"
+- "/v1597442802/eldo/_MG_2973__yann8t.jpg"
 - "/v1592604492/eldo/CampDaisy-05_cjlwkj.jpg"
 - "/v1592604898/eldo/CampDaisy-09_mfdsoq.jpg"
 - "/v1592604910/eldo/CampDaisy-17_vs4nnk.jpg"
