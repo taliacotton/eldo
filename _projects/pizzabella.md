@@ -18,7 +18,7 @@ images:
 - "/v1593473875/eldo/pizza_4_geijav.jpg"
 - "/v1593473875/eldo/pizza_7_uib0ma.jpg"
 - "/v1593473875/eldo/pizza_5_ef6tus.jpg"
-- "/v1593050395/eldo/pizzabella-08_julelc.jpg"
+- "/v1597437842/eldo/pizza_1_d9b9tk.jpg"
 related_projects: []
 architecture: true
 curatorial: false
