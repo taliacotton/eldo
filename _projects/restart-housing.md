@@ -32,7 +32,7 @@ education: false
 fabrication: false
 hero_image: "/v1592593131/eldo/hero_images/restart_1_fdfjem.jpg"
 images:
-- "/v1593032381/eldo/Restart_14_layefw.jpg"
+- "/v1597677333/eldo/Restart_14_l6yrgo.jpg"
 - "/v1592605254/eldo/ReStartHousing-02_c4hvnj.jpg"
 - "/v1592605257/eldo/ReStartHousing-03_clvdxt.jpg"
 - "/v1592605260/eldo/ReStartHousing-04_whxze2.jpg"
