@@ -26,9 +26,9 @@ images:
 - "/v1593044490/eldo/Heartland_8_ppvgfo.jpg"
 - "/v1593044490/eldo/Heartland_9_ejv87h.jpg"
 - "/v1593044491/eldo/Heartland_10_ero2c0.jpg"
-- "/v1593044490/eldo/Heartland_11_tesb21.jpg"
-- "/v1593044491/eldo/Heartland_12_wssj4f.jpg"
-- "/v1593044490/eldo/Heartland_1_ehfmjv.jpg"
+- "/v1597673244/eldo/Heartland_11_pzsqay.jpg"
+- "/v1597673243/eldo/Heartland_12_fw56ht.jpg"
+- "/v1597673247/eldo/Heartland_1_iisozj.jpg"
 - "/v1593044491/eldo/Heartland_14_tgk8pc.jpg"
 - "/v1593044491/eldo/Heartland_15_lzpm9p.jpg"
 related_projects:
