@@ -31,7 +31,7 @@ images:
 - "/v1593132316/eldo/Tyler_10_i8tpr6.jpg"
 - "/v1597433974/eldo/Tyler_3_drvelk.jpg"
 - "/v1593132419/eldo/Tyler_11_od2mlx.jpg"
-- "/v1593132314/eldo/Tyler_6_ojolfd.jpg"
+- "/v1597678001/eldo/Tyler_6_ojolfd_mhknox.jpg"
 - "/v1593132315/eldo/Tyler_7_yfaalb.jpg"
 - "/v1593132420/eldo/Tyler_13_nlhysy.jpg"
 - "/v1593132419/eldo/Tyler_12_aaajuh.jpg"
