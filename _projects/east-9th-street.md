@@ -23,8 +23,8 @@ images:
 - "/v1593613698/eldo/East_Ninth_Landscape_Plan_dr6vn9.jpg"
 - "/v1593613890/eldo/East_Ninth_Stormwater_Plan_p5wmou.jpg"
 - "/v1593614390/eldo/East_Ninth_Street_Sections_gjywkw.jpg"
-- "/v1593612975/eldo/East_Ninth_Turnhalle_kdyfza.jpg"
-- "/v1593612971/eldo/East_Ninth_Boulder_Field_zfrvxk.jpg"
+- "/v1597670296/eldo/East_Ninth_Turnhalle_mac0jc.jpg"
+- "/v1597670295/eldo/East_Ninth_Boulder_Field_zdarqt.jpg"
 - "/v1593612709/eldo/East_Ninth_Murral_ce67sa.jpg"
 related_projects:
 - _projects/destination-medical-center-heart-of-the-city.md
