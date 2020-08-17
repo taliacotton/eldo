@@ -15,7 +15,7 @@ images:
 - "/v1593122424/eldo/_DSC0376___nid3rm.jpg"
 - "/v1593122462/eldo/_DSC0558___zitbgt.jpg"
 - "/v1593122376/eldo/_DSC0429___scnnue.jpg"
-- "/v1593122345/eldo/_DSC0719_1___xbftep.jpg"
+- "/v1597677033/eldo/_DSC0719_1__wyb1q6.jpg"
 - "/v1593122344/eldo/_DSC0624___djt1gy.jpg"
 - "/v1593122411/eldo/_DSC0370___utf4hw.jpg"
 - "/v1593122355/eldo/_DSC0752_1___dg1eyd.jpg"
