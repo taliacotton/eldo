@@ -18,7 +18,7 @@ description: |-
 images:
 - "/v1592590332/eldo/WaldoDuplex_24_wawhuc.jpg"
 - "/v1592590261/eldo/WaldoDuplex_4_y0tjvh.jpg"
-- "/v1592590333/eldo/WaldoDuplex_5_u3xola.jpg"
+- "/v1597676481/eldo/2017_AIA_KC_Awards_Waldo_Duplex_slides_v3_Page_04_zd75ig.jpg"
 - "/v1592590268/eldo/WaldoDuplex_3_h43act.jpg"
 - "/v1592590250/eldo/WaldoDuplex_6_wvjxwd.jpg"
 - "/v1592590339/eldo/WaldoDuplex_8_vgsmgr.jpg"
