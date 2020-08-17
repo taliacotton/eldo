@@ -36,11 +36,11 @@ images:
 - "/v1593178392/eldo/DMC_10_bgg2fx.png"
 - "/v1593178231/eldo/DMC_2_e9ab8z.png"
 - "/v1593178231/eldo/DMC_8_gdgmef.jpg"
-- "/v1593178231/eldo/DMC_1_k0lbw7.png"
+- "/v1597670073/eldo/DMC_1_tghnft.jpg"
 - "/v1593178232/eldo/DMC_9_yzcoez.jpg"
 - "/v1593178231/eldo/DMC_7_bsk34t.jpg"
 - "/v1597183660/eldo/DMC_11_qtftyv.jpg"
-- "/v1593178392/eldo/DMC_12_jqwmfd.png"
+- "/v1597670072/eldo/DMC_12_zhtceg.jpg"
 images__easier_: []
 images_test: []
 vimeo_link: ''
