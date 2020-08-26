@@ -33,8 +33,8 @@ urban-design: false
 education: false
 fabrication: false
 images:
-- "/v1593178392/eldo/DMC_10_bgg2fx.png"
-- "/v1593178231/eldo/DMC_2_e9ab8z.png"
+- "/v1598469707/eldo/SITE_PLAN_DARK_MODE_jkvoqz.jpg"
+- "/v1598469706/eldo/DMC_CONCEPT_SLIDE_DARK_MODE_upwmmq.jpg"
 - "/v1593178231/eldo/DMC_8_gdgmef.jpg"
 - "/v1597670073/eldo/DMC_1_tghnft.jpg"
 - "/v1593178232/eldo/DMC_9_yzcoez.jpg"

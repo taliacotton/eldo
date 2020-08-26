@@ -24,9 +24,9 @@ description: "Currently in the schematic design phase, Cascade Village is a larg
   and interact. We hope that the gathering places will continue the innovative spirit
   of the community beyond the office.  "
 images:
-- "/v1595265114/eldo/cortex_4_xpa40g.jpg"
-- "/v1595264732/eldo/cortex_2_egay0n.jpg"
-- "/v1595264732/eldo/CORTEX_3_i7bklr.jpg"
+- "/v1598469776/eldo/MODULAR_CONSTRUCTION_DIAGRAM_cu9onr.jpg"
+- "/v1598469777/eldo/CORTEX_DIAGRAM_DARK_MODE_mcwqpk.jpg"
+- "/v1598469776/eldo/LEVEL_6-7_PLAN_lshgsc.jpg"
 related_projects:
 - _projects/market-station.md
 - _projects/motley-master-plan.md
