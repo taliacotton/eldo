@@ -28,8 +28,8 @@ fabrication: true
 hero_image: "/v1592593911/eldo/interstate_1_e7sdkv.jpg"
 images:
 - "/v1592604738/eldo/InterstateFlats_14_kfvb4l.jpg"
-- "/v1593183368/eldo/Interstate_Flats_transformationdiagram_bpm_edit-01_ffaohc.png"
-- "/v1592954862/eldo/interstate_3_tevw6t.jpg"
+- "/v1598469297/eldo/interstate_floor_plans-01_d6x8vk.jpg"
+- "/v1598469297/eldo/transformationdiagram_owaeq9.jpg"
 - "/v1592955003/eldo/interstate_9_fyq3yn.jpg"
 - "/v1592604731/eldo/InterstateFlats_3_dg3khd.jpg"
 - "/v1597243151/eldo/IMG_0105-fix_ipjjj8.jpg"
