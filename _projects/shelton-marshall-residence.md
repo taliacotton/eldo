@@ -22,7 +22,7 @@ education: false
 fabrication: false
 hero_image: "/v1592593099/eldo/hero_images/sheltonmarshallres_2_d2apgj.jpg"
 images:
-- "/v1592605303/eldo/SheltonMarshallRes_4_cbnhb6.jpg"
+- "/v1598468051/eldo/SHELTON_RES_Site_PLAN_darkmode_tfry5l.jpg"
 - "/v1593034083/eldo/Shelton_3_yhazut.jpg"
 - "/v1593034086/eldo/Shelton_2_t03vat.jpg"
 - "/v1593034082/eldo/Shelton_4_ew2xg0.jpg"
@@ -30,7 +30,7 @@ images:
 - "/v1592605318/eldo/SheltonMarshallRes_5_vxwsdo.jpg"
 - "/v1592605341/eldo/SheltonMarshallRes_15_ahvg01.jpg"
 - "/v1593034082/eldo/Shelton_5_o6qnfm.jpg"
-- "/v1593034405/eldo/Shelton_21_mhr8vh.jpg"
+- "/v1598468050/eldo/Shelton_21_darkmode_sdoynl.jpg"
 - "/v1593034078/eldo/Shelton_6_haume2.jpg"
 - "/v1593034078/eldo/Shelton_7_ldyvor.jpg"
 - "/v1592605307/eldo/SheltonMarshallRes_9_biabk4.jpg"

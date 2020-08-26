@@ -23,7 +23,7 @@ images:
 - "/v1593640343/eldo/Slender_House19_0323_1900_-_DRAWINGS-6_sfn3ep.jpg"
 - "/v1594054725/eldo/Screen_Shot_2020-07-01_at_5.53.30_PM_e8qalb.png"
 - "/v1593640340/eldo/SlenderHouse_2019AIAKC-4_xfrlxg.jpg"
-- "/v1593640340/eldo/SlenderHouse_2019AIAKC-5_wavtws.jpg"
+- "/v1598468015/eldo/SlenderHouse_2019AIAKC-5_darkmode_qge1rv.jpg"
 - "/v1594054725/eldo/Screen_Shot_2020-07-01_at_5.54.08_PM_wmlvlm.png"
 - "/v1593640340/eldo/Slender_House_canyon_dpdupg.jpg"
 - "/v1594054725/eldo/Screen_Shot_2020-07-01_at_5.53.57_PM_m13du3.png"
