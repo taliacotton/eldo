@@ -2,7 +2,7 @@
 layout: project
 title: A New Home For KCUR 89.3
 position: 
-hero_image: "/v1593098729/eldo/KCUR_New_Build_NIGHT_l30wpi.jpg"
+hero_image: "/v1593098732/eldo/KCUR_New_Build_Aerial_Axon_y6upec.jpg"
 short-description: Inviting critical dialog with a diverse community through design
   and public programming
 description: |-
@@ -16,11 +16,11 @@ description: |-
 
   University officials and KCUR’s leadership team are confident that a well-focused campaign can raise $10 million to pay for a new headquarters that would serve the station and the community for the foreseeable future.
 images:
-- "/v1593098732/eldo/KCUR_New_Build_Aerial_Axon_y6upec.jpg"
 - "/v1593098749/eldo/KCUR_SITE_AERIAL_bjvsko.jpg"
 - "/v1593099177/eldo/KCUR_Adjacency_Diagram_aqayax.png"
 - "/v1593099177/eldo/KCUR_Institutions_sz8klu.png"
 - "/v1593098729/eldo/KCUR_New_Build_2_ihneeu.jpg"
+- "/v1593098729/eldo/KCUR_New_Build_NIGHT_l30wpi.jpg"
 vimeo_link: ''
 related_projects:
 - _projects/kansas-city-art-institute-master-plan.md
