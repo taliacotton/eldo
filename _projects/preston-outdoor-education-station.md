@@ -21,7 +21,7 @@ education: true
 fabrication: false
 hero_image: "/v1592605223/eldo/PrestonOutdoorEducation-15_pjco73.jpg"
 images:
-- "/v1593028300/eldo/Preston_2_h0onxn.jpg"
+- "/v1598468174/eldo/Preston_diagram_darkmode_gq4j9q.jpg"
 - "/v1593028301/eldo/Preston_3_jg5vpk.jpg"
 - "/v1597438532/eldo/Preston_4_txuo6z.jpg"
 - "/v1592605202/eldo/PrestonOutdoorEducation-06_augezy.jpg"
