@@ -19,8 +19,8 @@ description: 'Public Architecture''s 1% for Habitat Initiative matched EL DORADO
   Habitat''s mission to build simple, decent homes and communities for people in need. '
 images:
 - "/v1593044490/eldo/Heartland_6_ielvv3.jpg"
-- "/v1593044489/eldo/Heartland_3_Page_03_mk0gr2.jpg"
-- "/v1593044489/eldo/Heartland_4_acpcx0.jpg"
+- "/v1598469543/eldo/ALLEY_DIAGRAM_DARK_MODE-01_is4udo.jpg"
+- "/v1598469543/eldo/FLOOR_PLAN_DARK_MODE_qbfpq2.jpg"
 - "/v1593044490/eldo/Heartland_5_wnqqlp.jpg"
 - "/v1593044490/eldo/Heartland_7_heufbw.jpg"
 - "/v1593044490/eldo/Heartland_8_ppvgfo.jpg"
