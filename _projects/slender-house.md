@@ -3,7 +3,7 @@ layout: project
 vimeo_link: ''
 title: Slender House
 position: 
-hero_image: "/v1593640343/eldo/SlenderHouse_2019AIAKC-8_psfsox.jpg"
+hero_image: "/v1593640340/eldo/Slender_House_streetside_kjoybs.jpg"
 short-description: Insisting that narrow in-fill lots are actually plenty wide for
   dignified dwellings
 description: "Slender House upends the core constraint of the “too narrow to build
@@ -20,6 +20,7 @@ description: "Slender House upends the core constraint of the “too narrow to b
   and new models of shared/private amenities throughout the entire building and site.
   \n\nFinally, weave into the neighborhood and immediate block context."
 images:
+- "/v1593640343/eldo/SlenderHouse_2019AIAKC-8_psfsox.jpg"
 - "/v1593640343/eldo/Slender_House19_0323_1900_-_DRAWINGS-6_sfn3ep.jpg"
 - "/v1594054725/eldo/Screen_Shot_2020-07-01_at_5.53.30_PM_e8qalb.png"
 - "/v1593640340/eldo/SlenderHouse_2019AIAKC-4_xfrlxg.jpg"
@@ -33,7 +34,6 @@ images:
 - "/v1593640342/eldo/Slender_House_19_0323_1900_-_DRAWINGS-7_sjezrk.jpg"
 - "/v1593640343/eldo/SlenderHouse__Model_hgxmqf.jpg"
 - "/v1593640340/eldo/Slender_House_19_0323_1900_-_DRAWINGS-4_xbsl57.jpg"
-- "/v1593640340/eldo/Slender_House_streetside_kjoybs.jpg"
 related_projects:
 - _projects/300-kansas.md
 - _projects/waldo-duplex.md
