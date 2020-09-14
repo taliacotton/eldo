@@ -24,9 +24,9 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1593702435/eldo/300K_1_acyoge.jpg"
+hero_image: "/v1592946525/eldo/300Kansas_2_xgtmxd.jpg"
 images:
-- "/v1593702435/eldo/300K_2_ckf928.jpg"
+- "/v1592946526/eldo/300Kansas_1_qzkelz.jpg"
 - "/v1593702435/eldo/300K_3_txfixf.jpg"
 vimeo_link: ''
 related_projects:
