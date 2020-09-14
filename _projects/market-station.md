@@ -2,7 +2,7 @@
 layout: project
 title: Market Station
 position: 
-hero_image: "/v1592593181/eldo/hero_images/marketstation-01_pyc7zq.jpg"
+hero_image: "/v1592605109/eldo/MarketStation-06_jae7e0.jpg"
 short-description: Urban design that is crafted.
 description: |-
   In the summer of 2015, Continuum
@@ -22,7 +22,7 @@ description: |-
           sensitive guidelines, freshly re-engaging masonry as an artisan craft through
           careful attention to fenestration and details.
 images:
-- "/v1592605109/eldo/MarketStation-06_jae7e0.jpg"
+- "/v1592593181/eldo/hero_images/marketstation-01_pyc7zq.jpg"
 - "/v1592605112/eldo/MarketStation-03_j0cjyn.jpg"
 - "/v1592605100/eldo/MarketStation-02_zmyjra.jpg"
 - "/v1593133570/eldo/Market_9_jfqrtx.png"
