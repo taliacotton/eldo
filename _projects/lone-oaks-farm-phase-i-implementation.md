@@ -2,7 +2,7 @@
 layout: project
 title: Lone Oaks Farm
 position: 
-hero_image: "/v1600142365/eldo/LoneOaksPav_1_wbzpss.jpg"
+hero_image: "/v1600143306/eldo/LoneOaksPav_1_qdhh3q.jpg"
 short-description: An exploration in a flexible agrarian typology
 description: "The first of multiple phases of design and construction at Lone Oaks
   Farm, the Hunters’ Education Center and Shooting Range brings the ethos and goals
