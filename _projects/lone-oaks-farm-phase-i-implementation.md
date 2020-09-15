@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Lone Oaks Farm Phase I Implementation
+title: Lone Oaks Farm
 position: 
 hero_image: "/v1600104003/eldo/Phase1_6_c86dum.jpg"
 short-description: An exploration in a flexible agrarian typology
