@@ -2,25 +2,22 @@
 layout: project
 title: Market Station
 position: 
-hero_image: "/v1600141496/eldo/Marketstation_1_pvxlme.jpg"
+hero_image: "/v1600141820/eldo/MarketStation_1_sygqjq.jpg"
 short-description: Urban design that is crafted.
-description: |-
-  In the summer of 2015, Continuum
-          Partners contacted EL DORADO with a unique urban design challenge in the Lower
-          Downtown District of Denver: to design an entire city block from the ground
-          up. Continuum had recently completed an innovative adaptive re-use renovation
-          of nearby Union Station as a major downtown mixed-use multi-modal transportation
-          hub, leaving our site, the former downtown bus terminal at 16th and Market,
-          open for new development. Through a rigorous massing and architectural design
-          review process, EL DORADO has worked closely with Continuum’s development
-          models to generate multiple site design iterations, ultimately landing on
-          site strategies that deploy a high concentration of mixed-use urban density
-          fronting Denver’s iconic 16th Street Mall. \n\nThrough careful attention to
-          adjacent urban fabric of secondary arteries, lower density retail and residential
-          has been introduced along Blake Street, Market Street and 17th Street. EL
-          DORADO’s architectural strategies represent thoughtful responses to historically
-          sensitive guidelines, freshly re-engaging masonry as an artisan craft through
-          careful attention to fenestration and details.
+description: 'In the summer of 2015, Continuum Partners contacted El Dorado with a
+  unique urban design challenge in the Lower Downtown District of Denver: to design
+  an entire city block from the ground up. Continuum had recently completed an innovative
+  adaptive re-use renovation of nearby Union Station as a major downtown mixed-use
+  multi-modal transportation hub, leaving our site, the former downtown bus terminal
+  at 16th and Market, open for new development. Through a rigorous massing and architectural
+  design review process, El Dorado has worked closely with Continuum’s development
+  models to generate multiple site design iterations, ultimately landing on site strategies
+  that deploy a high concentration of mixed-use urban density fronting Denver’s iconic
+  16th Street Mall. Through careful attention to adjacent urban fabric of secondary
+  arteries, lower density retail and residential has been introduced along Blake Street,
+  Market Street and 17th Street. El Dorado’s architectural strategies represent thoughtful
+  responses to historically sensitive guidelines, freshly re-engaging masonry as an
+  artisan craft through careful attention to fenestration and details.'
 images:
 - "/v1592593181/eldo/hero_images/marketstation-01_pyc7zq.jpg"
 - "/v1592605112/eldo/MarketStation-03_j0cjyn.jpg"
