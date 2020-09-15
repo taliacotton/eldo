@@ -1,6 +1,6 @@
 ---
 layout: team
-name: Daniel Renner, RA
+name: Daniel Renner, R.A.
 role: Project Architect
 principal: false
 image: ''
