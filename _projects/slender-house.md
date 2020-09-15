@@ -3,7 +3,7 @@ layout: project
 vimeo_link: ''
 title: Slender House
 position: 
-hero_image: "/v1600141466/eldo/Slender_House_streetside_copy_nxpove.jpg"
+hero_image: "/v1600142410/eldo/Slender_1_apnd1h.jpg"
 short-description: Insisting that narrow in-fill lots are actually plenty wide for
   dignified dwellings
 description: "Slender House upends the core constraint of the “too narrow to build
