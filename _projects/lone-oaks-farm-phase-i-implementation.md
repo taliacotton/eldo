@@ -31,7 +31,8 @@ fabrication: false
 images_old: []
 images:
 - "/v1600104186/eldo/Phase1_10_goqowt.jpg"
-- "/v1600104001/eldo/Phase1_2_gjabza.jpg"
+- "/v1600470107/eldo/lof-sectionsandelevations_utlx9j.jpg"
+- "/v1600470108/eldo/lof-planandelevation_i4hurv.jpg"
 - "/v1600104002/eldo/Phase1_9_zj1ugo.jpg"
 - "/v1600104001/eldo/Phase1_8_cgarn8.jpg"
 - "/v1600104003/eldo/Phase1_7_omagoi.jpg"
