@@ -24,9 +24,9 @@ urban-design: false
 education: false
 fabrication: false
 images:
-- "/v1593049586/eldo/Leawood_5_copy_ptujzs.jpg"
-- "/v1593049586/eldo/Leawood_6_dalcst.jpg"
-- "/v1593049586/eldo/Leawood_7_y4obvt.jpg"
+- "/v1600888928/eldo/Leawood_5_darkmode_ztqf8m.jpg"
+- "/v1600888928/eldo/Leawood_6_darkmode_w8k6de.jpg"
+- "/v1600888928/eldo/Leawood_7_darkmode_whxcoa.jpg"
 - "/v1593049587/eldo/Leawood_11_diwr0m.jpg"
 - "/v1593049587/eldo/Leawood_9_lxgicb.jpg"
 - "/v1593049587/eldo/Leawood_8_mtmbv2.jpg"
