@@ -17,7 +17,7 @@ description: "The Main Street Bridge Redux was one of the first in a four-part c
 images:
 - "/v1594071214/eldo/main_1_c19c9x.jpg"
 - "/v1594071214/eldo/main_2_bkp3jy.jpg"
-- "/v1593121429/eldo/MainStreet_3_pmvcvq.png"
+- "/v1600889442/eldo/MainStreet_3_darkmode_yruyu6.jpg"
 - "/v1594071214/eldo/main_5_uwlrrr.jpg"
 - "/v1594071214/eldo/main_3_gy1pbu.jpg"
 related_projects: []
