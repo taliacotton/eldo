@@ -31,10 +31,10 @@ description: "Historically, Albina was a thriving, affordable, and diverse neigh
   involve the community in shaping a place that serves their needs while simultaneously
   considering financially feasible strategies for accomplishing this work over time."
 images:
-- "/v1593201814/eldo/Albina_Workplan_06-15-2020_Page_01_sa6ohq.jpg"
-- "/v1593460631/eldo/Albina_Workplan_06-15-2020_Page_02_aivnj0.jpg"
-- "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_04_mfqzjv.jpg"
-- "/v1593194980/eldo/Albina_Workplan_06-15-2020_Page_05_re11oj.jpg"
+- "/v1600888108/eldo/2004_08_05_2020_Albina_Workplan_Page_1_darkmode_kyiepd.jpg"
+- "/v1600888108/eldo/2004_08_05_2020_Albina_Workplan_Page_2_darkmode_smrlbw.jpg"
+- "/v1600888108/eldo/2004_08_05_2020_Albina_Workplan_Page_4_darkmode_jarx96.jpg"
+- "/v1600888109/eldo/2004_08_05_2020_Albina_Workplan_Page_3_darkmode_jagvs2.jpg"
 related_projects:
 - _projects/troost-troost-troost.md
 - _projects/michael-jones-mckean-the-rainbow.md
