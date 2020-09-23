@@ -31,7 +31,7 @@ fabrication: false
 images_old: []
 images:
 - "/v1593474485/eldo/byers_7_jrmfxy.jpg"
-- "/v1592946594/eldo/Byers_3_tf1mtp.jpg"
+- "/v1600888515/eldo/Site_plan_darkmode_eckf0p.jpg"
 - "/v1593474484/eldo/byers_4_ptx8kz.jpg"
 - "/v1593474484/eldo/byers_6_fmttas.jpg"
 - "/v1593474484/eldo/byers_1_alcoec.jpg"
