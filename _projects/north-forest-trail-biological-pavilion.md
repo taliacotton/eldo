@@ -19,13 +19,13 @@ education: false
 fabrication: false
 hero_image: "/v1592605133/eldo/Bio_4_vcidp8.jpg"
 images:
-- "/v1593026114/eldo/Biopav_2_vrhpte.jpg"
-- "/v1593026113/eldo/Biopav_3_u1drtl.jpg"
+- "/v1600889673/eldo/Biopav_2_darkmode_wuokz9.jpg"
+- "/v1600889672/eldo/Biopav_3_darkmode_p4iczv.jpg"
 - "/v1597434584/eldo/Biopav_4_ysd7ow.jpg"
-- "/v1593026114/eldo/Biopav_5_x6lfny.jpg"
+- "/v1600889673/eldo/Biopav_5_darkmode_isqwcg.jpg"
 - "/v1593026114/eldo/Biopav_6_emeqkr.jpg"
 - "/v1593026114/eldo/Biopav_7_pq6nta.jpg"
-- "/v1593026114/eldo/Biopav_8_bnyhii.jpg"
+- "/v1600889672/eldo/Biopav_8_darkmode_dcjvkf.jpg"
 - "/v1593026114/eldo/Biopav_9_ydz6fv.jpg"
 - "/v1597434580/eldo/Biopav_10_upi9uy.jpg"
 - "/v1597434582/eldo/Biopav_11_dny1qg.jpg"
