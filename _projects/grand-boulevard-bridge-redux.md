@@ -26,9 +26,8 @@ images:
 - "/v1594061452/eldo/grand_2_qfeq1c.jpg"
 - "/v1594061336/eldo/grand_4_usu0f3.jpg"
 - "/v1594061451/eldo/grand_1_zgpjeq.jpg"
-- "/v1593126510/eldo/GrandBLVDRedux_15b_ay0etl.jpg"
-- "/v1593126510/eldo/GrandBLVDRedux_13_osaw4n.jpg"
-- "/v1593126510/eldo/GrandBLVDRedux_20_1_cmecyc.jpg"
+- "/v1600894204/eldo/GrandBLVDRedux_13_usbnhp.jpg"
+- "/v1600894204/eldo/GrandBLVDRedux_20_1_copy_byj4qr.jpg"
 - "/v1594061336/eldo/grand_5_ryuuuy.jpg"
 - "/v1594061336/eldo/grand_3_pj0whm.jpg"
 related_projects:
