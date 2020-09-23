@@ -15,7 +15,7 @@ fabrication: false
 hero_image: "/v1592593100/eldo/hero_images/therainbow_1_tu2sbp.jpg"
 images:
 - "/v1592605408/eldo/TheRainbow_14_ifzixa.jpg"
-- "/v1593099683/eldo/thebluesketch-anythingispossibleEDIT_gjuct7.jpg"
+- "/v1600892327/eldo/TheRainbow_-_AIA_KC_DRAFT.compressed_Page_04_q0avif.jpg"
 - "/v1592605383/eldo/TheRainbow_8_ntb569.jpg"
 - "/v1593099661/eldo/mcgraw-2_xqi6gy.jpg"
 - "/v1593099537/eldo/013_MichaelJonesMcKean_BemisCenter_Event_opuptq.jpg"
