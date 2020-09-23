@@ -16,10 +16,10 @@ urban-design: true
 education: false
 fabrication: false
 images:
-- "/v1593179944/eldo/Motley_3_mjtcm3.png"
-- "/v1593179944/eldo/Motley_4_x9dkf1.png"
-- "/v1593179944/eldo/motley_1_tpyeib.png"
-- "/v1593179944/eldo/Motley_5_medtie.png"
+- "/v1600889561/eldo/Motley_3_darkmode_ik3bwf.jpg"
+- "/v1600889561/eldo/Motley_4_darkmode_cllacc.jpg"
+- "/v1600889561/eldo/Motley_1_darkmode_s56wkm.jpg"
+- "/v1600889561/eldo/Motley_5_darkmode_bhlphy.jpg"
 - "/v1593179944/eldo/Motley_6_dbgona.png"
 - "/v1593179945/eldo/Motley_7_peotuw.png"
 - "/v1593179945/eldo/Motley_8_mrklon.png"
