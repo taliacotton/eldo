@@ -30,7 +30,7 @@ images:
 - "/v1597173950/eldo/sinclair_530306_nxdprs.jpg"
 - "/v1593471893/eldo/botwin_3_yhtbxc.jpg"
 - "/v1592946540/eldo/Botwin_4_b0xaxl.jpg"
-- "/v1592946540/eldo/Botwin_5_p1kbw0.jpg"
+- "/v1600888426/eldo/DIAGRAM_DARKMODE-02_gec5lp.jpg"
 - "/v1597173950/eldo/Botwin_6_miegsx.jpg"
 - "/v1592946541/eldo/Botwin_7_zohst5.jpg"
 - "/v1597173950/eldo/Botwin_8_jqefzz.jpg"

@@ -32,8 +32,8 @@ education: false
 fabrication: false
 images:
 - "/v1592947621/eldo/Boulevard_2_zuox9e.jpg"
-- "/v1592947620/eldo/Boulevard_3_cto5wj.jpg"
 - "/v1592947621/eldo/Boulevard_4_kv1lph.jpg"
+- "/v1600888470/eldo/Boulevard_3_darkmode_hnbyqp.jpg"
 - "/v1592878939/eldo/Boulevard_5_entmf1.jpg"
 - "/v1592947622/eldo/Boulevard_6_j67i1i.jpg"
 - "/v1592947620/eldo/Boulevard_7_ziqupd.jpg"
