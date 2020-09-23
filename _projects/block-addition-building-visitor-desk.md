@@ -12,7 +12,7 @@ description: |-
 images:
 - "/v1593116612/eldo/Bloch_Building_ruz2a2.jpg"
 - "/v1593116317/eldo/DSCN0299_q1kuq4.jpg"
-- "/v1593116273/eldo/7318_07AIAKC_AC_Final_4_i9ycvx.jpg"
+- "/v1600888376/eldo/Botwin_10_copy_f0zbyx.jpg"
 - "/v1593115883/eldo/ALTUTTON_20071002_1281-Edit_vazfc0.jpg"
 - "/v1597330536/eldo/ALTUTTON_20071002_1236-Edit_fpogqe_cl51tu.jpg"
 - "/v1593115883/eldo/ALTUTTON_20071002_1310-Edit_wlwgqm.jpg"
