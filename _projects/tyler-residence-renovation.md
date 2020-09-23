@@ -25,7 +25,7 @@ education: false
 fabrication: false
 images_old: []
 images:
-- "/v1593132316/eldo/Tyler_15_nmq8ob.png"
+- "/v1600889804/eldo/Tyler_15_darkmode_r8j6x5.jpg"
 - "/v1593132315/eldo/Tyler_8_rz20ij.jpg"
 - "/v1593132315/eldo/Tyler_2_nlihqq.jpg"
 - "/v1593132316/eldo/Tyler_10_i8tpr6.jpg"

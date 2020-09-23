@@ -17,7 +17,7 @@ hero_image: "/v1592593112/eldo/hero_images/troostbridge_2_bmal69.jpg"
 images:
 - "/v1597431315/eldo/TroostBridge_11_wwogll_u9f9fm.jpg"
 - "/v1597431314/eldo/TroostBridge_8_crk9y3_evyiun.jpg"
-- "/v1593034940/eldo/Troost_5_o4q1gi.jpg"
+- "/v1600889742/eldo/05_section8_darkmode_icbrrg.jpg"
 - "/v1592605431/eldo/TroostBridge_10_x7ronv.jpg"
 - "/v1593473516/eldo/troost_5_k0v3u5.jpg"
 - "/v1597431315/eldo/TroostBridge_3_wvz4hi_diernh.jpg"
