@@ -19,8 +19,8 @@ description: "The design goal for Hodgdon Powder Facility was to prove that a bu
 images:
 - "/v1593044825/eldo/Hodgdon_2_r1f422.jpg"
 - "/v1593044825/eldo/Hodgdon_3_lt3exe.jpg"
-- "/v1593044825/eldo/Hodgdon_03_lpxweh.jpg"
-- "/v1593044825/eldo/Hodgdon_04_oraums.jpg"
+- "/v1600893744/eldo/Hodgdon_03_copy_lpddhb.jpg"
+- "/v1600893744/eldo/Hodgdon_04_qrdxoc.jpg"
 - "/v1593044825/eldo/Hodgdon_4_yozhxn.jpg"
 - "/v1593044826/eldo/Hodgdon_5_n5lhbp.jpg"
 - "/v1593044826/eldo/Hodgdon_6_orwjeb.jpg"
