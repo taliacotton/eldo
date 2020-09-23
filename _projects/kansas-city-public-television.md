@@ -29,7 +29,7 @@ education: false
 fabrication: true
 images:
 - "/v1593145291/eldo/KCPT_11_k1qjeb.jpg"
-- "/v1593145465/eldo/KCPT_9_t4levq.jpg"
+- "/v1600888845/eldo/KCPT_9-01_dduaii.jpg"
 - "/v1593145289/eldo/KCPT_1_gug3ww.jpg"
 - "/v1593145289/eldo/KCPT_4_hkdn7g.jpg"
 - "/v1593145289/eldo/KCPT_2_mub1t9.jpg"
