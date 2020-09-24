@@ -2,7 +2,7 @@
 layout: project
 title: Paxton Residence
 position: 
-hero_image: ''
+hero_image: "/v1600961639/eldo/paxton_1_a95ttw.jpg"
 short-description: Located in a neighborhood known for its long ranch style houses
   and pitched roofs, our form follows the neighborhood typology and updates it with
   a tight floor plan, careful material detailing and articulated punched openings.
@@ -17,14 +17,22 @@ description: 'The design of Heather Paxton’s home pays homage to Fairway’s p
   leave the remaining site for thoughtful landscape interventions. structures are
   visible in the distance. The materials are simple and durable: reclaimed lumber
   siding, a standing seam metal roof and a stone base.'
-related_projects: []
+related_projects:
+- _projects/aron-levin-residence.md
+- _projects/shelton-marshall-residence.md
+- _projects/tyler-residence-renovation.md
+- _projects/wabaunsee-county-homestead.md
 architecture: true
 curatorial: false
 urban-design: false
 education: false
 fabrication: false
 images_old: []
-images: []
+images:
+- "/v1600961639/eldo/Paxton_2_y5xhak.jpg"
+- "/v1600961639/eldo/Paxton_3_cvvpbu.jpg"
+- "/v1600961639/eldo/Paxton_4_trhi6s.jpg"
+vimeo_link: ''
 published: false
 
 ---
