@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Hardesty Renaissance Mobile Office
+title: Hardesty Renaissance Master Plan
 position: 
 hero_image: ''
 short-description: A WWII quartermaster depot gets a new look
@@ -20,6 +20,7 @@ urban-design: false
 education: false
 fabrication: false
 images_old: []
+vimeo_link: ''
 published: false
 
 ---
