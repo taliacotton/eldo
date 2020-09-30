@@ -1,7 +1,7 @@
 ---
 layout: project
 vimeo_link: https://player.vimeo.com/video/#########
-title: Interstate Flats
+title: Beacon Station
 position: 
 hero_image: ''
 short-description: ''
