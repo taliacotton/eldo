@@ -33,7 +33,7 @@ addresses:
 - address: 510 Avenida Cesar E. Chavez
   phone_number: 816.474.3838
   location_image: "/v1592844858/eldo/Screen_Shot_2020-06-22_at_12.46.41_PM_etsxxn.png"
-- address: 1714 NW Overton, 2A
+- address: 1623 NW Marshall St.
   phone_number: 971.266.8665
   location_image: "/v1592844884/eldo/Screen_Shot_2020-06-22_at_12.47.06_PM_z2mgxt.png"
 cloudinary_url: https://res.cloudinary.com/dvw5z1j6l/image/upload/
