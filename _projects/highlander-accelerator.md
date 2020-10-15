@@ -22,8 +22,8 @@ fabrication: false
 hero_image: "/v1592603688/eldo/highlanderaccelerator-01_rqqmpv.jpg"
 images:
 - "/v1592604673/eldo/HighlanderAccelerator-11_a6zljl.jpg"
-- "/v1600888651/eldo/Highlander_2_darkmode_cjckle.jpg"
 - "/v1592604715/eldo/HighlanderAccelerator-36_yiom2n.jpg"
+- "/v1602798544/eldo/Accelerator_2019AIAKC_Page_03_ztoidi.jpg"
 - "/v1592604705/eldo/HighlanderAccelerator-24_va61va.jpg"
 - "/v1600888651/eldo/Highlander_3_darkmode_hbs3rn.jpg"
 - "/v1592604681/eldo/HighlanderAccelerator-12_dc9qxq.jpg"
