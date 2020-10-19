@@ -15,7 +15,7 @@ description: Camp Prairie Schooner sits high on the bluffs of the Little Blue Ri
   skin. Vibrant endwalls provide way-finding for campers and identify individual troops.
 images:
 - "/v1592607173/eldo/CampPrairie_12_dmb70i.jpg"
-- "/v1592607163/eldo/campprairie_3_ho4jkc.jpg"
+- "/v1603121625/eldo/AXON_WITH_STRUCTURE_bthpgf.jpg"
 - "/v1592607195/eldo/CampPrairie_7_znjtdq.jpg"
 - "/v1592607189/eldo/CampPrairie_3b_b0do4k.jpg"
 - "/v1597671822/eldo/sinclair_55101_tibil2.jpg"
