@@ -58,3 +58,7 @@ vimeo_link: ''
 
 * Mike Sinclair
 * James Woodfill
+
+### Awards
+
+* 2020 AIA Kansas City Design Excellence - Merit Award
