@@ -46,6 +46,7 @@ vimeo_link: ''
 
 * Principal: David Dowell, AIA
 * Project Manager: Chris Burk; Ted Arendes, RA
+* KSU Design+Make Studio
 
 ### Collaborators
 
