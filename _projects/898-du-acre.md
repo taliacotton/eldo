@@ -52,4 +52,4 @@ fabrication: false
 
 ### Awards
 
-* 2020 AIA Kansas City Design Excellence Awards - Concept Honor Award
+* 2020 AIA Kansas City Design Excellence Awards - Concept Honor Award with Credit to: Roger Clark, James Jones, and Erik Loya.
