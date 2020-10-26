@@ -27,7 +27,7 @@ related_projects: []
 architecture: true
 curatorial: false
 urban-design: false
-education: false
+education: true
 fabrication: false
 images_old: []
 vimeo_link: ''
