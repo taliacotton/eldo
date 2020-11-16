@@ -33,7 +33,7 @@ related_projects:
 - _projects/landscaped-edge.md
 - _projects/grand-boulevard-bridge-redux.md
 architecture: false
-curatorial: true
+curatorial: false
 urban-design: true
 education: false
 fabrication: false
