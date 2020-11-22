@@ -4,8 +4,6 @@ function isDST(d) {
     return Math.max(jan, jul) != d.getTimezoneOffset(); 
 }
 
-console.log(isDST(new Date()))
-
 function calcTime(offset) {
     d = new Date();
     utc = d.getTime() + (d.getTimezoneOffset() * 60000);
