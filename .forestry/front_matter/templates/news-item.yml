@@ -16,6 +16,7 @@ fields:
   name: date
   label: Date
 pages:
+- _news/2020-in-review.md
 - _news/a-guide-to-kansas-city-missouri-its-history-its-culture-and-why-it-s-worth-a-closer-look.md
 - _news/albina-vision-community-investment-plan.md
 - _news/another-news-item.md
