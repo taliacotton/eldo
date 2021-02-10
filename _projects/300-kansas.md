@@ -14,11 +14,11 @@ description: "In San Francisco, industrial buildings have uniquely evolved as ci
   and west facades follow the guidelines of the City's unique bay window code, while
   offering a re-imagining of a typical industrial form.  \n\nAlong the north facade,
   exterior curtain wall systems let in generous amounts of natural light and frame
-  views of the San Francisco Bay and downtown skyline.  Perforated metal panels on
+  views of the San Francisco Bay and downtown skyline. Perforated metal panels on
   the east and west sawtooth facades manage the direct light to avoid disruptive glare
-  within the industrial or R&D spades within.  A vegetated, occupied roof top provides
-  stormwater management while offering an uninterrupted view of the urban fabric and
-  topography for which San Francisco is famous."
+  within the industrial or R&D spaces.  A vegetated, occupied roof top provides stormwater
+  management while offering an uninterrupted view of the urban fabric and topography
+  for which San Francisco is famous."
 architecture: true
 curatorial: false
 urban-design: false
