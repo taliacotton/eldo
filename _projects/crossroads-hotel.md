@@ -33,7 +33,7 @@ images:
 - "/v1597240282/eldo/Crossroads_10_qoklli_1_p4edmy.jpg"
 - "/v1592604576/eldo/CrossroadsHotel-16_yqulx3.jpg"
 - "/v1592604586/eldo/CrossroadsHotel-33_ogz3ks.jpg"
-- "/v1600888575/eldo/Crossroads_13_darkmode_ibxcjw.jpg"
+- "/v1621551458/eldo/Crossroads_13_darkmode_vqmnba.jpg"
 - "/v1592604576/eldo/CrossroadsHotel-26_tftdmb.jpg"
 - "/v1592604609/eldo/CrossroadsHotel-22_hv4vdc.jpg"
 - "/v1592604606/eldo/CrossroadsHotel-34_hmyaut.jpg"
