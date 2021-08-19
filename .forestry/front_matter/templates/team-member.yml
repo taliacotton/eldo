@@ -35,7 +35,6 @@ fields:
       section: projects
   label: Related Projects
 pages:
-- _team/Achim Pietzcker.md
 - _team/Baillie Wiebers.md
 - _team/Brock Traffas.md
 - _team/Chris Burk.md
@@ -47,8 +46,6 @@ pages:
 - _team/Joe Kellner.md
 - _team/John Reeves.md
 - _team/John Renner.md
-- _team/Joshua Jewett.md
-- _team/Jubilee Kao.md
 - _team/Kyle Schleicher.md
 - _team/Monica Allen.md
 - _team/Nancy Woodfill.md
