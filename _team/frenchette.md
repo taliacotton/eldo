@@ -5,6 +5,5 @@ role: Controller
 principal: false
 image: ''
 related_projects: []
-published: false
 
 ---
