@@ -36,8 +36,8 @@ images:
 - "/v1600888109/eldo/2004_08_05_2020_Albina_Workplan_Page_3_darkmode_jagvs2.jpg"
 - "/v1600888108/eldo/2004_08_05_2020_Albina_Workplan_Page_4_darkmode_jarx96.jpg"
 related_projects:
+- _projects/highlander-accelerator.md
 - _projects/troost-troost-troost.md
-- _projects/michael-jones-mckean-the-rainbow.md
 - _projects/east-9th-street.md
 - _projects/a-new-home-for-kcur.md
 architecture: false
