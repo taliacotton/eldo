@@ -1,7 +1,7 @@
 ---
 layout: team
 name: Thad Nobuhara
-role: Project Architect
+role: Project Designer
 principal: false
 image: ''
 related_projects: []
