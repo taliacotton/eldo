@@ -1,5 +1,5 @@
 ---
-title: John Smith
+title: David Dowell
 layout: team
 name: David Dowell, AIA
 role: Partner
