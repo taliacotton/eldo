@@ -1,9 +1,10 @@
 ---
 layout: project
-title: Lone Oaks Farm
+title: Lone Oaks Farm Hunter Education Station
 position: 
-hero_image: "/v1600143396/eldo/Loneoakspav_1_qdswge.jpg"
-short-description: An exploration in a flexible agrarian typology
+hero_image: "/v1651707826/eldo/HunterEd_1_srxrgq.jpg"
+short-description: A fresh interpretation of agricultural vernacular sets the stage
+  for a visionary educational institution.
 description: "The first of multiple phases of design and construction at Lone Oaks
   Farm, the Hunters’ Education Center and Shooting Range brings the ethos and goals
   outlined in a previous master plan by this same design team into reality. \n\nLone
@@ -19,10 +20,10 @@ description: "The first of multiple phases of design and construction at Lone Oa
   into the landscape. The result is a high-end experience for area youth, 4-H campers,
   amateur, and competitive shooters."
 related_projects:
-- _projects/university-of-arkansas.md
-- _projects/university-of-tennessee-at-martin-the-garage.md
-- _projects/kansas-city-art-institute-master-plan.md
 - _projects/lone-oaks-farm.md
+- _projects/university-of-tennessee-at-martin-the-garage.md
+- _projects/university-of-arkansas.md
+- _projects/kansas-city-art-institute-master-plan.md
 architecture: true
 curatorial: false
 urban-design: false
@@ -30,18 +31,21 @@ education: false
 fabrication: false
 images_old: []
 images:
-- "/v1600104186/eldo/Phase1_10_goqowt.jpg"
-- "/v1600470107/eldo/lof-sectionsandelevations_utlx9j.jpg"
-- "/v1600470108/eldo/lof-planandelevation_i4hurv.jpg"
-- "/v1600104002/eldo/Phase1_9_zj1ugo.jpg"
-- "/v1600104001/eldo/Phase1_8_cgarn8.jpg"
-- "/v1600104003/eldo/Phase1_7_omagoi.jpg"
-- "/v1600104003/eldo/Phase1_3_dl3jnp.jpg"
-- "/v1600104185/eldo/Phase1_12_cznu9n.jpg"
-- "/v1600104187/eldo/Phase1_1_mnc4ha.jpg"
-- "/v1600104003/eldo/Phase1_4_twuktl.jpg"
-- "/v1600104185/eldo/Phase1_11_dtrk0i.jpg"
-- "/v1600104002/eldo/Phase1_5_s2qmxl.jpg"
+- "/v1651707826/eldo/HunterEd_14_qhsyjd.jpg"
+- "/v1651707825/eldo/HunterEd_16_srwdz6.jpg"
+- "/v1651707824/eldo/HunterEd_3_tilykv.jpg"
+- "/v1651707825/eldo/HunterEd_4_polsnw.jpg"
+- "/v1651707825/eldo/HunterEd_5_gvir3q.jpg"
+- "/v1651707825/eldo/HunterEd_6_xq0esj.jpg"
+- "/v1651707826/eldo/HunterEd_7_q2cwav.jpg"
+- "/v1651707824/eldo/HunterEd_8_aoqp00.jpg"
+- "/v1651707823/eldo/HunterEd_9_g8luhe.jpg"
+- "/v1651707824/eldo/HunterEd_10_s2dqhm.jpg"
+- "/v1651707825/eldo/HunterEd_11_prvndm.jpg"
+- "/v1651707823/eldo/HunterEd_13_oubzev.jpg"
+- "/v1651707824/eldo/HunterEd_12_uwuu7y.jpg"
+- "/v1651707825/eldo/HunterEd_2_krpjtk.jpg"
+- "/v1651707825/eldo/HunterEd_15_hgr0mr.jpg"
 vimeo_link: ''
 
 ---
@@ -63,11 +67,11 @@ vimeo_link: ''
 
 ### Collaborator
 
-* Landscape Architect: Nelson Byrd Woltz Landscape Architects (NBW)
+* Landscape Architect: WMWA Landscape Architects
+* Landscape Architect: Nelson Byrd Woltz (NBW)
+* SSR Engineers
+* Contractor: MSB Construction, LLC
 
 ### Awards
 
-* 2018 Society for College and University Planning (SCUP)
-* Special Citation Award
-* 2018 American Society of Landscape Architects (ASLA) Tennessee
-* Merit Award in Research"
+* 2021 AIA Kansas City Design Excellence, Project of the Year
