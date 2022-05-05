@@ -2,7 +2,7 @@
 layout: project
 title: Market Station
 position: 
-hero_image: "/v1600143250/eldo/MarketStation_1_dhywzg.jpg"
+hero_image: "/v1651710117/eldo/MarketStation_1_j1zakt.jpg"
 short-description: Urban design that is crafted.
 description: 'In the summer of 2015, Continuum Partners contacted El Dorado with a
   unique urban design challenge in the Lower Downtown District of Denver: to design
@@ -19,15 +19,19 @@ description: 'In the summer of 2015, Continuum Partners contacted El Dorado with
   responses to historically sensitive guidelines, freshly re-engaging masonry as an
   artisan craft through careful attention to fenestration and details.'
 images:
-- "/v1592593181/eldo/hero_images/marketstation-01_pyc7zq.jpg"
-- "/v1592605112/eldo/MarketStation-03_j0cjyn.jpg"
-- "/v1592605100/eldo/MarketStation-02_zmyjra.jpg"
-- "/v1600889510/eldo/Market_9_darkmode_xxmebo.jpg"
-- "/v1600889512/eldo/Market_Station_-_Ground_Floor_Plan_darkmode_w7ep6x.jpg"
-- "/v1592605111/eldo/MarketStation-04_kohlsi.jpg"
-- "/v1597334994/eldo/MarketStation-05_i23tpr_f226i0.jpg"
-- "/v1600889510/eldo/Market_6_darkmode_dc3rzd.jpg"
-- "/v1597334995/eldo/MarketStation-08_dh6gqk_ribz8e.jpg"
+- "/v1651710117/eldo/MarketStation_2_empr84.jpg"
+- "/v1651710117/eldo/MarketStation_3_hlnyxr.jpg"
+- "/v1651710117/eldo/MarketStation_4_oemys1.jpg"
+- "/v1651710117/eldo/MarketStation_5_lggpo2.jpg"
+- "/v1651710117/eldo/MarketStation_6_obs6gd.jpg"
+- "/v1651710117/eldo/MarketStation_7_hm1or2.jpg"
+- "/v1651710117/eldo/MarketStation_8_iydvok.jpg"
+- "/v1651710117/eldo/MarketStation_9_ujg9km.jpg"
+- "/v1651710117/eldo/MarketStation_10_qnepyu.jpg"
+- "/v1651710117/eldo/MarketStation_11_gpk8xg.jpg"
+- "/v1651710117/eldo/MarketStation_12_hw1omr.jpg"
+- "/v1651710116/eldo/MarketStation_13_okarjw.jpg"
+- "/v1651710117/eldo/MarketStation_14_wzbnwy.jpg"
 images__easier_: []
 architecture: true
 curatorial: false
@@ -35,8 +39,8 @@ urban-design: true
 education: false
 fabrication: false
 related_projects:
-- _projects/motley-master-plan.md
 - _projects/the-paseo-at-market-station.md
+- _projects/motley-master-plan.md
 images_old: []
 vimeo_link: ''
 
@@ -69,3 +73,7 @@ vimeo_link: ''
 * Denver Business Journal, Kelcey McClung, ["From a Hole in the Ground to 10 stories: Here's the Timetable for Denver's Market Station"](https://www.bizjournals.com/denver/news/2018/08/08/market-station-denver-lodo-timetable.html "From a Hole in the Ground to 10 stories: Here's the Timetable for Denver's Market Station"), 2018
 * Archpaper, Anna Bergren Miller, ["el dorado's Josh Shelton on Merging Facade Design and Fabrication"](https://archpaper.com/2016/07/el-dorado-josh-shelton-facade-design-fabrication/ "el dorado's Josh Shelton on Merging Facade Design and Fabrication"), 2016
 * The Denver Post, Emilie Rusch, ["Market Street Station Sold for Micro Apartments, Office, Retail"](https://www.denverpost.com/2015/12/21/market-street-station-sold-for-micro-apartments-office-retail/ "Market Street Station Sold for Micro Apartments, Office, Retail"), 2016
+
+### Photographer
+
+* David Lepage
