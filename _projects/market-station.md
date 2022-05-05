@@ -2,7 +2,7 @@
 layout: project
 title: Market Station
 position: 
-hero_image: "/v1651710117/eldo/MarketStation_8_iydvok.jpg"
+hero_image: "/v1651783802/eldo/MarketStation_8_ossnrt.jpg"
 short-description: Urban design that is crafted.
 description: 'In the summer of 2015, Continuum Partners contacted El Dorado with a
   unique urban design challenge in the Lower Downtown District of Denver: to design
