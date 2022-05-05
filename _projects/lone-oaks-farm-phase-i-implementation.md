@@ -2,7 +2,7 @@
 layout: project
 title: Lone Oaks Farm Hunter Education Station
 position: 
-hero_image: "/v1651707826/eldo/HunterEd_1_srxrgq.jpg"
+hero_image: "/v1651783743/eldo/HunterEd_1_sidf8z.jpg"
 short-description: A fresh interpretation of agricultural vernacular sets the stage
   for a visionary educational institution.
 description: "The first of multiple phases of design and construction at Lone Oaks
