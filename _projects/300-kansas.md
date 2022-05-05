@@ -1,5 +1,5 @@
 ---
-title: 300 Kansas
+title: Potrero Hill Innovation Center
 position: 1
 layout: project
 short-description: A 21st century light manufacturing building for the emerging economies
@@ -24,7 +24,7 @@ curatorial: false
 urban-design: false
 education: false
 fabrication: false
-hero_image: "/v1600143334/eldo/300_1_odegnf.jpg"
+hero_image: "/v1651783674/eldo/300_1_minree.jpg"
 images:
 - "/v1592946526/eldo/300Kansas_1_qzkelz.jpg"
 - "/v1593702435/eldo/300K_3_txfixf.jpg"
