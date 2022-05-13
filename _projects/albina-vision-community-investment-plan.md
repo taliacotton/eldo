@@ -31,10 +31,25 @@ description: "Historically, Albina was a thriving, affordable, and diverse neigh
   involve the community in shaping a place that serves their needs while simultaneously
   considering financially feasible strategies for accomplishing this work over time."
 images:
-- "/v1600888108/eldo/2004_08_05_2020_Albina_Workplan_Page_1_darkmode_kyiepd.jpg"
-- "/v1600888108/eldo/2004_08_05_2020_Albina_Workplan_Page_2_darkmode_smrlbw.jpg"
-- "/v1600888109/eldo/2004_08_05_2020_Albina_Workplan_Page_3_darkmode_jagvs2.jpg"
-- "/v1600888108/eldo/2004_08_05_2020_Albina_Workplan_Page_4_darkmode_jarx96.jpg"
+- "/v1652469216/eldo/AVT_19_ov43yz.jpg"
+- "/v1652469244/eldo/Albina_aerial_phlebt.jpg"
+- "/v1652469213/eldo/AVT_2_qrhgrg.jpg"
+- "/v1652469212/eldo/AVT_3_tc9lce.jpg"
+- "/v1652469217/eldo/AVT_4_s7ejvu.jpg"
+- "/v1652469216/eldo/AVT_5_mnrala.jpg"
+- "/v1652469217/eldo/AVT_6_g7ehrp.jpg"
+- "/v1652469216/eldo/AVT_7_xrinn2.jpg"
+- "/v1652469213/eldo/AVT_8_oxpabb.jpg"
+- "/v1652469217/eldo/AVT_9_mazovf.jpg"
+- "/v1652469216/eldo/AVT_10_wctuhi.jpg"
+- "/v1652469217/eldo/AVT_11_vvjpyz.jpg"
+- "/v1652469212/eldo/AVT_12-01_yqb3w6.jpg"
+- "/v1652469215/eldo/AVT_13_vjq4cw.jpg"
+- "/v1652469213/eldo/AVT_14_kgw3fq.jpg"
+- "/v1652469213/eldo/AVT_15_pcdg39.jpg"
+- "/v1652469214/eldo/AVT_16_arws6x.jpg"
+- "/v1652469218/eldo/AVT_17_clohyo.jpg"
+- "/v1652469217/eldo/AVT_18_dpqx7u.jpg"
 related_projects:
 - _projects/highlander-accelerator.md
 - _projects/troost-troost-troost.md
