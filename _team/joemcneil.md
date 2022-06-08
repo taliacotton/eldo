@@ -1,6 +1,6 @@
 ---
 layout: team
-name: Joe McNeil
+name: Joe McNeill
 role: Project Designer
 principal: false
 image: ''
