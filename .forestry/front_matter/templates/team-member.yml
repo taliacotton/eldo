@@ -35,6 +35,7 @@ fields:
       section: projects
   label: Related Projects
 pages:
+- _team/Aubrey Moore.md
 - _team/Baillie Wiebers.md
 - _team/Ben Ebbesmeyer.md
 - _team/Brock Traffas.md
